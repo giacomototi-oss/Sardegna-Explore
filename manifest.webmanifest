@@ -1,11 +1,11 @@
 {
-  "name": "Sardegna Explorer Liquid",
+  "name": "Sardegna Explorer Fullscreen",
   "short_name": "Sardegna",
-  "description": "Sardegna Explorer con tema liquid glass e filtro Solo local.",
+  "description": "Sardegna Explorer ottimizzata per iPhone fullscreen e Dynamic Island.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#04110f",
-  "theme_color": "#061c1a",
+  "theme_color": "#04110f",
   "icons": [
     {
       "src": "icons/icon-192.png",
@@ -17,5 +17,11 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "display_override": [
+    "standalone",
+    "fullscreen",
+    "minimal-ui"
+  ],
+  "orientation": "portrait"
 }

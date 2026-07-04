@@ -2,12 +2,12 @@
 <html lang="it">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no" />
   <meta name="theme-color" content="#061c1a" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Sardegna Explorer" />
-  <title>Sardegna Explorer v10</title>
+  <title>Sardegna Explorer v13</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="apple-touch-icon" href="icons/icon-192.png" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
@@ -19,11 +19,19 @@
     <img src="icons/icon-192.png" alt="" />
     <div>
       <h1>Sardegna Explorer</h1>
-      <p>v10 Liquid · Meteo + Foto</p>
+      <p>v13 · iPhone fullscreen</p>
     </div>
   </div>
-  <button id="installBtn" class="ghost hidden">Installa</button>
+  <div class="top-actions"><button id="updateBtn" class="ghost">🔄 Aggiorna app</button><button id="installBtn" class="ghost hidden">Installa</button></div>
 </header>
+
+<div id="updateBanner" class="update-banner hidden">
+  <div>
+    <b>✨ Aggiornamento app</b>
+    <span>Se dopo aver caricato i nuovi file vedi ancora una vecchia versione, premi qui.</span>
+  </div>
+  <button id="updateBannerBtn" class="primary">Aggiorna ora</button>
+</div>
 
 <main>
   <section class="hero">
@@ -129,6 +137,28 @@
     <div id="results" class="cards"></div>
   </section>
 
+
+  <section class="panel favorites-card">
+    <div class="section-head">
+      <h3>⭐ Preferiti</h3>
+      <button id="showFavoritesBtn" class="ghost">Mostra preferiti</button>
+    </div>
+    <p class="muted">Qui trovi le spiagge che hai salvato. Restano anche dopo gli aggiornamenti.</p>
+    <div id="favoritesList" class="cards compact-cards"></div>
+  </section>
+
+  <section class="panel data-card">
+    <h3>🛟 Backup dati personali</h3>
+    <p class="muted">Salva e ripristina preferiti, visitati e note personali. Utile se cambi telefono o reinstalli l’app.</p>
+    <div class="backup-actions">
+      <button id="exportDataBtn" class="ghost">📤 Esporta dati</button>
+      <label class="import-label">
+        📥 Importa dati
+        <input id="importDataInput" type="file" accept="application/json" hidden />
+      </label>
+    </div>
+  </section>
+
   <section class="panel assistant-card">
     <h3>💬 Assistente AI spiagge</h3>
     <p class="muted">Qui puoi scrivere come faresti con me. È separato dalla ricerca principale.</p>
@@ -151,7 +181,7 @@
   <button data-mode="balanced">⚖️<span>Bilanciato</span></button>
   <button data-mode="wow">🏖️<span>Wow</span></button>
   <button data-mode="snorkel">🤿<span>Snorkel</span></button>
-  <button id="navChat">💬<span>AI</span></button>
+  <button id="navFavorites">⭐<span>Preferiti</span></button><button id="navChat">💬<span>AI</span></button>
 </nav>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>

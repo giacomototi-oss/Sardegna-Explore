@@ -1,7 +1,7 @@
 {
-  "name": "Sardegna Explorer Simple AI",
+  "name": "Sardegna Explorer Liquid",
   "short_name": "Sardegna",
-  "description": "Ricerca semplice per spiagge Sardegna con AI meteo e assistente separato.",
+  "description": "Sardegna Explorer con tema liquid glass e filtro Solo local.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#04110f",

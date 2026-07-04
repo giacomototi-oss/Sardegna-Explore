@@ -623,6 +623,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5646,9.805&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -671,6 +672,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.559,9.792&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -760,6 +762,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5808,9.8307&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -852,6 +855,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5891,9.836&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -900,6 +904,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5568,9.7995&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -992,6 +997,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5507,9.8084&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -1086,6 +1092,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5381,9.8042&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo",
@@ -1134,6 +1141,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5415,9.8126&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -1182,6 +1190,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5404,9.8109&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -1275,6 +1284,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5329,9.7899&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -1457,6 +1467,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5372,9.8107&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo",
@@ -1548,6 +1559,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5315,9.821&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo",
@@ -1638,6 +1650,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5087,9.8034&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -1686,6 +1699,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5178,9.8438&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo",
@@ -1735,6 +1749,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5208,9.8474&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo",
@@ -1784,6 +1799,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5234,9.8508&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo",
@@ -1833,6 +1849,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5272,9.8557&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo",
@@ -1972,6 +1989,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5038,9.8009&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -2142,6 +2160,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4939,9.7953&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -2593,6 +2612,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4386,9.784&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -2998,6 +3018,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4232,9.7765&travelmode=driving",
     "tags": [
       "facile",
+      "local",
       "scogli",
       "segreta",
       "snorkeling"
@@ -3091,6 +3112,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4161,9.7754&travelmode=driving",
     "tags": [
       "facile",
+      "local",
       "scogli",
       "segreta",
       "snorkeling",
@@ -3139,6 +3161,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4139,9.7772&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -4588,6 +4611,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3268,9.6841&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -4683,6 +4707,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3169,9.6798&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -4775,6 +4800,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3118,9.6797&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "tranquillo"
@@ -5042,6 +5068,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.276,9.6345&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling"
     ],
@@ -5170,6 +5197,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2656,9.6307&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling",
       "wow"
@@ -5262,6 +5290,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2669,9.6314&travelmode=driving",
     "tags": [
+      "local",
       "segreta",
       "snorkeling"
     ],
@@ -14842,4 +14871,4 @@ window.PLACES = [
     ]
   }
 ];
-window.APP_META = {version:'8.0 Simple AI', updated:'2026-07-04', totalPlaces:332};
+window.APP_META = {version:'10.0 Weather Photos', updated:'2026-07-04', totalPlaces:332};

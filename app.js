@@ -7,7 +7,7 @@ const icon={"Snorkeling elite":"🤿","Snorkeling PRO":"🐠","Calette nascoste"
 const mapsIcon='<svg class="mapicon" viewBox="0 0 24 24"><path fill="#34a853" d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7z"/><circle fill="#fff" cx="12" cy="9" r="2.5"/></svg>';
 const wazeIcon='<svg class="mapicon" viewBox="0 0 24 24"><path fill="#33ccff" d="M20 11.5c0-4.1-3.6-7.5-8-7.5s-8 3.4-8 7.5c0 1.5.5 2.9 1.4 4.1L3 18h3.6c1.4.7 3.2 1 5.4 1 4.4 0 8-3.4 8-7.5z"/><circle cx="9" cy="11" r="1"/><circle cx="15" cy="11" r="1"/><path d="M9 15c2 1 4 1 6 0" stroke="#111" fill="none" stroke-width="1.5"/></svg>';
 
-const DATA_KEYS=["sardegna-v13","sardegna-v11","sardegna-v10","sardegna-v9","sardegna-v8"];
+const DATA_KEYS=["sardegna-v14","sardegna-v11","sardegna-v10","sardegna-v9","sardegna-v8"];
 function collectUserData(){
   const favorites={},visited={},notes={};
   PLACES.forEach(p=>{
@@ -47,7 +47,7 @@ function loadLocal(){
 function saveLocal(){
   try{
     const data=collectUserData();
-    localStorage.setItem("sardegna-v13",JSON.stringify(data));
+    localStorage.setItem("sardegna-v14",JSON.stringify(data));
   }catch(e){}
 }
 function exportUserData(){
@@ -79,7 +79,7 @@ function importUserData(file){
   };
   reader.readAsText(file);
 }
-,visited={},notes={};PLACES.forEach(p=>{if(p.favorite)favorites[p.id]=true;if(p.visited)visited[p.id]=true;if(p.personalNote)notes[p.id]=p.personalNote});localStorage.setItem("sardegna-v13",JSON.stringify({favorites,visited,notes}))}
+,visited={},notes={};PLACES.forEach(p=>{if(p.favorite)favorites[p.id]=true;if(p.visited)visited[p.id]=true;if(p.personalNote)notes[p.id]=p.personalNote});localStorage.setItem("sardegna-v14",JSON.stringify({favorites,visited,notes}))}
 function hav(a,b,c,d){const R=6371,rad=x=>x*Math.PI/180;const dp=rad(c-a),dl=rad(d-b);const q=Math.sin(dp/2)**2+Math.cos(rad(a))*Math.cos(rad(c))*Math.sin(dl/2)**2;return R*2*Math.atan2(Math.sqrt(q),Math.sqrt(1-q))}
 function dist(p){return hav(state.origin.lat,state.origin.lon,p.lat,p.lon)}
 function drive(p){return Math.round((dist(p)*1.38/62)*60+8)}

@@ -1,7 +1,7 @@
 {
   "name": "Sardegna Explorer",
   "short_name": "Sardegna",
-  "description": "Sardegna Explorer v17 con filtro Meteo AI.",
+  "description": "Sardegna Explorer v19 con filtro Consigliati e nuovi luoghi.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#04110f",

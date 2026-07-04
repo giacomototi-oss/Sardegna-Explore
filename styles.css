@@ -203,3 +203,17 @@ main{
   border-color:rgba(253,230,138,.42);
   color:#fff8d6;
 }
+
+/* v18 Snorkeling AI */
+.snorkel-ai{
+  grid-column:1/-1;
+  background:linear-gradient(135deg,rgba(94,234,212,.16),rgba(125,211,252,.10));
+  border-color:rgba(94,234,212,.28);
+}
+
+/* v19 Consigliati */
+.mini-filters label:has(#recommendedOnly:checked){
+  background:linear-gradient(135deg,rgba(253,230,138,.24),rgba(94,234,212,.12));
+  border-color:rgba(253,230,138,.48);
+  color:#fff8d6;
+}

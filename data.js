@@ -38,7 +38,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 59,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.4
   },
   {
     "id": "P0002",
@@ -79,7 +95,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 60,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.6
   },
   {
     "id": "P0003",
@@ -120,7 +152,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.2
   },
   {
     "id": "P0004",
@@ -161,7 +209,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 31,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.1
   },
   {
     "id": "P0005",
@@ -204,7 +268,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 63,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.6
   },
   {
     "id": "P0006",
@@ -246,7 +326,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0007",
@@ -290,7 +386,23 @@ window.PLACES = [
       "acqua",
       "crema solare",
       "scarpe comode"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 65,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.7
   },
   {
     "id": "P0008",
@@ -333,7 +445,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.2
   },
   {
     "id": "P0009",
@@ -375,7 +503,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0010",
@@ -416,7 +560,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 63,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.6
   },
   {
     "id": "P0011",
@@ -458,7 +618,23 @@ window.PLACES = [
       "acqua",
       "crema solare",
       "scarpe comode"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 40,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.4
   },
   {
     "id": "P0012",
@@ -500,7 +676,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0013",
@@ -543,7 +735,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0014",
@@ -585,7 +793,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0015",
@@ -623,6 +847,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5646,9.805&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -634,7 +859,23 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0016",
@@ -672,6 +913,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.559,9.792&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -682,7 +924,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 70,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0017",
@@ -724,7 +982,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0018",
@@ -762,6 +1036,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5808,9.8307&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -772,7 +1047,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.0
   },
   {
     "id": "P0019",
@@ -817,7 +1110,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0020",
@@ -855,6 +1164,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5891,9.836&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -866,7 +1176,23 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0021",
@@ -904,6 +1230,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5568,9.7995&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -914,7 +1241,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0022",
@@ -959,7 +1302,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0023",
@@ -997,6 +1356,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5507,9.8084&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1007,7 +1367,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.0
   },
   {
     "id": "P0024",
@@ -1045,6 +1423,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5368,9.8068&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "tranquillo",
       "wow"
@@ -1054,7 +1433,27 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.3
   },
   {
     "id": "P0025",
@@ -1092,6 +1491,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5381,9.8042&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1103,7 +1503,27 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.6
   },
   {
     "id": "P0026",
@@ -1141,6 +1561,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5415,9.8126&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1152,7 +1573,27 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.4
   },
   {
     "id": "P0027",
@@ -1190,6 +1631,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5404,9.8109&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1201,7 +1643,27 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.3
   },
   {
     "id": "P0028",
@@ -1238,6 +1700,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5329,9.7899&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=40.5329,9.7899&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -1246,7 +1709,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0029",
@@ -1284,6 +1763,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5329,9.7899&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1294,7 +1774,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0030",
@@ -1335,7 +1831,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 40,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.3
   },
   {
     "id": "P0031",
@@ -1373,6 +1885,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.536,9.8085&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "tranquillo",
       "wow"
@@ -1382,7 +1895,27 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.3
   },
   {
     "id": "P0032",
@@ -1420,6 +1953,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5398,9.8158&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "tranquillo",
       "wow"
@@ -1429,7 +1963,27 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 94,
+      "bottom": "Roccia + sabbia",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.0
   },
   {
     "id": "P0033",
@@ -1467,6 +2021,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5372,9.8107&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1479,7 +2034,27 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.6
   },
   {
     "id": "P0034",
@@ -1521,7 +2096,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.8
   },
   {
     "id": "P0035",
@@ -1559,6 +2150,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5315,9.821&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1571,7 +2163,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 92,
+      "bottom": "Roccia + sabbia",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0036",
@@ -1612,7 +2222,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 59,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.2
   },
   {
     "id": "P0037",
@@ -1650,6 +2276,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5087,9.8034&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1661,7 +2288,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.0
   },
   {
     "id": "P0038",
@@ -1699,6 +2344,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5178,9.8438&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1711,7 +2357,27 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0039",
@@ -1749,6 +2415,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5208,9.8474&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1761,7 +2428,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.3
   },
   {
     "id": "P0040",
@@ -1799,6 +2484,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5234,9.8508&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1811,7 +2497,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0041",
@@ -1849,6 +2553,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5272,9.8557&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1861,7 +2566,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0042",
@@ -1906,7 +2629,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0043",
@@ -1944,6 +2683,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5004,9.7998&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -1951,7 +2691,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0044",
@@ -1989,6 +2747,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5038,9.8009&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -1999,7 +2758,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.0
   },
   {
     "id": "P0045",
@@ -2040,7 +2817,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 63,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.6
   },
   {
     "id": "P0046",
@@ -2081,7 +2874,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Sabbia/roccia mista",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.0
   },
   {
     "id": "P0047",
@@ -2122,7 +2931,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.2
   },
   {
     "id": "P0048",
@@ -2160,6 +2985,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4939,9.7953&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -2170,7 +2996,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 76,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
   },
   {
     "id": "P0049",
@@ -2215,7 +3059,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 70,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0050",
@@ -2256,7 +3116,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 65,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.7
   },
   {
     "id": "P0051",
@@ -2294,6 +3170,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.459,9.814&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -2303,7 +3180,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0052",
@@ -2344,7 +3239,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 69,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.7
   },
   {
     "id": "P0053",
@@ -2389,7 +3300,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 70,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.8
   },
   {
     "id": "P0054",
@@ -2427,6 +3354,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4545,9.8106&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -2436,7 +3364,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0055",
@@ -2474,6 +3420,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4565,9.8125&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -2482,7 +3429,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0056",
@@ -2528,7 +3493,23 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0057",
@@ -2566,6 +3547,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4355,9.7824&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -2574,7 +3556,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0058",
@@ -2612,6 +3612,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4386,9.784&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -2622,7 +3623,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0059",
@@ -2660,6 +3679,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4352,9.7848&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -2667,7 +3687,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0060",
@@ -2705,6 +3743,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4355,9.7824&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -2712,7 +3751,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0061",
@@ -2754,7 +3811,23 @@ window.PLACES = [
       "acqua",
       "crema solare",
       "scarpe comode"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 31,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 5.9
   },
   {
     "id": "P0062",
@@ -2797,7 +3870,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0063",
@@ -2842,7 +3931,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0064",
@@ -2884,7 +3989,23 @@ window.PLACES = [
       "acqua",
       "crema solare",
       "scarpe comode"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 63,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.4
   },
   {
     "id": "P0065",
@@ -2922,6 +4043,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4218,9.7749&travelmode=driving",
     "tags": [
+      "consigliata",
       "facile",
       "famosa",
       "scogli",
@@ -2932,7 +4054,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 85,
+      "octopusProbability": 52,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0066",
@@ -2970,6 +4110,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4218,9.7749&travelmode=driving",
     "tags": [
+      "consigliata",
       "facile",
       "scogli",
       "snorkeling"
@@ -2979,7 +4120,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 85,
+      "octopusProbability": 52,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0067",
@@ -3017,6 +4176,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4232,9.7765&travelmode=driving",
     "tags": [
+      "consigliata",
       "facile",
       "local",
       "scogli",
@@ -3028,7 +4188,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 85,
+      "octopusProbability": 52,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0068",
@@ -3073,7 +4251,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0069",
@@ -3111,6 +4305,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4161,9.7754&travelmode=driving",
     "tags": [
+      "consigliata",
       "facile",
       "local",
       "scogli",
@@ -3123,7 +4318,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 85,
+      "octopusProbability": 52,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0070",
@@ -3161,6 +4374,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4139,9.7772&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -3171,7 +4385,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.0
   },
   {
     "id": "P0071",
@@ -3217,7 +4449,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0072",
@@ -3263,7 +4511,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0073",
@@ -3304,7 +4568,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.2
   },
   {
     "id": "P0074",
@@ -3342,6 +4622,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.827,9.7217&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -3350,7 +4631,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
   },
   {
     "id": "P0075",
@@ -3388,6 +4687,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8198,9.6881&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -3397,7 +4697,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0076",
@@ -3435,6 +4751,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8253,9.7268&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "tranquillo",
       "wow"
@@ -3445,7 +4762,27 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
   },
   {
     "id": "P0077",
@@ -3483,6 +4820,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.827,9.7217&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -3491,7 +4829,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0078",
@@ -3536,7 +4892,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0079",
@@ -3581,7 +4953,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0080",
@@ -3626,7 +5014,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0081",
@@ -3664,6 +5070,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8315,9.6978&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -3671,7 +5078,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0082",
@@ -3712,7 +5135,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 45,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.5
   },
   {
     "id": "P0083",
@@ -3750,6 +5189,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8355,9.7021&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -3759,7 +5199,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0084",
@@ -3797,6 +5253,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8336,9.6909&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -3805,7 +5262,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0085",
@@ -3843,6 +5318,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8355,9.7021&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -3850,7 +5326,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0086",
@@ -3896,7 +5388,23 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0087",
@@ -3937,7 +5445,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 31,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.1
   },
   {
     "id": "P0088",
@@ -3979,7 +5503,23 @@ window.PLACES = [
       "acqua",
       "crema solare",
       "scarpe comode"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.2
   },
   {
     "id": "P0089",
@@ -4017,6 +5557,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8482,9.7162&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "tranquillo",
       "wow"
@@ -4027,7 +5568,27 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0090",
@@ -4065,6 +5626,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8636,9.6886&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -4073,7 +5635,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0091",
@@ -4118,7 +5698,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0092",
@@ -4162,7 +5760,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 82,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.8
   },
   {
     "id": "P0093",
@@ -4200,6 +5814,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8601,9.6395&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "tranquillo"
     ],
@@ -4209,7 +5824,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0094",
@@ -4248,6 +5881,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8793,9.7262&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -4257,7 +5891,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0095",
@@ -4295,6 +5949,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8623,9.6312&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -4302,7 +5957,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0096",
@@ -4340,6 +6013,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3394,9.6789&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -4348,7 +6022,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0097",
@@ -4393,7 +6083,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0098",
@@ -4431,6 +6137,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8786,9.6321&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -4438,7 +6145,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0099",
@@ -4476,6 +6201,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3339,9.6817&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "tranquillo"
     ],
@@ -4484,7 +6210,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0100",
@@ -4525,7 +6269,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 40,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.2
   },
   {
     "id": "P0101",
@@ -4564,6 +6324,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8998,9.7049&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -4573,7 +6334,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 90,
+      "bottom": "Roccia + sabbia",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
   },
   {
     "id": "P0102",
@@ -4611,6 +6392,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3268,9.6841&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -4622,7 +6404,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.0
   },
   {
     "id": "P0103",
@@ -4660,6 +6460,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8914,9.6382&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -4669,7 +6470,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0104",
@@ -4707,6 +6526,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3169,9.6798&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -4717,7 +6537,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0105",
@@ -4755,6 +6593,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8914,9.6382&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -4762,7 +6601,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 80,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0106",
@@ -4800,6 +6657,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3118,9.6797&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -4811,7 +6669,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0107",
@@ -4849,6 +6725,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3138,9.6785&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -4856,7 +6733,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 79,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0108",
@@ -4894,6 +6787,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.9147,9.5878&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -4903,7 +6797,27 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
   },
   {
     "id": "P0109",
@@ -4946,7 +6860,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 82,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0110",
@@ -4987,7 +6917,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.0
   },
   {
     "id": "P0111",
@@ -5030,7 +6976,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 82,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0112",
@@ -5068,6 +7030,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.276,9.6345&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling"
@@ -5077,7 +7040,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 70,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0113",
@@ -5118,7 +7097,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 45,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.3
   },
   {
     "id": "P0114",
@@ -5159,7 +7154,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 40,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.4
   },
   {
     "id": "P0115",
@@ -5197,6 +7208,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2656,9.6307&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling",
@@ -5207,7 +7219,27 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0116",
@@ -5245,6 +7277,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2664,9.6295&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -5252,7 +7285,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0117",
@@ -5290,6 +7341,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2669,9.6314&travelmode=driving",
     "tags": [
+      "consigliata",
       "local",
       "segreta",
       "snorkeling"
@@ -5299,7 +7351,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0118",
@@ -5342,7 +7412,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.6
   },
   {
     "id": "P0119",
@@ -5379,11 +7465,29 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.2674,9.6277&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2674,9.6277&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "consigliata"
+    ],
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 59,
+      "octopusProbability": 30,
+      "clarity": 58,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.5
   },
   {
     "id": "P0120",
@@ -5424,7 +7528,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Sabbia/roccia mista",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0121",
@@ -5466,7 +7586,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0122",
@@ -5503,6 +7639,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.9644,9.5851&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=40.9644,9.5851&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -5511,7 +7648,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0123",
@@ -5553,7 +7706,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0124",
@@ -5596,7 +7765,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0125",
@@ -5643,7 +7828,23 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 75,
+      "bottom": "Sabbia/roccia mista",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0126",
@@ -5681,6 +7882,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.9735,9.602&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -5689,7 +7891,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0127",
@@ -5728,6 +7946,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2284,9.6289&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -5737,7 +7956,25 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0128",
@@ -5776,6 +8013,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2264,9.6278&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -5786,7 +8024,25 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 89,
+      "bottom": "Roccia + sabbia",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0129",
@@ -5824,6 +8080,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0035,9.632&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -5832,7 +8089,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
   },
   {
     "id": "P0130",
@@ -5870,6 +8145,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0082,9.6048&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -5878,7 +8154,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0131",
@@ -5916,6 +8208,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.998,9.585&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -5924,7 +8217,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0132",
@@ -5966,7 +8275,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0133",
@@ -6008,7 +8333,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.7
   },
   {
     "id": "P0134",
@@ -6047,6 +8388,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1848,9.6425&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -6056,7 +8398,25 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia + sabbia",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0135",
@@ -6095,6 +8455,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1832,9.6418&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -6104,7 +8465,25 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia + sabbia",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0136",
@@ -6143,6 +8522,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1675,9.6651&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -6153,7 +8533,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0137",
@@ -6192,6 +8592,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1675,9.6651&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -6201,7 +8602,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0138",
@@ -6243,7 +8664,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0139",
@@ -6280,6 +8717,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0308,9.5472&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.0308,9.5472&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -6288,7 +8726,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0140",
@@ -6331,7 +8785,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0141",
@@ -6369,6 +8839,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0316,9.524&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -6377,7 +8848,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0142",
@@ -6420,7 +8907,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.8
   },
   {
     "id": "P0143",
@@ -6459,6 +8962,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1468,9.674&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -6468,7 +8972,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia + sabbia",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0144",
@@ -6507,6 +9031,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1476,9.6729&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -6516,7 +9041,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia + sabbia",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0145",
@@ -6555,6 +9100,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1318,9.6819&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -6564,7 +9110,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0146",
@@ -6603,6 +9169,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1251,9.6805&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -6612,7 +9179,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia + sabbia",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0147",
@@ -6651,6 +9238,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.13,9.681&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -6660,7 +9248,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia + sabbia",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0148",
@@ -6699,6 +9307,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1262,9.6818&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -6708,7 +9317,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.1
   },
   {
     "id": "P0149",
@@ -6746,6 +9375,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0755,9.5445&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -6755,7 +9385,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0150",
@@ -6799,7 +9447,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0151",
@@ -6837,6 +9501,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0834,9.5636&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -6846,7 +9511,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0152",
@@ -6884,6 +9565,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.08,9.539&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -6893,7 +9575,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0153",
@@ -6930,6 +9630,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0834,9.5476&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.0834,9.5476&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -6938,7 +9639,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0154",
@@ -6982,7 +9699,23 @@ window.PLACES = [
       "acqua",
       "crema solare",
       "scarpe comode"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 49,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.6
   },
   {
     "id": "P0155",
@@ -7021,6 +9754,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1087,9.6899&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -7031,7 +9765,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 98,
+      "bottom": "Roccia + sabbia",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0156",
@@ -7070,6 +9824,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1092,9.6912&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -7080,7 +9835,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 98,
+      "bottom": "Roccia + sabbia",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.1
   },
   {
     "id": "P0157",
@@ -7117,6 +9892,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0919,9.5469&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.0919,9.5469&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -7126,7 +9902,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
   },
   {
     "id": "P0158",
@@ -7164,6 +9958,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0919,9.5469&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -7173,7 +9968,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0159",
@@ -7211,6 +10024,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0887,9.5321&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -7219,7 +10033,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0160",
@@ -7261,7 +10091,23 @@ window.PLACES = [
       "acqua",
       "crema solare",
       "scarpe comode"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 40,
+      "bottom": "Sabbia/roccia mista",
+      "level": "Esperto",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.3
   },
   {
     "id": "P0161",
@@ -7302,7 +10148,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 36,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.2
   },
   {
     "id": "P0162",
@@ -7345,7 +10207,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0163",
@@ -7388,7 +10266,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0164",
@@ -7425,6 +10319,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1427,9.5244&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1427,9.5244&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -7433,7 +10328,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0165",
@@ -7470,6 +10381,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1492,9.5307&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1492,9.5307&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -7478,7 +10390,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0166",
@@ -7516,6 +10444,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.0307,9.7072&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -7523,7 +10452,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0167",
@@ -7561,6 +10506,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.0301,9.7079&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling"
     ],
     "kit": [
@@ -7568,7 +10514,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0168",
@@ -7606,6 +10570,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1869,9.4687&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -7615,7 +10580,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 97,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0169",
@@ -7652,6 +10635,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.165,9.4042&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.165,9.4042&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -7660,7 +10644,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0170",
@@ -7703,7 +10705,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.8
   },
   {
     "id": "P0171",
@@ -7746,7 +10764,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0172",
@@ -7787,7 +10821,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 35,
+      "octopusProbability": 10,
+      "clarity": 40,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 6.4
   },
   {
     "id": "P0173",
@@ -7824,6 +10874,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1989,9.4742&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1989,9.4742&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -7833,7 +10884,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
   },
   {
     "id": "P0174",
@@ -7872,6 +10941,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2074,9.4713&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -7883,7 +10953,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0175",
@@ -7920,6 +11010,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2033,9.4719&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2033,9.4719&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -7929,7 +11020,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
   },
   {
     "id": "P0176",
@@ -7966,6 +11075,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1769,9.3897&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1769,9.3897&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -7974,7 +11084,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0177",
@@ -8011,6 +11137,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1687,9.3605&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1687,9.3605&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -8019,7 +11146,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0178",
@@ -8061,7 +11204,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0179",
@@ -8098,6 +11257,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1697,9.3493&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1697,9.3493&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8108,7 +11268,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
   },
   {
     "id": "P0180",
@@ -8146,6 +11324,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2111,9.4573&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -8154,7 +11333,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0181",
@@ -8191,6 +11386,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1802,9.3768&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1802,9.3768&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -8199,7 +11395,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0182",
@@ -8242,7 +11454,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0183",
@@ -8279,6 +11507,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.22,9.4804&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.22,9.4804&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8289,7 +11518,27 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.0
   },
   {
     "id": "P0184",
@@ -8327,6 +11576,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2188,9.4527&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8337,7 +11587,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
   },
   {
     "id": "P0185",
@@ -8375,6 +11643,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1834,9.3556&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8385,7 +11654,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
   },
   {
     "id": "P0186",
@@ -8423,6 +11710,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2071,9.4254&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8432,7 +11720,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0187",
@@ -8470,6 +11774,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2291,9.4526&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8480,7 +11785,25 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 97,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0188",
@@ -8523,7 +11846,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0189",
@@ -8564,7 +11903,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0190",
@@ -8601,6 +11956,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2357,9.3912&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2357,9.3912&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -8609,7 +11965,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0191",
@@ -8652,7 +12024,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0192",
@@ -8689,6 +12077,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.252,9.439&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.252,9.439&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -8697,7 +12086,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0193",
@@ -8734,6 +12139,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2495,9.4262&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2495,9.4262&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -8742,7 +12148,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0194",
@@ -8781,6 +12203,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2325,9.3462&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8791,7 +12214,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
   },
   {
     "id": "P0195",
@@ -8829,6 +12272,7 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=41.2385,9.3608&navigate=yes",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8839,7 +12283,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0196",
@@ -8876,6 +12340,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2458,9.3915&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2458,9.3915&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -8884,7 +12349,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0197",
@@ -8921,6 +12402,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2504,9.4075&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2504,9.4075&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -8929,7 +12411,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0198",
@@ -8967,6 +12465,7 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=41.2405,9.3536&navigate=yes",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -8977,7 +12476,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0199",
@@ -9015,6 +12534,7 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=41.2371,9.3443&navigate=yes",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9025,7 +12545,27 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0200",
@@ -9062,6 +12602,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2508,9.3764&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2508,9.3764&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -9070,7 +12611,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0201",
@@ -9113,7 +12670,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0202",
@@ -9156,7 +12729,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0203",
@@ -9199,7 +12788,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0204",
@@ -9242,7 +12847,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0205",
@@ -9285,7 +12906,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0206",
@@ -9328,7 +12965,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0207",
@@ -9366,6 +13019,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2801,9.3569&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9375,7 +13029,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
   },
   {
     "id": "P0208",
@@ -9413,6 +13085,7 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=41.2851,9.3663&navigate=yes",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9423,7 +13096,25 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0209",
@@ -9461,6 +13152,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.8773,9.6826&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -9469,7 +13161,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0210",
@@ -9508,6 +13216,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2915,9.3747&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9518,7 +13227,25 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
   },
   {
     "id": "P0211",
@@ -9556,6 +13283,7 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=41.2866,9.356&navigate=yes",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9566,7 +13294,25 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0212",
@@ -9604,6 +13350,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0519,8.943&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9613,7 +13360,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0213",
@@ -9652,6 +13415,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0253,8.9112&travelmode=driving",
     "tags": [
       "barca",
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9663,7 +13427,23 @@ window.PLACES = [
       "maschera",
       "scarpe da scoglio",
       "sacca stagna"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0214",
@@ -9706,7 +13486,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0215",
@@ -9749,7 +13545,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0216",
@@ -9791,7 +13603,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0217",
@@ -9834,7 +13662,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0218",
@@ -9872,6 +13716,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2442,9.1431&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9881,7 +13726,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0219",
@@ -9919,6 +13782,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.242,9.1452&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -9929,7 +13793,23 @@ window.PLACES = [
       "scarpe comode",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0220",
@@ -9971,7 +13851,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0221",
@@ -10013,7 +13909,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0222",
@@ -10051,6 +13963,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.8038,9.6829&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -10060,7 +13973,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0223",
@@ -10103,7 +14032,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0224",
@@ -10145,7 +14090,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0225",
@@ -10187,7 +14148,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0226",
@@ -10229,7 +14206,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0227",
@@ -10271,7 +14264,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0228",
@@ -10313,7 +14322,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0229",
@@ -10356,7 +14381,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0230",
@@ -10399,7 +14440,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 81,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.8
   },
   {
     "id": "P0231",
@@ -10442,7 +14499,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0232",
@@ -10484,7 +14557,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0233",
@@ -10522,6 +14611,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.0909,8.4927&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -10530,7 +14620,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0234",
@@ -10567,6 +14673,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.0909,8.4927&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=40.0909,8.4927&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -10575,7 +14682,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0235",
@@ -10617,7 +14740,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0236",
@@ -10663,7 +14802,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0237",
@@ -10706,7 +14861,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0238",
@@ -10749,7 +14920,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0239",
@@ -10791,7 +14978,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0240",
@@ -10834,7 +15037,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0241",
@@ -10876,7 +15095,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0242",
@@ -10918,7 +15153,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0243",
@@ -10961,7 +15212,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0244",
@@ -11003,7 +15270,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0245",
@@ -11045,7 +15328,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0246",
@@ -11083,6 +15382,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0595,8.3028&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -11092,7 +15392,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0247",
@@ -11130,6 +15446,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0855,8.3039&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -11139,7 +15456,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0248",
@@ -11182,7 +15517,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0249",
@@ -11224,7 +15575,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0250",
@@ -11268,7 +15635,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0251",
@@ -11306,6 +15689,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.56,8.1655&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -11314,7 +15698,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0252",
@@ -11357,7 +15757,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0253",
@@ -11395,13 +15811,30 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.9655,8.2118&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "wow"
     ],
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0254",
@@ -11439,13 +15872,30 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.9527,8.4021&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "wow"
     ],
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0255",
@@ -11483,6 +15933,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.968,8.2132&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -11492,7 +15943,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0256",
@@ -11535,7 +16002,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0257",
@@ -11577,7 +16060,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0258",
@@ -11620,7 +16119,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0259",
@@ -11663,7 +16178,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0260",
@@ -11705,7 +16236,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0261",
@@ -11748,7 +16295,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0262",
@@ -11790,7 +16353,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0263",
@@ -11833,7 +16412,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0264",
@@ -11876,7 +16471,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0265",
@@ -11918,7 +16529,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0266",
@@ -11965,7 +16592,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0267",
@@ -12009,7 +16652,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0268",
@@ -12046,6 +16705,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.2243,9.5706&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.2243,9.5706&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -12055,7 +16715,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0269",
@@ -12097,7 +16773,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0270",
@@ -12139,7 +16831,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0271",
@@ -12177,6 +16885,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.205,9.573&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -12186,7 +16895,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0272",
@@ -12228,7 +16953,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 83,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0273",
@@ -12271,7 +17012,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0274",
@@ -12313,7 +17070,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0275",
@@ -12351,6 +17124,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1842,9.3896&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -12360,7 +17134,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0276",
@@ -12402,7 +17192,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0277",
@@ -12439,6 +17245,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1848,9.3472&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1848,9.3472&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -12447,7 +17254,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0278",
@@ -12485,6 +17308,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.15,9.5592&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -12494,7 +17318,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0279",
@@ -12538,7 +17380,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0280",
@@ -12575,6 +17433,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1786,9.3184&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1786,9.3184&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -12583,7 +17442,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0281",
@@ -12620,6 +17495,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1431,9.5561&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1431,9.5561&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -12628,7 +17504,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0282",
@@ -12671,7 +17563,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 59,
+      "octopusProbability": 30,
+      "clarity": 82,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.5
   },
   {
     "id": "P0283",
@@ -12708,6 +17616,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1377,9.5359&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1377,9.5359&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -12716,7 +17625,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0284",
@@ -12758,7 +17683,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0285",
@@ -12805,7 +17746,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0286",
@@ -12842,6 +17799,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1282,9.541&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1282,9.541&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -12850,7 +17808,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0287",
@@ -12893,7 +17867,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0288",
@@ -12936,7 +17926,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0289",
@@ -12979,7 +17985,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0290",
@@ -13017,6 +18039,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1864,9.1657&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -13025,7 +18048,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0291",
@@ -13063,6 +18102,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1215,9.5236&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -13072,7 +18112,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0292",
@@ -13115,7 +18171,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0293",
@@ -13158,7 +18230,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0294",
@@ -13196,6 +18284,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1093,9.5007&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -13205,7 +18294,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0295",
@@ -13248,7 +18353,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0296",
@@ -13290,7 +18411,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0297",
@@ -13332,7 +18469,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 84,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0298",
@@ -13370,6 +18523,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.3735,8.3812&travelmode=driving",
     "tags": [
+      "consigliata",
       "snorkeling",
       "wow"
     ],
@@ -13378,7 +18532,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0299",
@@ -13416,6 +18586,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.3735,8.3812&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -13425,7 +18596,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0300",
@@ -13463,6 +18650,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.3305,8.4213&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -13472,7 +18660,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0301",
@@ -13513,7 +18717,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0302",
@@ -13553,7 +18773,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 59,
+      "octopusProbability": 30,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0303",
@@ -13595,7 +18831,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 81,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.8
   },
   {
     "id": "P0304",
@@ -13638,7 +18890,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0305",
@@ -13680,7 +18948,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0306",
@@ -13724,7 +19008,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0307",
@@ -13767,7 +19067,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0308",
@@ -13809,7 +19125,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
   },
   {
     "id": "P0309",
@@ -13853,7 +19185,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0310",
@@ -13895,7 +19243,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0311",
@@ -13937,7 +19301,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0312",
@@ -13975,6 +19355,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8848,8.8675&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -13984,7 +19365,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 97,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
   },
   {
     "id": "P0313",
@@ -14021,6 +19418,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9372,8.7143&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.9372,8.7143&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -14029,7 +19427,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0314",
@@ -14066,6 +19480,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9131,8.7661&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.9131,8.7661&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -14075,7 +19490,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0315",
@@ -14117,7 +19548,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0316",
@@ -14155,6 +19602,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8928,8.8125&travelmode=driving",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -14164,7 +19612,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
   },
   {
     "id": "P0317",
@@ -14208,7 +19674,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0318",
@@ -14245,6 +19727,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8897,8.8134&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.8897,8.8134&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -14253,7 +19736,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0319",
@@ -14295,7 +19794,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.0
   },
   {
     "id": "P0320",
@@ -14339,7 +19854,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0321",
@@ -14381,7 +19912,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0322",
@@ -14418,6 +19965,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9021,8.7398&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.9021,8.7398&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -14426,7 +19974,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0323",
@@ -14468,7 +20032,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0324",
@@ -14510,7 +20090,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.3
   },
   {
     "id": "P0325",
@@ -14552,7 +20148,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 65,
+      "octopusProbability": 35,
+      "clarity": 85,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 7.9
   },
   {
     "id": "P0326",
@@ -14589,6 +20201,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.899,8.6836&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.899,8.6836&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -14598,7 +20211,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
   },
   {
     "id": "P0327",
@@ -14635,6 +20266,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8995,8.6766&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.8995,8.6766&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -14644,7 +20276,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
   },
   {
     "id": "P0328",
@@ -14681,6 +20331,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9047,8.6527&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.9047,8.6527&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -14690,7 +20341,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0329",
@@ -14732,7 +20399,23 @@ window.PLACES = [
     "kit": [
       "acqua",
       "crema solare"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 71,
+      "octopusProbability": 40,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.2
   },
   {
     "id": "P0330",
@@ -14769,6 +20452,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.0111,8.3788&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.0111,8.3788&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -14777,7 +20461,23 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
   },
   {
     "id": "P0331",
@@ -14814,6 +20514,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8836,8.6579&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.8836,8.6579&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling",
       "wow"
@@ -14823,7 +20524,25 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.8
   },
   {
     "id": "P0332",
@@ -14860,6 +20579,7 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.998,8.398&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.998,8.398&navigate=yes",
     "tags": [
+      "consigliata",
       "famosa",
       "snorkeling"
     ],
@@ -14868,7 +20588,3068 @@ window.PLACES = [
       "crema solare",
       "maschera",
       "scarpe da scoglio"
-    ]
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
+  },
+  {
+    "id": "P0333",
+    "name": "Cala Mudaloru",
+    "category": "Iconiche Golfo Orosei",
+    "type": "Spiaggia",
+    "zone": "Baunei / Golfo di Orosei",
+    "lat": 40.088,
+    "lon": 9.691,
+    "rating": 9.5,
+    "snorkeling": 9.4,
+    "wow": 9.7,
+    "waterColor": 10,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Solo barca/gommone",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Cala molto selvaggia del Golfo; ottima con mare calmo e gommone.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "barca",
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 91,
+      "octopusProbability": 57,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.7
+  },
+  {
+    "id": "P0334",
+    "name": "Portu Pedrosu",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Baunei / Golfo di Orosei",
+    "lat": 40.0926,
+    "lon": 9.6877,
+    "rating": 9.1,
+    "snorkeling": 8.6,
+    "wow": 9.3,
+    "waterColor": 9.5,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Trekking o barca",
+    "walkMin": 50,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Caletta segreta vicino Goloritzé, selvaggia e poco comoda.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "barca",
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 87,
+      "octopusProbability": 53,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.5
+  },
+  {
+    "id": "P0335",
+    "name": "Porto Cuau",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Baunei / Golfo di Orosei",
+    "lat": 40.094,
+    "lon": 9.6834,
+    "rating": 9.0,
+    "snorkeling": 8.4,
+    "wow": 9.2,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Trekking o barca",
+    "walkMin": 55,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piccola insenatura selvaggia nella costa di Baunei.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "barca",
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 85,
+      "octopusProbability": 52,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.4
+  },
+  {
+    "id": "P0336",
+    "name": "Cala Fenile",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Baunei / Golfo di Orosei",
+    "lat": 40.1032,
+    "lon": 9.6827,
+    "rating": 8.9,
+    "snorkeling": 8.2,
+    "wow": 9.1,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero/trekking",
+    "walkMin": 45,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Cala di sassi, accesso da valutare, scarpe consigliate.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 84,
+      "octopusProbability": 51,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.4
+  },
+  {
+    "id": "P0337",
+    "name": "Punta Ispuligi",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Baunei / Golfo di Orosei",
+    "lat": 40.118,
+    "lon": 9.6815,
+    "rating": 9.2,
+    "snorkeling": 9.0,
+    "wow": 9.4,
+    "waterColor": 9.8,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Barca/gommone",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Zona tra Mariolu e Gabbiani, fondali molto belli.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "barca",
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.6
+  },
+  {
+    "id": "P0338",
+    "name": "Grotta del Fico",
+    "category": "Panorami/foto",
+    "type": "Spiaggia",
+    "zone": "Baunei / Golfo di Orosei",
+    "lat": 40.1479,
+    "lon": 9.6687,
+    "rating": 8.8,
+    "snorkeling": 7.5,
+    "wow": 9.0,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Barca/visita guidata",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Grotta famosa tra Cala Mariolu e Cala Biriala; ottima tappa in barca.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "barca",
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 80,
+      "octopusProbability": 48,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
+  },
+  {
+    "id": "P0339",
+    "name": "Grotta del Bue Marino",
+    "category": "Panorami/foto",
+    "type": "Spiaggia",
+    "zone": "Cala Gonone",
+    "lat": 40.2447,
+    "lon": 9.6225,
+    "rating": 8.7,
+    "snorkeling": 7.0,
+    "wow": 8.9,
+    "waterColor": 9.2,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Barca/visita guidata",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Grotta iconica del Golfo di Orosei, raggiungibile via mare.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "barca",
+      "consigliata",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.5
+  },
+  {
+    "id": "P0340",
+    "name": "Cala Brandinchi Nord",
+    "category": "Spiagge Sardegna Nord",
+    "type": "Spiaggia",
+    "zone": "San Teodoro",
+    "lat": 40.8381,
+    "lon": 9.7044,
+    "rating": 9.3,
+    "snorkeling": 7.8,
+    "wow": 9.5,
+    "waterColor": 9.8,
+    "crowd": "Media",
+    "crowdTarget": "Affollato",
+    "access": "Auto + accesso regolato",
+    "walkMin": 5,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Lato nord della Brandinchi, acqua chiarissima.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 82,
+      "octopusProbability": 49,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
+  },
+  {
+    "id": "P0341",
+    "name": "Cala Brandinchi Sud",
+    "category": "Spiagge Sardegna Nord",
+    "type": "Spiaggia",
+    "zone": "San Teodoro",
+    "lat": 40.8323,
+    "lon": 9.6992,
+    "rating": 9.2,
+    "snorkeling": 7.6,
+    "wow": 9.4,
+    "waterColor": 9.8,
+    "crowd": "Media",
+    "crowdTarget": "Affollato",
+    "access": "Auto + accesso regolato",
+    "walkMin": 5,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Lato sud, bello ma molto richiesto in stagione.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 81,
+      "octopusProbability": 48,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
+  },
+  {
+    "id": "P0342",
+    "name": "Salina Bamba",
+    "category": "Spiagge Sardegna Nord",
+    "type": "Spiaggia",
+    "zone": "Capo Coda Cavallo",
+    "lat": 40.824,
+    "lon": 9.7052,
+    "rating": 8.6,
+    "snorkeling": 7.5,
+    "wow": 8.8,
+    "waterColor": 9.2,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 5,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Tra Brandinchi e Coda Cavallo, buona alternativa.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 80,
+      "octopusProbability": 48,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.6
+  },
+  {
+    "id": "P0343",
+    "name": "Punta Est",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Capo Coda Cavallo",
+    "lat": 40.8276,
+    "lon": 9.7244,
+    "rating": 9.1,
+    "snorkeling": 8.8,
+    "wow": 9.3,
+    "waterColor": 9.7,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + sentiero breve",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Punto roccioso panoramico, bello per maschera con mare calmo.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 88,
+      "octopusProbability": 54,
+      "clarity": 97,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.5
+  },
+  {
+    "id": "P0344",
+    "name": "Spiaggia delle Vacche",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Cala Girgolu / Monte Petrosu",
+    "lat": 40.8428,
+    "lon": 9.6796,
+    "rating": 9.2,
+    "snorkeling": 9.0,
+    "wow": 9.4,
+    "waterColor": 9.7,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Sentiero da Cala Girgolu",
+    "walkMin": 20,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Caletta piccola tra rocce modellate, ottima per snorkeling.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 97,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.6
+  },
+  {
+    "id": "P0345",
+    "name": "Sassi Piatti",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Cala Girgolu / Monte Petrosu",
+    "lat": 40.842,
+    "lon": 9.6778,
+    "rating": 9.0,
+    "snorkeling": 8.8,
+    "wow": 9.2,
+    "waterColor": 9.6,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Sentiero da Cala Girgolu",
+    "walkMin": 20,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Rocce piatte e piscine naturali, perfetto con mare calmo.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 88,
+      "octopusProbability": 54,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.5
+  },
+  {
+    "id": "P0346",
+    "name": "Cala Girgolu - Piscine Naturali",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Monte Petrosu",
+    "lat": 40.8435,
+    "lon": 9.6808,
+    "rating": 9.3,
+    "snorkeling": 9.2,
+    "wow": 9.5,
+    "waterColor": 9.8,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + sentiero",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Dedalo di calette e scogliere, acqua limpida e tanti pesci.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 90,
+      "octopusProbability": 56,
+      "clarity": 98,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.6
+  },
+  {
+    "id": "P0347",
+    "name": "Cala Ghjlgolu",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Loiri Porto San Paolo",
+    "lat": 40.8461,
+    "lon": 9.6845,
+    "rating": 9.0,
+    "snorkeling": 9.0,
+    "wow": 9.2,
+    "waterColor": 9.6,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 8,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Ottima per snorkeling facile e vista Tavolara.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 89,
+      "octopusProbability": 55,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.9
+  },
+  {
+    "id": "P0348",
+    "name": "Cala Greca",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Golfo Aranci",
+    "lat": 41.0136,
+    "lon": 9.638,
+    "rating": 8.7,
+    "snorkeling": 8.4,
+    "wow": 8.9,
+    "waterColor": 9.3,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 20,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Cala piccola e rocciosa vicino Cala Moresca.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 85,
+      "octopusProbability": 52,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.3
+  },
+  {
+    "id": "P0349",
+    "name": "Cala Saccaia",
+    "category": "Spiagge Sardegna Nord",
+    "type": "Spiaggia",
+    "zone": "Olbia",
+    "lat": 40.9202,
+    "lon": 9.5172,
+    "rating": 7.4,
+    "snorkeling": 6.5,
+    "wow": 7.6,
+    "waterColor": 8.2,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 5,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Più comoda che spettacolare, utile se sei a Olbia.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [],
+    "snorkelingAI": {
+      "fishProbability": 74,
+      "octopusProbability": 42,
+      "clarity": 82,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.1
+  },
+  {
+    "id": "P0350",
+    "name": "Cala Petra Niedda",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Costa Smeralda",
+    "lat": 41.086,
+    "lon": 9.5354,
+    "rating": 8.8,
+    "snorkeling": 8.0,
+    "wow": 9.0,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Auto + piedi",
+    "walkMin": 12,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Caletta meno nota in area Costa Smeralda.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.3
+  },
+  {
+    "id": "P0351",
+    "name": "Poltu Liccia",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Costa Smeralda",
+    "lat": 41.0989,
+    "lon": 9.5568,
+    "rating": 8.7,
+    "snorkeling": 7.8,
+    "wow": 8.9,
+    "waterColor": 9.2,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Auto + piedi",
+    "walkMin": 10,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Baia più riservata rispetto alle spiagge principali.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 82,
+      "octopusProbability": 49,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.2
+  },
+  {
+    "id": "P0352",
+    "name": "Piccolo Romazzino",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Costa Smeralda",
+    "lat": 41.0878,
+    "lon": 9.5592,
+    "rating": 8.8,
+    "snorkeling": 7.8,
+    "wow": 9.0,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 8,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Versione più raccolta e tranquilla della zona Romazzino.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 82,
+      "octopusProbability": 49,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.3
+  },
+  {
+    "id": "P0353",
+    "name": "Cala Petra Ruja",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Costa Smeralda",
+    "lat": 41.0887,
+    "lon": 9.5321,
+    "rating": 8.7,
+    "snorkeling": 8.0,
+    "wow": 8.9,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Auto + piedi",
+    "walkMin": 10,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Costa Smeralda più appartata, acqua trasparente e rocce.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 83,
+      "octopusProbability": 50,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.3
+  },
+  {
+    "id": "P0354",
+    "name": "Cala Razza di Giunco",
+    "category": "Spiagge Sardegna Nord",
+    "type": "Spiaggia",
+    "zone": "Costa Smeralda / Portisco",
+    "lat": 41.0324,
+    "lon": 9.5419,
+    "rating": 8.2,
+    "snorkeling": 7.2,
+    "wow": 8.4,
+    "waterColor": 8.9,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 5,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Spiaggia carina e comoda in zona Portisco.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 78,
+      "octopusProbability": 46,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.4
+  },
+  {
+    "id": "P0355",
+    "name": "Porto Istana - Lato scogli",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Olbia / Tavolara",
+    "lat": 40.8918,
+    "lon": 9.642,
+    "rating": 8.8,
+    "snorkeling": 8.6,
+    "wow": 9.0,
+    "waterColor": 9.5,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 5,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Lati rocciosi migliori del centro spiaggia per vedere pesci.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 87,
+      "octopusProbability": 53,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
+  },
+  {
+    "id": "P0356",
+    "name": "Porto Taverna - Scogli Nord",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Porto San Paolo",
+    "lat": 40.8658,
+    "lon": 9.6917,
+    "rating": 8.7,
+    "snorkeling": 8.4,
+    "wow": 8.9,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 8,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Vista Tavolara; per maschera meglio gli scogli laterali.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "consigliata",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 85,
+      "octopusProbability": 52,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 8.7
+  },
+  {
+    "id": "P0357",
+    "name": "Molara - Piscine Naturali",
+    "category": "Snorkeling elite",
+    "type": "Spiaggia",
+    "zone": "Area Marina Tavolara",
+    "lat": 40.877,
+    "lon": 9.731,
+    "rating": 9.8,
+    "snorkeling": 10,
+    "wow": 10,
+    "waterColor": 10,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Solo barca/gommone",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piscine naturali leggendarie, acqua cristallina e vita marina.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "barca",
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 10
+  },
+  {
+    "id": "P0358",
+    "name": "Isola Piana - Tavolara",
+    "category": "Snorkeling elite",
+    "type": "Spiaggia",
+    "zone": "Area Marina Tavolara",
+    "lat": 40.8785,
+    "lon": 9.706,
+    "rating": 9.4,
+    "snorkeling": 9.5,
+    "wow": 9.6,
+    "waterColor": 10,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Barca/gommone",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Acque trasparenti, ottima tappa snorkeling.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "tags": [
+      "barca",
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 92,
+      "octopusProbability": 58,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Intermedio",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "recommendedScore": 9.1
+  },
+  {
+    "id": "P0359",
+    "name": "Cala Viola",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Costa Paradiso",
+    "lat": 41.0624,
+    "lon": 8.9368,
+    "rating": 8.5,
+    "snorkeling": 7.4,
+    "wow": 8.7,
+    "waterColor": 9.0,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero breve",
+    "walkMin": 20,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Caletta rocciosa nella zona Costa Paradiso, interessante con mare calmo.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 79,
+      "octopusProbability": 47,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0360",
+    "name": "Cala Sarraina",
+    "category": "Spiagge Sardegna Nord",
+    "type": "Spiaggia",
+    "zone": "Costa Paradiso / Trinità d'Agultu",
+    "lat": 41.0818,
+    "lon": 8.9732,
+    "rating": 8.3,
+    "snorkeling": 7.0,
+    "wow": 8.5,
+    "waterColor": 8.9,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 5,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Baia ampia e scenografica tra rocce rosse.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 77,
+      "octopusProbability": 45,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0361",
+    "name": "Cala Li Cossi - Belvedere",
+    "category": "Panorami/foto",
+    "type": "Spiaggia",
+    "zone": "Costa Paradiso",
+    "lat": 41.0525,
+    "lon": 8.9424,
+    "rating": 9.0,
+    "snorkeling": 6.8,
+    "wow": 9.2,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Sentiero",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Punto panoramico e accesso a una delle baie più belle del nord.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 76,
+      "octopusProbability": 44,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0362",
+    "name": "La Frana",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Stintino",
+    "lat": 40.9875,
+    "lon": 8.2188,
+    "rating": 8.8,
+    "snorkeling": 7.2,
+    "wow": 9.0,
+    "waterColor": 9.6,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero/attenzione accesso",
+    "walkMin": 25,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piccola zona più nascosta vicino Stintino, da verificare sul posto.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 78,
+      "octopusProbability": 46,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0363",
+    "name": "Cala Coscia di Donna",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Stintino",
+    "lat": 40.9608,
+    "lon": 8.2055,
+    "rating": 8.5,
+    "snorkeling": 7.6,
+    "wow": 8.7,
+    "waterColor": 9.2,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 20,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Rocce e acqua trasparente, meno comoda delle spiagge principali.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 81,
+      "octopusProbability": 48,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0364",
+    "name": "Cala del Turco",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Capo Caccia / Alghero",
+    "lat": 40.5843,
+    "lon": 8.1672,
+    "rating": 8.6,
+    "snorkeling": 7.6,
+    "wow": 8.8,
+    "waterColor": 9.2,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 25,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Caletta rocciosa in zona Capo Caccia, bella con mare calmo.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 81,
+      "octopusProbability": 48,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0365",
+    "name": "Cala Inferno",
+    "category": "Panorami/foto",
+    "type": "Spiaggia",
+    "zone": "Capo Caccia",
+    "lat": 40.5525,
+    "lon": 8.166,
+    "rating": 8.7,
+    "snorkeling": 6.8,
+    "wow": 8.9,
+    "waterColor": 9.0,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero impegnativo",
+    "walkMin": 45,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Più panoramica/trekking che spiaggia comoda.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 76,
+      "octopusProbability": 44,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0366",
+    "name": "Cala Sa Cumpultitu",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Bosa / Tresnuraghes",
+    "lat": 40.3208,
+    "lon": 8.4682,
+    "rating": 8.7,
+    "snorkeling": 7.4,
+    "wow": 8.9,
+    "waterColor": 9.1,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piccola cala poco conosciuta nella costa ovest.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 79,
+      "octopusProbability": 47,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0367",
+    "name": "Compoltitu",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Bosa",
+    "lat": 40.3236,
+    "lon": 8.4712,
+    "rating": 8.6,
+    "snorkeling": 7.2,
+    "wow": 8.8,
+    "waterColor": 9.0,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Caletta selvaggia vicino Bosa, attenzione al mare di ponente.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 78,
+      "octopusProbability": 46,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0368",
+    "name": "Cane Malu",
+    "category": "Piscine naturali",
+    "type": "Spiaggia",
+    "zone": "Bosa",
+    "lat": 40.3051,
+    "lon": 8.4854,
+    "rating": 8.6,
+    "snorkeling": 7.8,
+    "wow": 8.8,
+    "waterColor": 9.0,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Sentiero su roccia",
+    "walkMin": 10,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piscina naturale di roccia, spettacolare con mare calmo.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 82,
+      "octopusProbability": 49,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0369",
+    "name": "Capo Pecora",
+    "category": "Spiagge Sardegna Sud-Ovest",
+    "type": "Spiaggia",
+    "zone": "Arbus / Buggerru",
+    "lat": 39.4613,
+    "lon": 8.3983,
+    "rating": 8.4,
+    "snorkeling": 6.8,
+    "wow": 8.6,
+    "waterColor": 8.7,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Auto + piedi",
+    "walkMin": 10,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Costa granitica selvaggia, molto scenografica.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 76,
+      "octopusProbability": 44,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0370",
+    "name": "Cala Lunga Buggerru",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Buggerru",
+    "lat": 39.3981,
+    "lon": 8.3912,
+    "rating": 8.5,
+    "snorkeling": 7.2,
+    "wow": 8.7,
+    "waterColor": 9.0,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero/barca",
+    "walkMin": 25,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Cala rocciosa poco comoda, bella con mare calmo.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "barca",
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 78,
+      "octopusProbability": 46,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0371",
+    "name": "Porto Sciusciau",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Buggerru / Iglesias",
+    "lat": 39.3615,
+    "lon": 8.3899,
+    "rating": 8.3,
+    "snorkeling": 7.1,
+    "wow": 8.5,
+    "waterColor": 8.8,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 25,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piccolo approdo tra scogli e costa mineraria.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 78,
+      "octopusProbability": 46,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0372",
+    "name": "Cala Vinagra",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Isola di San Pietro",
+    "lat": 39.157,
+    "lon": 8.2373,
+    "rating": 8.6,
+    "snorkeling": 7.4,
+    "wow": 8.8,
+    "waterColor": 9.1,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Auto + sentiero",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Cala selvaggia dell'isola di San Pietro.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 79,
+      "octopusProbability": 47,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0373",
+    "name": "Cala Mezzaluna",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Carloforte / San Pietro",
+    "lat": 39.1481,
+    "lon": 8.232,
+    "rating": 8.6,
+    "snorkeling": 7.7,
+    "wow": 8.8,
+    "waterColor": 9.1,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piccola cala scenografica, acqua bella con mare calmo.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 81,
+      "octopusProbability": 48,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0374",
+    "name": "Punta Nera Carloforte",
+    "category": "Spiagge Sardegna Sud-Ovest",
+    "type": "Spiaggia",
+    "zone": "Carloforte",
+    "lat": 39.132,
+    "lon": 8.2873,
+    "rating": 8.0,
+    "snorkeling": 6.8,
+    "wow": 8.2,
+    "waterColor": 8.6,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 5,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Spiaggia comoda sull'isola di San Pietro.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 76,
+      "octopusProbability": 44,
+      "clarity": 86,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0375",
+    "name": "Cala Grotta",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Carloforte / San Pietro",
+    "lat": 39.1419,
+    "lon": 8.2387,
+    "rating": 8.5,
+    "snorkeling": 7.5,
+    "wow": 8.7,
+    "waterColor": 9.0,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 20,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Zona rocciosa e selvaggia, bella per esplorare.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 80,
+      "octopusProbability": 48,
+      "clarity": 90,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0376",
+    "name": "Torre Chia - Caletta",
+    "category": "Spiagge Sardegna Sud",
+    "type": "Spiaggia",
+    "zone": "Chia",
+    "lat": 38.9021,
+    "lon": 8.8781,
+    "rating": 8.6,
+    "snorkeling": 6.8,
+    "wow": 8.8,
+    "waterColor": 9.3,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 8,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Tra Sa Colonia e Su Giudeu, bella vista torre.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 76,
+      "octopusProbability": 44,
+      "clarity": 93,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0377",
+    "name": "Cala del Morto",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Chia",
+    "lat": 38.8872,
+    "lon": 8.8708,
+    "rating": 8.8,
+    "snorkeling": 7.5,
+    "wow": 9.0,
+    "waterColor": 9.5,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Sentiero breve",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piccola e bella, tra le zone più scenografiche di Chia.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 80,
+      "octopusProbability": 48,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0378",
+    "name": "Cala Antoniareddu",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Chia / Capo Spartivento",
+    "lat": 38.8862,
+    "lon": 8.8605,
+    "rating": 8.9,
+    "snorkeling": 7.8,
+    "wow": 9.1,
+    "waterColor": 9.5,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 25,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Caletta più appartata in zona Capo Spartivento.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 82,
+      "octopusProbability": 49,
+      "clarity": 95,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0379",
+    "name": "Capo Ferrato - Piscine",
+    "category": "Piscine naturali",
+    "type": "Spiaggia",
+    "zone": "Muravera / Costa Rei",
+    "lat": 39.2904,
+    "lon": 9.6269,
+    "rating": 8.7,
+    "snorkeling": 7.8,
+    "wow": 8.9,
+    "waterColor": 9.2,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 20,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Rocce e piscine naturali, con mare calmo è molto bello.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 82,
+      "octopusProbability": 49,
+      "clarity": 92,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0380",
+    "name": "Cala Sa Figu Capo Ferrato",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Capo Ferrato",
+    "lat": 39.3039,
+    "lon": 9.6208,
+    "rating": 8.6,
+    "snorkeling": 7.7,
+    "wow": 8.8,
+    "waterColor": 9.1,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Caletta tranquilla e rocciosa nella zona Capo Ferrato.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 81,
+      "octopusProbability": 48,
+      "clarity": 91,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0381",
+    "name": "Porto Corallo - Scogli Nord",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Villaputzu",
+    "lat": 39.4422,
+    "lon": 9.6425,
+    "rating": 8.1,
+    "snorkeling": 7.8,
+    "wow": 8.3,
+    "waterColor": 8.8,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Auto + piedi",
+    "walkMin": 10,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Scogli laterali più interessanti della spiaggia principale.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 82,
+      "octopusProbability": 49,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0382",
+    "name": "Cala Murtas Sud",
+    "category": "Spiagge Sardegna Sud-Est",
+    "type": "Spiaggia",
+    "zone": "Quirra / Villaputzu",
+    "lat": 39.534,
+    "lon": 9.6378,
+    "rating": 8.3,
+    "snorkeling": 6.5,
+    "wow": 8.5,
+    "waterColor": 8.8,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Auto + piedi",
+    "walkMin": 10,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Spiaggia lunga e selvaggia, attenzione ad accessi e ordinanze.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 74,
+      "octopusProbability": 42,
+      "clarity": 88,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0383",
+    "name": "Porto Santoru",
+    "category": "Spiagge Sardegna Est",
+    "type": "Spiaggia",
+    "zone": "Lanusei / Tertenia",
+    "lat": 39.6518,
+    "lon": 9.6767,
+    "rating": 8.2,
+    "snorkeling": 6.8,
+    "wow": 8.4,
+    "waterColor": 8.7,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Auto + piedi",
+    "walkMin": 10,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Costa selvaggia dell'Ogliastra meridionale.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 76,
+      "octopusProbability": 44,
+      "clarity": 87,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "acqua bassa vicino riva",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0384",
+    "name": "Cala Niedda Tertenia",
+    "category": "Calette nascoste",
+    "type": "Spiaggia",
+    "zone": "Tertenia",
+    "lat": 39.6955,
+    "lon": 9.67,
+    "rating": 8.3,
+    "snorkeling": 7.2,
+    "wow": 8.5,
+    "waterColor": 8.9,
+    "crowd": "Media",
+    "crowdTarget": "Tranquillo",
+    "access": "Sentiero",
+    "walkMin": 15,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0-5 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "L1 Local",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Piccola caletta rocciosa, da verificare accesso.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "consigliata",
+      "local",
+      "segreta",
+      "snorkeling"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 78,
+      "octopusProbability": 46,
+      "clarity": 89,
+      "bottom": "Roccia/scogli",
+      "level": "Principiante",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0385",
+    "name": "Cala Mariolu - Arco lato nord",
+    "category": "Snorkeling elite",
+    "type": "Spiaggia",
+    "zone": "Baunei / Golfo di Orosei",
+    "lat": 40.1261,
+    "lon": 9.6798,
+    "rating": 9.8,
+    "snorkeling": 10,
+    "wow": 10,
+    "waterColor": 10,
+    "crowd": "Media",
+    "crowdTarget": "Affollato",
+    "access": "Barca/gommone",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Punto più scenografico e fotografato di Mariolu.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "barca",
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 95,
+      "octopusProbability": 60,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0386",
+    "name": "Cala Biriala - Grotta lato sud",
+    "category": "Snorkeling elite",
+    "type": "Spiaggia",
+    "zone": "Baunei / Golfo di Orosei",
+    "lat": 40.1455,
+    "lon": 9.6751,
+    "rating": 9.8,
+    "snorkeling": 9.6,
+    "wow": 10,
+    "waterColor": 10,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Barca/gommone",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Fondali e pareti spettacolari, top con mare calmo.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "barca",
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 93,
+      "octopusProbability": 58,
+      "clarity": 100,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali",
+        "stelle marine occasionali",
+        "seppie occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0387",
+    "name": "Cala Luna - Grotte",
+    "category": "Spiagge Sardegna Est",
+    "type": "Spiaggia",
+    "zone": "Golfo di Orosei",
+    "lat": 40.2265,
+    "lon": 9.6282,
+    "rating": 9.5,
+    "snorkeling": 8.2,
+    "wow": 9.7,
+    "waterColor": 9.6,
+    "crowd": "Media",
+    "crowdTarget": "Affollato",
+    "access": "Barca/trekking",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Parte più iconica di Cala Luna, molto fotografata.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "barca",
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 84,
+      "octopusProbability": 51,
+      "clarity": 96,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
+  },
+  {
+    "id": "P0388",
+    "name": "Cala Sisine - Scogli lato nord",
+    "category": "Snorkeling PRO",
+    "type": "Spiaggia",
+    "zone": "Baunei",
+    "lat": 40.1844,
+    "lon": 9.6424,
+    "rating": 9.0,
+    "snorkeling": 8.5,
+    "wow": 9.2,
+    "waterColor": 9.4,
+    "crowd": "Media",
+    "crowdTarget": "Medio",
+    "access": "Barca/trekking",
+    "walkMin": 0,
+    "windOK": "Mare calmo, Maestrale leggero",
+    "windAvoid": "Scirocco forte, Levante forte, Mare mosso",
+    "parking": "Verifica in stagione",
+    "bestTime": "Mattina presto o dopo 17:00",
+    "depth": "0.5-8 m",
+    "visibility": "Alta con mare calmo",
+    "fauna": "saraghi, salpe, occhiate; polpi occasionali",
+    "entryTip": "Per snorkeling meglio bordi rocciosi e zone con posidonia",
+    "level": "Famosa",
+    "safety": "Verifica meteo mare, accessi e divieti locali",
+    "notes": "Lato roccioso più interessante per snorkeling.",
+    "favorite": false,
+    "visited": false,
+    "personalNote": "",
+    "recommendedScore": 10,
+    "tags": [
+      "barca",
+      "consigliata",
+      "snorkeling",
+      "wow"
+    ],
+    "snorkelingAI": {
+      "fishProbability": 86,
+      "octopusProbability": 52,
+      "clarity": 94,
+      "bottom": "Roccia/scogli",
+      "level": "Esperto",
+      "bestSide": "lati rocciosi / scogli",
+      "bestTime": "9:00-11:30 con sole alto e mare calmo",
+      "species": [
+        "salpe",
+        "occhiate",
+        "donzelle",
+        "saraghi",
+        "polpi occasionali"
+      ],
+      "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    }
   }
 ];
-window.APP_META = {version:'17.0 Meteo AI', updated:'2026-07-04', totalPlaces:332};
+window.APP_META = {version:'19.0 Consigliati', updated:'2026-07-04', totalPlaces:388};

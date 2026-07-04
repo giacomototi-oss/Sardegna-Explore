@@ -79,7 +79,6 @@ function importUserData(file){
   };
   reader.readAsText(file);
 }
-,visited={},notes={};PLACES.forEach(p=>{if(p.favorite)favorites[p.id]=true;if(p.visited)visited[p.id]=true;if(p.personalNote)notes[p.id]=p.personalNote});localStorage.setItem("sardegna-v14",JSON.stringify({favorites,visited,notes}))}
 function hav(a,b,c,d){const R=6371,rad=x=>x*Math.PI/180;const dp=rad(c-a),dl=rad(d-b);const q=Math.sin(dp/2)**2+Math.cos(rad(a))*Math.cos(rad(c))*Math.sin(dl/2)**2;return R*2*Math.atan2(Math.sqrt(q),Math.sqrt(1-q))}
 function dist(p){return hav(state.origin.lat,state.origin.lon,p.lat,p.lon)}
 function drive(p){return Math.round((dist(p)*1.38/62)*60+8)}

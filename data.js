@@ -14871,4 +14871,4 @@ window.PLACES = [
     ]
   }
 ];
-window.APP_META = {version:'14.0 Cala Mariolu Icon', updated:'2026-07-04', totalPlaces:332};
+window.APP_META = {version:'14.1 Hotfix', updated:'2026-07-04', totalPlaces:332};

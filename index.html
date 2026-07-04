@@ -3,122 +3,139 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <meta name="theme-color" content="#0f766e" />
+  <meta name="theme-color" content="#061c1a" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Sardegna Explorer" />
-  <title>Sardegna Explorer</title>
-
+  <title>Sardegna Explorer Ultimate</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="apple-touch-icon" href="icons/icon-192.png" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-    integrity="sha256-p4NxAoJBhIINfQbsz+bBbwk4qK01D9jFyhmJ6f8xZ9U=" crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="topbar">
+<header class="topbar">
+  <div class="brand"><img src="icons/icon-192.png" alt="" /><div><h1>Sardegna Explorer</h1><p>v6 Database · AI · GPS · Meteo marino · Diario</p></div></div>
+  <button id="installBtn" class="ghost hidden">Installa</button>
+</header>
+
+<main>
+  <section class="hero-card">
     <div>
-      <h1>🏝️ Sardegna Explorer</h1>
-      <p id="subtitle">La Caletta · Costa Est · AI personale</p>
+      <span class="badge">PWA v6 · <b id="totalPlaces">...</b> posti</span>
+      <h2>🌊 Oggi dove vado?</h2>
+      <p>Premi il pulsante e l’app sceglie il posto migliore considerando posizione, meteo, vento, auto, camminata e preferenze.</p>
     </div>
-    <button id="installBtn" class="ghost hidden">Installa</button>
-  </header>
+    <div class="hero-actions">
+      <button id="todayBtn" class="primary big">🌊 Oggi dove vado?</button>
+      <button id="locateBtn" class="ghost">📍 GPS preciso</button>
+    </div>
+  </section>
 
-  <main>
-    <section class="panel hero">
-      <div class="hero-grid">
-        <div>
-          <h2>Dove andiamo oggi?</h2>
-          <p>Imposta vento, obiettivo e camminata: l’app ti ordina i posti migliori.</p>
-        </div>
-        <button id="locateBtn" class="primary">📍 Sono qui</button>
-      </div>
-    </section>
+  <section id="todayChoice" class="today-card hidden"></section>
 
-    <section class="panel controls">
-      <div class="control">
-        <label>Vento / mare</label>
-        <select id="wind">
-          <option>Mare calmo</option>
-          <option>Maestrale leggero</option>
-          <option>Maestrale forte</option>
-          <option>Scirocco leggero</option>
-          <option>Scirocco forte</option>
-          <option>Levante forte</option>
-          <option>Ponente leggero</option>
-          <option>Vento forte</option>
-        </select>
-      </div>
-      <div class="control">
-        <label>Obiettivo</label>
-        <select id="goal">
-          <option>Snorkeling</option>
-          <option>Caletta nascosta</option>
-          <option>Spiaggia wow</option>
-          <option>Foto/tramonto</option>
-          <option>Relax poca gente</option>
-          <option>Coppia</option>
-          <option>Escursione/barca</option>
-        </select>
-      </div>
-      <div class="control">
-        <label>Camminata max</label>
-        <input id="walkMax" type="range" min="0" max="120" step="5" value="20" />
-        <span id="walkLabel">20 min</span>
-      </div>
-      <div class="control">
-        <label>Affollamento</label>
-        <select id="crowd">
-          <option>Indifferente</option>
-          <option selected>Tranquillo</option>
-          <option>Medio</option>
-          <option>Affollato</option>
-        </select>
-      </div>
-      <div class="chips">
-        <label><input id="onlySnorkel" type="checkbox" /> solo snorkeling</label>
-        <label><input id="onlyLocal" type="checkbox" /> solo local/segreti</label>
-        <label><input id="favoritesOnly" type="checkbox" /> preferiti</label>
-        <label><input id="nearMeOnly" type="checkbox" /> vicino a me</label>
-      </div>
-    </section>
+  <section class="stats">
+    <div><b id="statWithin">—</b><span>nel tempo scelto</span></div>
+    <div><b id="statSnorkel">—</b><span>snorkeling top</span></div>
+    <div><b id="statVisited">—</b><span>visitati</span></div>
+    <div><b id="statProgress">—</b><span>scoperta Sardegna</span></div>
+  </section>
 
-    <section class="panel weather">
-      <div>
-        <h3>🌤️ Meteo live</h3>
-        <p id="weatherText">Premi “Sono qui” o apri un pin per meteo e vento.</p>
-      </div>
-      <button id="weatherLaCaletta" class="ghost">Meteo La Caletta</button>
-    </section>
+  <section class="panel controls">
+    <div class="control">
+      <label>Partenza</label>
+      <select id="originMode">
+        <option value="base">La Caletta</option>
+        <option value="gps">GPS preciso</option>
+        <option value="manual">Coordinate manuali</option>
+        <option value="preset">Scegli città/zona</option>
+      </select>
+    </div>
+    <div class="control" id="presetBox">
+      <label>Zona manuale</label>
+      <select id="originPreset">
+        <option value="40.6096,9.7514">La Caletta</option>
+        <option value="40.9236,9.4964">Olbia</option>
+        <option value="41.1793,9.3812">Palau</option>
+        <option value="40.3795,9.6925">Orosei</option>
+        <option value="40.2813,9.6326">Cala Gonone</option>
+        <option value="40.7725,9.6691">San Teodoro</option>
+        <option value="41.1355,9.5300">Porto Cervo</option>
+        <option value="39.2238,9.1217">Cagliari</option>
+        <option value="40.5579,8.3193">Alghero</option>
+        <option value="39.9256,9.6572">Tortolì</option>
+      </select>
+    </div>
+    <div class="control" id="manualBox">
+      <label>Coordinate manuali</label>
+      <input id="manualCoords" placeholder="40.6096,9.7514" />
+    </div>
+    <div class="control">
+      <label>Ordina per</label>
+      <select id="sortMode"><option value="ai">Miglior risultato AI</option><option value="distance">Distanza</option><option value="rating">Valutazione/WOW</option><option value="marine">Condizioni mare</option></select>
+    </div>
+    <div class="control">
+      <label>Vento / mare</label>
+      <select id="wind"><option>Automatico dal meteo</option><option>Mare calmo</option><option>Maestrale leggero</option><option>Maestrale forte</option><option>Scirocco leggero</option><option>Scirocco forte</option><option>Levante forte</option><option>Ponente leggero</option><option>Vento forte</option></select>
+      <small id="autoWindLabel">Auto: carico...</small>
+    </div>
+    <div class="control">
+      <label>Obiettivo</label>
+      <select id="goal"><option>Snorkeling</option><option>Caletta nascosta</option><option>Spiaggia wow</option><option>Famosa/top</option><option>Foto/tramonto</option><option>Relax poca gente</option><option>Coppia</option><option>Escursione/barca</option></select>
+    </div>
+    <div class="control">
+      <label>Tempo max in macchina</label>
+      <input id="driveMax" type="range" min="10" max="280" step="5" value="180" /><span id="driveLabel">180 min</span>
+    </div>
+    <div class="control">
+      <label>Camminata max</label>
+      <input id="walkMax" type="range" min="0" max="140" step="5" value="25" /><span id="walkLabel">25 min</span>
+    </div>
+    <div class="control">
+      <label>Affollamento</label>
+      <select id="crowd"><option>Indifferente</option><option selected>Tranquillo</option><option>Medio</option><option>Affollato</option></select>
+    </div>
+    <div class="control">
+      <label>Preferenza personale</label>
+      <select id="personalPref"><option value="balanced">Bilanciata</option><option value="snorkel">Più snorkeling</option><option value="quiet">Meno folla</option><option value="near">Meno auto</option><option value="wow">Solo wow</option></select>
+    </div>
+    <div class="chips">
+      <label><input id="onlySnorkel" type="checkbox" /> solo snorkeling</label>
+      <label><input id="onlyLocal" type="checkbox" /> solo local/segreti</label>
+      <label><input id="favoritesOnly" type="checkbox" /> preferiti</label>
+      <label><input id="withinDriveOnly" type="checkbox" checked /> solo entro tempo auto</label>
+      <label><input id="hideVisited" type="checkbox" /> nascondi visitati</label>
+    </div>
+  </section>
 
-    <section class="map-wrap">
-      <div id="map"></div>
-    </section>
+  <section class="weather-card">
+    <div><h3>🌤️ Meteo e mare live</h3><p id="weatherText">Carico meteo...</p><p id="marineText">Carico condizioni marine...</p></div>
+    <button id="weatherOrigin" class="ghost">Meteo partenza</button>
+  </section>
 
-    <section class="panel">
-      <div class="section-head">
-        <h3>🤖 Consigli AI</h3>
-        <input id="search" placeholder="Cerca: Mariolu, polpi, Berchida..." />
-      </div>
-      <div id="results" class="cards"></div>
-    </section>
-  </main>
+  <section class="quick-grid">
+    <button data-quick="polpi">🐙 Polpi</button>
+    <button data-quick="barracuda">🐟 Barracuda</button>
+    <button data-quick="tramonto">🌅 Tramonto</button>
+    <button data-quick="famosa">⭐ Famose</button>
+    <button data-quick="segreta">🏝️ Segrete</button>
+    <button data-quick="visitati">🏆 Visitati</button>
+  </section>
 
-  <dialog id="placeDialog">
-    <button id="closeDialog" class="close">×</button>
-    <div id="placeDetail"></div>
-  </dialog>
+  <section class="map-wrap"><div id="map"></div></section>
 
-  <nav class="bottomnav">
-    <button data-goal="Snorkeling">🤿<span>Snorkeling</span></button>
-    <button data-goal="Caletta nascosta">🏝️<span>Segreti</span></button>
-    <button data-goal="Spiaggia wow">🏖️<span>Wow</span></button>
-    <button data-goal="Foto/tramonto">📸<span>Foto</span></button>
-  </nav>
+  <section class="panel">
+    <div class="section-head"><h3>🤖 Risultati</h3><input id="search" placeholder="Cerca: Mariolu, Pelosa, polpi, tramonto..." /></div>
+    <div id="results" class="cards"></div>
+  </section>
+</main>
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="data.js"></script>
-  <script src="app.js"></script>
+<dialog id="placeDialog"><button id="closeDialog" class="close">×</button><div id="placeDetail"></div></dialog>
+
+<nav class="bottomnav"><button data-goal="Snorkeling">🤿<span>Snorkeling</span></button><button data-goal="Caletta nascosta">🏝️<span>Segreti</span></button><button data-goal="Spiaggia wow">🏖️<span>Wow</span></button><button data-goal="Famosa/top">⭐<span>Famose</span></button></nav>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

@@ -1,11 +1,11 @@
 {
-  "name": "Sardegna Explorer",
+  "name": "Sardegna Explorer Ultimate",
   "short_name": "Sardegna",
-  "description": "Mappa privata con AI, meteo e Google Maps per la Sardegna orientale.",
+  "description": "Mappa privata Sardegna con AI, GPS/manuale, meteo marino, Google Maps, Waze e diario.",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#071514",
-  "theme_color": "#0f766e",
+  "background_color": "#04110f",
+  "theme_color": "#061c1a",
   "icons": [
     {
       "src": "icons/icon-192.png",

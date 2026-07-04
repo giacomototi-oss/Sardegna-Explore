@@ -1,254 +1,43 @@
 
-const $ = (id)=>document.getElementById(id);
-let state = {
-  wind: "Mare calmo", goal: "Snorkeling", walkMax: 20, crowd: "Tranquillo",
-  onlySnorkel: false, onlyLocal: false, favoritesOnly: false, nearMeOnly: false,
-  search: "", userLocation: null, markers: []
-};
-
-const categoryIcon = {
-  "Snorkeling elite":"🤿","Snorkeling PRO":"🐠","Calette nascoste":"🏝️","Spiagge top":"🏖️",
-  "Panorami/foto":"📸","Escursioni/gommoni":"🚤","Cibo/pesce":"🍝","Parcheggi/accessi":"🅿️"
-};
-
-function loadLocal(){
-  try{
-    const saved = JSON.parse(localStorage.getItem("sardegna-explorer-state")||"{}");
-    if(saved.favorites){
-      PLACES.forEach(p => {
-        if(saved.favorites[p.id]) p.favorite = true;
-        if(saved.visited && saved.visited[p.id]) p.visited = true;
-        if(saved.notes && saved.notes[p.id]) p.personalNote = saved.notes[p.id];
-      });
-    }
-  }catch(e){}
-}
-function saveLocal(){
-  const favorites={}, visited={}, notes={};
-  PLACES.forEach(p=>{ if(p.favorite) favorites[p.id]=true; if(p.visited) visited[p.id]=true; if(p.personalNote) notes[p.id]=p.personalNote; });
-  localStorage.setItem("sardegna-explorer-state", JSON.stringify({favorites,visited,notes}));
-}
-
-function haversineKm(a,b,c,d){
-  const R=6371, toRad=x=>x*Math.PI/180;
-  const dLat=toRad(c-a), dLon=toRad(d-b);
-  const s1=Math.sin(dLat/2), s2=Math.sin(dLon/2);
-  const q=s1*s1+Math.cos(toRad(a))*Math.cos(toRad(c))*s2*s2;
-  return R*2*Math.atan2(Math.sqrt(q),Math.sqrt(1-q));
-}
-function distanceFromUser(p){
-  if(!state.userLocation) return null;
-  return haversineKm(state.userLocation.lat,state.userLocation.lon,p.lat,p.lon);
-}
-function scorePlace(p){
-  let score = (p.wow||0)*2 + (p.snorkeling||0)*0.35;
-  if(state.goal==="Snorkeling") score += (p.snorkeling||0)*1.3;
-  if(state.goal==="Caletta nascosta" && p.category==="Calette nascoste") score += 8;
-  if(state.goal==="Spiaggia wow") score += (p.waterColor||0)*0.9;
-  if(state.goal==="Foto/tramonto" && (p.photoType||"").includes("Panorama")) score += 8;
-  if(state.goal==="Relax poca gente" && p.crowdTarget==="Tranquillo") score += 7;
-  if(state.goal==="Coppia" && (p.suitedFor||"").includes("Coppia")) score += 5;
-  if(state.goal==="Escursione/barca" && p.category==="Escursioni/gommoni") score += 9;
-
-  if((p.windOK||"").includes(state.wind)) score += 6;
-  if((p.windAvoid||"").includes(state.wind)) score -= 10;
-
-  score += (p.walkMin <= state.walkMax) ? 5 : -6;
-  if(state.crowd === "Indifferente") score += 1;
-  else score += (p.crowdTarget === state.crowd) ? 5 : -3;
-
-  if(state.onlySnorkel && p.snorkeling < 7) score -= 100;
-  if(state.onlyLocal && p.level !== "L1 Local") score -= 100;
-  if(state.favoritesOnly && !p.favorite) score -= 100;
-
-  const d = distanceFromUser(p);
-  if(state.nearMeOnly && d !== null){
-    score += Math.max(0, 12 - d/3);
-    if(d > 40) score -= 30;
-  }
-  if(state.search){
-    const hay = `${p.name} ${p.category} ${p.zone} ${p.fauna} ${p.notes}`.toLowerCase();
-    if(!hay.includes(state.search.toLowerCase())) score -= 1000;
-  }
-  return Math.round(score*10)/10;
-}
-function filteredSorted(){
-  return PLACES.map(p=>({...p, aiScore: scorePlace(p), distanceKm: distanceFromUser(p)}))
-    .filter(p=>p.aiScore>-50)
-    .sort((a,b)=>b.aiScore-a.aiScore);
-}
-function mapsDirectionsUrl(p){
-  const dest = `${p.lat},${p.lon}`;
-  return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(dest)}&travelmode=driving`;
-}
-function markerColor(cat){
-  if(cat.includes("Snorkeling")) return "#38bdf8";
-  if(cat==="Calette nascoste") return "#22c55e";
-  if(cat==="Spiagge top") return "#fbbf24";
-  if(cat==="Panorami/foto") return "#fb923c";
-  if(cat==="Cibo/pesce") return "#fb7185";
-  if(cat==="Escursioni/gommoni") return "#c084fc";
-  return "#94a3b8";
-}
-function makeIcon(p){
-  const color = markerColor(p.category);
-  return L.divIcon({
-    className:"custom-marker",
-    html:`<div style="width:30px;height:30px;border-radius:50%;background:${color};display:grid;place-items:center;border:2px solid white;box-shadow:0 8px 20px rgba(0,0,0,.35);font-size:16px">${categoryIcon[p.category]||"📍"}</div>`,
-    iconSize:[30,30], iconAnchor:[15,15], popupAnchor:[0,-12]
-  });
-}
-
-let map, markerLayer;
-function initMap(){
-  map = L.map("map", {zoomControl:false}).setView([40.54,9.80], 9);
-  L.control.zoom({position:"bottomright"}).addTo(map);
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    maxZoom: 19, attribution: '&copy; OpenStreetMap'
-  }).addTo(map);
-  markerLayer = L.layerGroup().addTo(map);
-}
-function renderMarkers(list){
-  markerLayer.clearLayers();
-  list.slice(0,120).forEach(p=>{
-    const m = L.marker([p.lat,p.lon], {icon:makeIcon(p)}).addTo(markerLayer);
-    m.bindPopup(`<b>${categoryIcon[p.category]||"📍"} ${p.name}</b><br>${p.zone}<br>AI ${p.aiScore} · WOW ${p.wow}/10<br><button onclick="openDetail('${p.id}')">Apri scheda</button>`);
-  });
-}
-function renderResults(){
-  const list = filteredSorted();
-  renderMarkers(list);
-  const el = $("results");
-  el.innerHTML = "";
-  list.slice(0,30).forEach((p, idx)=>{
-    const d = p.distanceKm==null ? "" : ` · ${p.distanceKm.toFixed(1)} km da te`;
-    const div = document.createElement("article");
-    div.className = "card";
-    div.innerHTML = `
-      <h4>${idx+1}. ${categoryIcon[p.category]||"📍"} ${p.name}</h4>
-      <div class="meta">${p.zone}${d}<br>${p.category} · ${p.bestTime||""}</div>
-      <div class="score">
-        <span class="pill gold">AI ${p.aiScore}</span>
-        <span class="pill">WOW ${p.wow}/10</span>
-        <span class="pill">🤿 ${p.snorkeling}/10</span>
-        <span class="pill">🚶 ${p.walkMin} min</span>
-        ${p.favorite?'<span class="pill gold">★ preferito</span>':''}
-      </div>
-      <div class="meta">${p.windOK ? "Vento ok: "+p.windOK : ""}</div>
-      <div class="actions">
-        <button onclick="openDetail('${p.id}')">Scheda</button>
-        <a class="ghost" href="${mapsDirectionsUrl(p)}" target="_blank">Naviga</a>
-        <button class="ghost" onclick="toggleFavorite('${p.id}')">${p.favorite?'★':'☆'} Preferito</button>
-      </div>
-    `;
-    el.appendChild(div);
-  });
-}
-function openDetail(id){
-  const p = PLACES.find(x=>x.id===id);
-  if(!p) return;
-  fetchWeather(p.lat,p.lon, p.name);
-  $("placeDetail").innerHTML = `
-    <div class="detail">
-      <h2>${categoryIcon[p.category]||"📍"} ${p.name}</h2>
-      <p class="meta">${p.zone} · ${p.category}</p>
-      <div class="score">
-        <span class="pill gold">WOW ${p.wow}/10</span><span class="pill">Snorkeling ${p.snorkeling}/10</span>
-        <span class="pill">Acqua ${p.waterColor}/10</span><span class="pill">Cammino ${p.walkMin} min</span>
-      </div>
-      <div class="detail-grid">
-        <div class="detail-box"><b>Vento OK</b>${p.windOK||"-"}</div>
-        <div class="detail-box"><b>Da evitare</b>${p.windAvoid||"-"}</div>
-        <div class="detail-box"><b>Fauna</b>${p.fauna||"-"}</div>
-        <div class="detail-box"><b>Profondità</b>${p.depth||"-"}</div>
-        <div class="detail-box"><b>Ingresso</b>${p.entryTip||"-"}</div>
-        <div class="detail-box"><b>Sicurezza</b>${p.safety||"-"}</div>
-        <div class="detail-box"><b>Parcheggio</b>${p.parking||"-"}</div>
-        <div class="detail-box"><b>Orario migliore</b>${p.bestTime||"-"}</div>
-      </div>
-      <p>${p.notes||""}</p>
-      <textarea id="noteBox" placeholder="Nota personale..." style="width:100%;min-height:90px;border-radius:16px;padding:12px;background:#061c1a;color:white;border:1px solid rgba(255,255,255,.12)">${p.personalNote||""}</textarea>
-      <div class="actions" style="margin-top:12px">
-        <a class="primary" href="${mapsDirectionsUrl(p)}" target="_blank">Apri navigazione Google Maps</a>
-        <a class="ghost" href="${p.mapsUrl}" target="_blank">Vedi su Google Maps</a>
-        <button class="ghost" onclick="toggleFavorite('${p.id}')">${p.favorite?'★ Preferito':'☆ Aggiungi preferito'}</button>
-        <button class="ghost" onclick="toggleVisited('${p.id}')">${p.visited?'Visitato ✓':'Segna visitato'}</button>
-        <button onclick="saveNote('${p.id}')">Salva nota</button>
-      </div>
-    </div>
-  `;
-  $("placeDialog").showModal();
-}
-window.openDetail = openDetail;
-function toggleFavorite(id){ const p=PLACES.find(x=>x.id===id); if(p){p.favorite=!p.favorite; saveLocal(); renderResults(); if($("placeDialog").open) openDetail(id);} }
-function toggleVisited(id){ const p=PLACES.find(x=>x.id===id); if(p){p.visited=!p.visited; saveLocal(); renderResults(); if($("placeDialog").open) openDetail(id);} }
-function saveNote(id){ const p=PLACES.find(x=>x.id===id); if(p){p.personalNote=$("noteBox").value; saveLocal(); renderResults();} }
-window.toggleFavorite=toggleFavorite; window.toggleVisited=toggleVisited; window.saveNote=saveNote;
-
-async function fetchWeather(lat,lon,label="questa zona"){
-  const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,wind_speed_10m,wind_direction_10m,weather_code&hourly=wind_speed_10m,wind_direction_10m,temperature_2m&forecast_days=1&timezone=auto`;
-  $("weatherText").textContent = "Carico meteo...";
-  try{
-    const res = await fetch(url);
-    const data = await res.json();
-    const c = data.current || {};
-    const dir = windDirName(c.wind_direction_10m);
-    $("weatherText").innerHTML = `<b>${label}</b>: ${Math.round(c.temperature_2m)}°C · vento ${Math.round(c.wind_speed_10m)} km/h da ${dir}.`;
-  }catch(e){
-    $("weatherText").textContent = "Meteo non disponibile ora. Controlla connessione.";
-  }
-}
-function windDirName(deg){
-  if(deg==null) return "-";
-  const dirs=["N","NE","E","SE","S","SW","W","NW"];
-  return dirs[Math.round(deg/45)%8];
-}
-function bindControls(){
-  ["wind","goal","crowd","search"].forEach(id=>{
-    $(id).addEventListener("input",()=>{
-      state[id==="search"?"search":id] = $(id).value;
-      renderResults();
-    });
-  });
-  $("walkMax").addEventListener("input",()=>{
-    state.walkMax = Number($("walkMax").value);
-    $("walkLabel").textContent = state.walkMax + " min";
-    renderResults();
-  });
-  ["onlySnorkel","onlyLocal","favoritesOnly","nearMeOnly"].forEach(id=>{
-    $(id).addEventListener("change",()=>{ state[id] = $(id).checked; renderResults(); });
-  });
-  document.querySelectorAll(".bottomnav button").forEach(btn=>{
-    btn.addEventListener("click",()=>{
-      $("goal").value = btn.dataset.goal;
-      state.goal = btn.dataset.goal;
-      renderResults();
-      window.scrollTo({top:0,behavior:"smooth"});
-    });
-  });
-  $("closeDialog").addEventListener("click",()=>$("placeDialog").close());
-  $("weatherLaCaletta").addEventListener("click",()=>fetchWeather(40.6096,9.7514,"La Caletta"));
-  $("locateBtn").addEventListener("click",()=>{
-    if(!navigator.geolocation){ alert("Geolocalizzazione non disponibile"); return; }
-    navigator.geolocation.getCurrentPosition(pos=>{
-      state.userLocation = {lat:pos.coords.latitude, lon:pos.coords.longitude};
-      if(!window.userMarker){
-        window.userMarker = L.circleMarker([state.userLocation.lat,state.userLocation.lon],{radius:8,color:"#fff",fillColor:"#ef4444",fillOpacity:1}).addTo(map).bindPopup("Sei qui");
-      } else window.userMarker.setLatLng([state.userLocation.lat,state.userLocation.lon]);
-      map.setView([state.userLocation.lat,state.userLocation.lon], 11);
-      fetchWeather(state.userLocation.lat,state.userLocation.lon,"la tua posizione");
-      renderResults();
-    },()=>alert("Non riesco a leggere la posizione. Controlla i permessi."));
-  });
-}
-let deferredPrompt;
-window.addEventListener("beforeinstallprompt", (e)=>{
-  e.preventDefault(); deferredPrompt=e; $("installBtn").classList.remove("hidden");
-});
-$("installBtn")?.addEventListener("click", async()=>{
-  if(deferredPrompt){ deferredPrompt.prompt(); deferredPrompt=null; $("installBtn").classList.add("hidden"); }
-});
-if("serviceWorker" in navigator){
-  window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js"));
-}
-loadLocal(); initMap(); bindControls(); renderResults(); fetchWeather(40.6096,9.7514,"La Caletta");
+const $=id=>document.getElementById(id);
+const BASE={lat:40.6096,lon:9.7514,label:"La Caletta"};
+let state={originMode:"base",manualOrigin:null,userLocation:null,windMode:"Automatico dal meteo",autoWind:"Mare calmo",effectiveWind:"Mare calmo",goal:"Snorkeling",walkMax:25,driveMax:180,crowd:"Tranquillo",sortMode:"ai",personalPref:"balanced",onlySnorkel:false,onlyLocal:false,favoritesOnly:false,withinDriveOnly:true,hideVisited:false,search:"",marine:{wave:null,uv:null,water:null}};
+const icon={"Snorkeling elite":"🤿","Snorkeling PRO":"🐠","Calette nascoste":"🏝️","Spiagge top":"🏖️","Panorami/foto":"📸","Escursioni/gommoni":"🚤","Cibo/pesce":"🍝","Parcheggi/accessi":"🅿️","Spiagge famose":"⭐","Spiagge famose Nord":"💎","Spiagge famose Sud":"🌅","Iconiche Golfo Orosei":"🌊","Spiagge Sardegna Nord-Ovest":"🧭","Spiagge Sardegna Nord":"🧭","Spiagge Sardegna Ovest":"🌊","Spiagge Sardegna Sud-Ovest":"🌅","Spiagge Sardegna Sud":"🌞","Spiagge Sardegna Sud-Est":"🌞","Spiagge Sardegna Est":"🌊","Famose fuori zona":"🧭","Fuori 3 ore":"🧭"};
+function loadLocal(){try{const s=JSON.parse(localStorage.getItem("sardegna-v5")||"{}");PLACES.forEach(p=>{if(s.favorites?.[p.id])p.favorite=true;if(s.visited?.[p.id])p.visited=true;if(s.notes?.[p.id])p.personalNote=s.notes[p.id];});state.personalPref=s.pref||"balanced";}catch(e){}}
+function saveLocal(){const favorites={},visited={},notes={};PLACES.forEach(p=>{if(p.favorite)favorites[p.id]=true;if(p.visited)visited[p.id]=true;if(p.personalNote)notes[p.id]=p.personalNote;});localStorage.setItem("sardegna-v5",JSON.stringify({favorites,visited,notes,pref:state.personalPref}));}
+function hav(a,b,c,d){const R=6371,rad=x=>x*Math.PI/180;const dp=rad(c-a),dl=rad(d-b);const q=Math.sin(dp/2)**2+Math.cos(rad(a))*Math.cos(rad(c))*Math.sin(dl/2)**2;return R*2*Math.atan2(Math.sqrt(q),Math.sqrt(1-q))}
+function origin(){if(state.originMode==="gps"&&state.userLocation)return state.userLocation;if((state.originMode==="manual"||state.originMode==="preset")&&state.manualOrigin)return state.manualOrigin;return BASE}
+function dist(p){const o=origin();return hav(o.lat,o.lon,p.lat,p.lon)}
+function drive(p){return Math.round((dist(p)*1.38/62)*60+8)}
+function marineScore(p){let s=10;if(state.marine.wave!=null){if(state.marine.wave>1.2)s-=3;else if(state.marine.wave>.7)s-=1.5}if(state.marine.uv!=null&&state.marine.uv>8)s-=.7;if((p.windAvoid||"").includes(state.effectiveWind))s-=2;if((p.windOK||"").includes(state.effectiveWind))s+=.7;return Math.max(0,Math.min(10,Math.round(s*10)/10))}
+function why(p){const bits=[];if((p.windOK||"").includes(state.effectiveWind))bits.push("vento adatto");if(p.snorkeling>=8)bits.push("snorkeling forte");if(p.wow>=9)bits.push("mare wow");if(drive(p)<=state.driveMax)bits.push("entro tempo auto");if(p.crowdTarget===state.crowd)bits.push("affollamento giusto");if(p.walkMin<=state.walkMax)bits.push("camminata ok");return bits.slice(0,4).join(" · ")||"buon equilibrio generale"}
+function kit(p){return (p.kit||["acqua","crema solare"]).join(", ")}
+function score(p){let s=(p.wow||0)*2+(p.snorkeling||0)*.35+marineScore(p)*1.2;if(state.goal==="Snorkeling")s+=(p.snorkeling||0)*1.4;if(state.goal==="Caletta nascosta"&&p.category==="Calette nascoste")s+=9;if(state.goal==="Spiaggia wow")s+=(p.waterColor||0);if(state.goal==="Famosa/top"&&(((p.category||"").includes("famose"))||((p.category||"").includes("Iconiche"))||((p.category||"").includes("Sardegna"))))s+=9;if(state.goal==="Foto/tramonto"&&((p.category||"").includes("Panorami")||(p.photoType||"").includes("Panorama")))s+=8;if(state.goal==="Relax poca gente"&&p.crowdTarget==="Tranquillo")s+=8;if(state.goal==="Escursione/barca"&&p.category==="Escursioni/gommoni")s+=9;if((p.windOK||"").includes(state.effectiveWind))s+=7;if((p.windAvoid||"").includes(state.effectiveWind))s-=12;s+=(p.walkMin<=state.walkMax)?5:-7;const dm=drive(p);s+=(dm<=state.driveMax)?9:-(Math.min(90,(dm-state.driveMax)/2));if(state.crowd==="Indifferente")s+=1;else s+=(p.crowdTarget===state.crowd)?6:-3;if(state.personalPref==="snorkel")s+=p.snorkeling*0.7;if(state.personalPref==="quiet"&&p.crowdTarget==="Tranquillo")s+=7;if(state.personalPref==="near")s-=dm/12;if(state.personalPref==="wow")s+=p.wow*0.9;if(state.onlySnorkel&&p.snorkeling<7)s-=100;if(state.onlyLocal&&p.level!=="L1 Local")s-=100;if(state.favoritesOnly&&!p.favorite)s-=100;if(state.withinDriveOnly&&dm>state.driveMax)s-=1000;if(state.hideVisited&&p.visited)s-=100;if(state.search){const hay=`${p.name} ${p.category} ${p.zone} ${p.fauna} ${p.notes} ${(p.tags||[]).join(" ")}`.toLowerCase();if(!hay.includes(state.search.toLowerCase()))s-=1000}return Math.round(s*10)/10}
+function enriched(){return PLACES.map(p=>({...p,aiScore:score(p),distanceKm:dist(p),driveMin:drive(p),marineScore:marineScore(p)})).filter(p=>p.aiScore>-50)}
+function results(){let a=enriched();if(state.sortMode==="distance")a.sort((x,y)=>x.distanceKm-y.distanceKm||y.aiScore-x.aiScore);else if(state.sortMode==="rating")a.sort((x,y)=>(y.wow||0)-(x.wow||0)||y.aiScore-x.aiScore);else if(state.sortMode==="marine")a.sort((x,y)=>y.marineScore-x.marineScore||y.aiScore-x.aiScore);else a.sort((x,y)=>y.aiScore-x.aiScore||x.distanceKm-y.distanceKm);return a}
+function gmaps(p){return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(p.lat+","+p.lon)}&travelmode=driving`}
+function waze(p){return `https://waze.com/ul?ll=${p.lat},${p.lon}&navigate=yes`}
+function mcolor(c){if((c||"").includes("Snorkeling"))return"#38bdf8";if(c==="Calette nascoste")return"#22c55e";if(c==="Panorami/foto")return"#fb923c";if(c==="Cibo/pesce")return"#fb7185";if((c||"").includes("famose")||(c||"").includes("Iconiche")||(c||"").includes("Sardegna"))return"#fbbf24";return"#94a3b8"}
+function makeIcon(p){return L.divIcon({className:"custom-marker",html:`<div style="width:30px;height:30px;border-radius:50%;background:${mcolor(p.category)};display:grid;place-items:center;border:2px solid white;box-shadow:0 8px 20px rgba(0,0,0,.35);font-size:16px">${icon[p.category]||"📍"}</div>`,iconSize:[30,30],iconAnchor:[15,15],popupAnchor:[0,-12]})}
+let map,layer,userMarker;
+function initMap(){map=L.map("map",{zoomControl:false}).setView([40.05,9.15],7);L.control.zoom({position:"bottomright"}).addTo(map);L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:19,attribution:"&copy; OpenStreetMap"}).addTo(map);layer=L.layerGroup().addTo(map)}
+function renderMarkers(list){layer.clearLayers();list.slice(0,240).forEach(p=>L.marker([p.lat,p.lon],{icon:makeIcon(p)}).addTo(layer).bindPopup(`<b>${icon[p.category]||"📍"} ${p.name}</b><br>AI ${p.aiScore} · mare ${p.marineScore}/10 · 🚗 ${p.driveMin} min<br><button onclick="openDetail('${p.id}')">Apri scheda</button>`))}
+function renderStats(){const a=enriched();$("totalPlaces").textContent=PLACES.length;$("statWithin").textContent=a.filter(p=>p.driveMin<=state.driveMax).length;$("statSnorkel").textContent=PLACES.filter(p=>p.snorkeling>=8).length;$("statVisited").textContent=PLACES.filter(p=>p.visited).length;$("statProgress").textContent=Math.round(PLACES.filter(p=>p.visited).length/PLACES.length*100)+"%"}
+function card(p,i){return `<article class="card"><h4>${i+1}. ${icon[p.category]||"📍"} ${p.name}</h4><div class="meta">${p.zone} · ${p.category}<br>${p.distanceKm.toFixed(1)} km · 🚗 ${p.driveMin} min · ${p.bestTime||""}</div><div class="score"><span class="pill gold">AI ${p.aiScore}</span><span class="pill">Mare ${p.marineScore}/10</span><span class="pill">WOW ${p.wow}/10</span><span class="pill">🤿 ${p.snorkeling}/10</span><span class="pill">🚶 ${p.walkMin} min</span>${p.favorite?'<span class="pill gold">★ preferito</span>':''}</div><div class="meta">Perché: <b>${why(p)}</b></div><div class="actions"><button onclick="openDetail('${p.id}')">Scheda</button><a class="ghost" href="${gmaps(p)}" target="_blank">Google Maps</a><a class="ghost" href="${waze(p)}" target="_blank">Waze</a><button class="ghost" onclick="toggleFavorite('${p.id}')">${p.favorite?'★':'☆'} Preferito</button></div></article>`}
+function render(){renderStats();const list=results();renderMarkers(list);$("results").innerHTML=list.slice(0,80).map(card).join("")}
+function today(){const old={...state};state.sortMode="ai";const p=results()[0];Object.assign(state,old);if(!p)return;$("todayChoice").classList.remove("hidden");$("todayChoice").innerHTML=`<h3>🏆 Oggi ti porterei a: ${p.name}</h3><div class="score"><span class="pill gold">AI ${p.aiScore}</span><span class="pill">Mare ${p.marineScore}/10</span><span class="pill">🚗 ${p.driveMin} min</span><span class="pill">🚶 ${p.walkMin} min</span></div><p class="meta">Perché: ${why(p)}. Portati: ${kit(p)}.</p><div class="actions"><button onclick="openDetail('${p.id}')">Apri scheda</button><a class="primary" href="${gmaps(p)}" target="_blank">Portami lì</a><a class="ghost" href="${waze(p)}" target="_blank">Waze</a></div>`;window.scrollTo({top:0,behavior:"smooth"})}
+function openDetail(id){const p=PLACES.find(x=>x.id===id);if(!p)return;fetchWeather(p.lat,p.lon,p.name,false);$("placeDetail").innerHTML=`<div class="detail"><h2>${icon[p.category]||"📍"} ${p.name}</h2><p class="meta">${p.zone} · ${p.category}<br>${dist(p).toFixed(1)} km · 🚗 circa ${drive(p)} min dalla partenza scelta</p><div class="score"><span class="pill gold">AI ${score(p)}</span><span class="pill">Mare ${marineScore(p)}/10</span><span class="pill">WOW ${p.wow}/10</span><span class="pill">Snorkeling ${p.snorkeling}/10</span></div><div class="detail-grid"><div class="detail-box"><b>Perché</b>${why(p)}</div><div class="detail-box"><b>Cosa portare</b>${kit(p)}</div><div class="detail-box"><b>Vento OK</b>${p.windOK||"-"}</div><div class="detail-box"><b>Da evitare</b>${p.windAvoid||"-"}</div><div class="detail-box"><b>Fauna</b>${p.fauna||"-"}</div><div class="detail-box"><b>Profondità</b>${p.depth||"-"}</div><div class="detail-box"><b>Ingresso</b>${p.entryTip||"-"}</div><div class="detail-box"><b>Parcheggio</b>${p.parking||"-"}</div></div><p>${p.notes||""}</p><textarea id="noteBox" placeholder="Nota personale / diario...">${p.personalNote||""}</textarea><div class="actions" style="margin-top:12px"><a class="primary" href="${gmaps(p)}" target="_blank">Google Maps</a><a class="ghost" href="${waze(p)}" target="_blank">Waze</a><a class="ghost" href="${p.mapsUrl}" target="_blank">Apri luogo</a><button class="ghost" onclick="toggleFavorite('${p.id}')">${p.favorite?'★ Preferito':'☆ Preferito'}</button><button class="ghost" onclick="toggleVisited('${p.id}')">${p.visited?'Visitato ✓':'Segna visitato'}</button><button onclick="saveNote('${p.id}')">Salva diario</button></div></div>`;$("placeDialog").showModal()}
+window.openDetail=openDetail;function toggleFavorite(id){const p=PLACES.find(x=>x.id===id);if(p){p.favorite=!p.favorite;saveLocal();render()}}function toggleVisited(id){const p=PLACES.find(x=>x.id===id);if(p){p.visited=!p.visited;saveLocal();render()}}function saveNote(id){const p=PLACES.find(x=>x.id===id);if(p){p.personalNote=$("noteBox").value;saveLocal();render()}}window.toggleFavorite=toggleFavorite;window.toggleVisited=toggleVisited;window.saveNote=saveNote;
+function windName(deg,speed){if(speed>=25)return"Vento forte";if(deg==null)return"Mare calmo";const dirs=[["Tramontana",337.5,360],["Tramontana",0,22.5],["Grecale",22.5,67.5],["Levante",67.5,112.5],["Scirocco",112.5,157.5],["Ostro",157.5,202.5],["Libeccio",202.5,247.5],["Ponente",247.5,292.5],["Maestrale",292.5,337.5]];let b="Mare calmo";for(const [n,a,c]of dirs){if(deg>=a&&deg<c){b=n;break}}if(b==="Maestrale")return speed>=15?"Maestrale forte":"Maestrale leggero";if(b==="Scirocco")return speed>=15?"Scirocco forte":"Scirocco leggero";if(b==="Levante")return"Levante forte";if(b==="Ponente")return"Ponente leggero";return speed<8?"Mare calmo":"Vento forte"}
+function windDir(deg){if(deg==null)return"-";return["N","NE","E","SE","S","SW","W","NW"][Math.round(deg/45)%8]}
+async function fetchWeather(lat,lon,label="questa zona",updateAuto=true){try{const url=`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,wind_speed_10m,wind_direction_10m,uv_index&hourly=uv_index&forecast_days=1&timezone=auto`;const res=await fetch(url);const data=await res.json();const c=data.current||{};const sp=Math.round(c.wind_speed_10m||0);const auto=windName(c.wind_direction_10m,sp);state.marine.uv=c.uv_index??null;$("weatherText").innerHTML=`<b>${label}</b>: ${Math.round(c.temperature_2m)}°C · vento ${sp} km/h da ${windDir(c.wind_direction_10m)} · interpretato: <b>${auto}</b>${state.marine.uv?` · UV ${state.marine.uv}`:""}.`;if(updateAuto){state.autoWind=auto;$("autoWindLabel").textContent=`Auto: ${auto}`;updateWind()}fetchMarine(lat,lon,label)}catch(e){$("weatherText").textContent="Meteo non disponibile ora."}}
+async function fetchMarine(lat,lon,label){try{const url=`https://marine-api.open-meteo.com/v1/marine?latitude=${lat}&longitude=${lon}&current=wave_height,wave_direction,wave_period,sea_surface_temperature&forecast_days=1&timezone=auto`;const res=await fetch(url);const d=await res.json();const c=d.current||{};state.marine.wave=c.wave_height??null;state.marine.water=c.sea_surface_temperature??null;$("marineText").innerHTML=`Mare: ${c.wave_height!=null?c.wave_height+" m onde":"onde n/d"}${c.sea_surface_temperature!=null?" · acqua "+Math.round(c.sea_surface_temperature)+"°C":""}${c.wave_period!=null?" · periodo "+c.wave_period+"s":""}.`;render()}catch(e){$("marineText").textContent="Meteo marino non disponibile per questa zona.";render()}}
+function updateWind(){state.windMode=$("wind").value;state.effectiveWind=state.windMode==="Automatico dal meteo"?state.autoWind:state.windMode;render()}
+function currentOrigin(){if(state.originMode==="gps"&&state.userLocation)return state.userLocation;if((state.originMode==="manual"||state.originMode==="preset")&&state.manualOrigin)return state.manualOrigin;return BASE}
+function preset(){const [lat,lon]=$("originPreset").value.split(",").map(Number);state.manualOrigin={lat,lon,label:$("originPreset").selectedOptions[0].textContent};map.setView([lat,lon],9);fetchWeather(lat,lon,state.manualOrigin.label,true)}
+function manual(){const m=$("manualCoords").value.match(/(-?\d+(\\.\\d+)?)\\s*,\\s*(-?\\d+(\\.\\d+)?)/);if(m){state.manualOrigin={lat:Number(m[1]),lon:Number(m[3]),label:"coordinate manuali"};map.setView([state.manualOrigin.lat,state.manualOrigin.lon],9);fetchWeather(state.manualOrigin.lat,state.manualOrigin.lon,"coordinate manuali",true)}}
+function updateOrigin(){state.originMode=$("originMode").value;if(state.originMode==="base"){state.manualOrigin=BASE;map.setView([BASE.lat,BASE.lon],8);fetchWeather(BASE.lat,BASE.lon,"La Caletta",true)}else if(state.originMode==="preset")preset();else if(state.originMode==="manual")manual();else if(state.originMode==="gps"){if(state.userLocation)fetchWeather(state.userLocation.lat,state.userLocation.lon,"la tua posizione",true);else locate()}render()}
+function locate(){if(!navigator.geolocation){alert("Geolocalizzazione non disponibile");return}navigator.geolocation.getCurrentPosition(pos=>{state.userLocation={lat:pos.coords.latitude,lon:pos.coords.longitude,label:"GPS preciso"};if(!userMarker)userMarker=L.circleMarker([state.userLocation.lat,state.userLocation.lon],{radius:8,color:"#fff",fillColor:"#ef4444",fillOpacity:1}).addTo(map).bindPopup("Sei qui");else userMarker.setLatLng([state.userLocation.lat,state.userLocation.lon]);map.setView([state.userLocation.lat,state.userLocation.lon],10);$("originMode").value="gps";state.originMode="gps";fetchWeather(state.userLocation.lat,state.userLocation.lon,"la tua posizione",true);render()},()=>alert("Non riesco a leggere la posizione. Controlla i permessi."),{enableHighAccuracy:true,timeout:12000,maximumAge:60000})}
+function bind(){["goal","crowd","sortMode","personalPref","search"].forEach(id=>$(id).addEventListener("input",()=>{state[id==="search"?"search":id]=$(id).value;saveLocal();render()}));$("originMode").addEventListener("change",updateOrigin);$("originPreset").addEventListener("change",()=>{$("originMode").value="preset";state.originMode="preset";preset();render()});$("manualCoords").addEventListener("change",()=>{$("originMode").value="manual";state.originMode="manual";manual();render()});$("wind").addEventListener("input",updateWind);$("walkMax").addEventListener("input",()=>{state.walkMax=Number($("walkMax").value);$("walkLabel").textContent=state.walkMax+" min";render()});$("driveMax").addEventListener("input",()=>{state.driveMax=Number($("driveMax").value);$("driveLabel").textContent=state.driveMax+" min";render()});["onlySnorkel","onlyLocal","favoritesOnly","withinDriveOnly","hideVisited"].forEach(id=>$(id).addEventListener("change",()=>{state[id]=$(id).checked;render()}));document.querySelectorAll(".bottomnav button").forEach(b=>b.addEventListener("click",()=>{$("goal").value=b.dataset.goal;state.goal=b.dataset.goal;render();window.scrollTo({top:0,behavior:"smooth"})}));document.querySelectorAll(".quick-grid button").forEach(b=>b.addEventListener("click",()=>{const q=b.dataset.quick;if(q==="visitati"){state.search="";$("hideVisited").checked=false;state.hideVisited=false;$("favoritesOnly").checked=false;state.favoritesOnly=false;PLACES.forEach(p=>{});$("search").value="";}else{$("search").value=q;state.search=q;if(q==="famosa"){$("goal").value="Famosa/top";state.goal="Famosa/top"}if(q==="segreta"){$("onlyLocal").checked=true;state.onlyLocal=true}}render()}));$("closeDialog").addEventListener("click",()=>$("placeDialog").close());$("weatherOrigin").addEventListener("click",()=>{const o=currentOrigin();fetchWeather(o.lat,o.lon,o.label||"partenza",true)});$("locateBtn").addEventListener("click",locate);$("todayBtn").addEventListener("click",today)}
+let deferredPrompt;window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredPrompt=e;$("installBtn").classList.remove("hidden")});$("installBtn")?.addEventListener("click",async()=>{if(deferredPrompt){deferredPrompt.prompt();deferredPrompt=null;$("installBtn").classList.add("hidden")}});if("serviceWorker"in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js"))}
+loadLocal();initMap();bind();fetchWeather(BASE.lat,BASE.lon,"La Caletta",true);

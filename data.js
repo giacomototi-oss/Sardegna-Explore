@@ -198,7 +198,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.6186,9.7558&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.6186,9.7558&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "tranquillo"
+    ],
     "kit": [
       "acqua",
       "crema solare"
@@ -281,7 +283,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.6206,9.7603&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.6206,9.7603&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "tranquillo"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -323,7 +327,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.5952,9.7527&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5952,9.7527&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "tranquillo"
+    ],
     "kit": [
       "acqua",
       "crema solare"
@@ -531,7 +537,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5734,9.8079&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=40.5734,9.8079&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -616,7 +623,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5646,9.805&travelmode=driving",
     "tags": [
-      "segreta"
+      "segreta",
+      "snorkeling",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -662,7 +671,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.559,9.792&travelmode=driving",
     "tags": [
-      "segreta"
+      "segreta",
+      "snorkeling",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -749,8 +760,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5808,9.8307&travelmode=driving",
     "tags": [
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -794,7 +806,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.5842,9.8322&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5842,9.8322&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -838,7 +852,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5891,9.836&travelmode=driving",
     "tags": [
-      "segreta"
+      "segreta",
+      "snorkeling",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -884,7 +900,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5568,9.7995&travelmode=driving",
     "tags": [
-      "segreta"
+      "segreta",
+      "snorkeling",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -902,7 +920,7 @@ window.PLACES = [
     "lat": 40.5437,
     "lon": 9.7975,
     "rating": 9.0,
-    "snorkeling": 7.0,
+    "snorkeling": 8.0,
     "wow": 8.6,
     "waterColor": 8.3,
     "crowd": "Media/alta",
@@ -928,7 +946,11 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.5437,9.7975&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5437,9.7975&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "facile",
+      "scogli",
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -972,8 +994,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5507,9.8084&travelmode=driving",
     "tags": [
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -1018,7 +1041,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5368,9.8068&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
       "snorkeling",
+      "tranquillo",
       "wow"
     ],
     "kit": [
@@ -1064,9 +1091,13 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5381,9.8042&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "wow",
-      "segreta"
+      "tranquillo",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -1111,8 +1142,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5415,9.8126&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -1158,8 +1192,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5404,9.8109&travelmode=driving",
     "tags": [
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -1204,7 +1239,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5329,9.7899&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=40.5329,9.7899&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -1249,7 +1285,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5329,9.7899&travelmode=driving",
     "tags": [
-      "segreta"
+      "segreta",
+      "snorkeling",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -1267,7 +1305,7 @@ window.PLACES = [
     "lat": 40.5373,
     "lon": 9.805,
     "rating": 8.0,
-    "snorkeling": 0.0,
+    "snorkeling": 8.0,
     "wow": 5.3,
     "waterColor": 4.0,
     "crowd": "Media",
@@ -1293,7 +1331,11 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.5373,9.805&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5373,9.805&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "facile",
+      "scogli",
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare"
@@ -1335,7 +1377,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.536,9.8085&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
       "snorkeling",
+      "tranquillo",
       "wow"
     ],
     "kit": [
@@ -1381,7 +1427,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5398,9.8158&travelmode=driving",
     "tags": [
+      "mare wow",
       "snorkeling",
+      "tranquillo",
       "wow"
     ],
     "kit": [
@@ -1427,9 +1475,13 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5372,9.8107&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "wow",
-      "segreta"
+      "tranquillo",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -1517,9 +1569,13 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5315,9.821&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "wow",
-      "segreta"
+      "tranquillo",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -1606,8 +1662,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5087,9.8034&travelmode=driving",
     "tags": [
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -1653,9 +1710,13 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5178,9.8438&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "wow",
-      "segreta"
+      "tranquillo",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -1701,9 +1762,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5208,9.8474&travelmode=driving",
     "tags": [
+      "mare wow",
+      "segreta",
       "snorkeling",
-      "wow",
-      "segreta"
+      "tranquillo",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -1749,9 +1812,13 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5234,9.8508&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "wow",
-      "segreta"
+      "tranquillo",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -1797,9 +1864,13 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5272,9.8557&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "wow",
-      "segreta"
+      "tranquillo",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -1844,7 +1915,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.5145,9.8385&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5145,9.8385&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -1933,8 +2006,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5038,9.8009&travelmode=driving",
     "tags": [
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -2102,8 +2176,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4939,9.7953&travelmode=driving",
     "tags": [
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -2147,7 +2222,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.7377,9.7158&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.7377,9.7158&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -2232,6 +2309,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.459,9.814&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
       "snorkeling",
       "wow"
     ],
@@ -2319,7 +2399,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.7594,9.7049&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.7594,9.7049&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -2363,6 +2445,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4545,9.8106&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
       "snorkeling",
       "wow"
     ],
@@ -2410,6 +2495,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4565,9.8125&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
       "snorkeling"
     ],
     "kit": [
@@ -2429,7 +2516,7 @@ window.PLACES = [
     "lat": 40.4457,
     "lon": 9.7853,
     "rating": 9.0,
-    "snorkeling": 7.0,
+    "snorkeling": 8.0,
     "wow": 8.3,
     "waterColor": 8.3,
     "crowd": "Limitata",
@@ -2455,7 +2542,11 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.4457,9.7853&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4457,9.7853&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "facile",
+      "scogli",
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -2500,8 +2591,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4355,9.7824&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "famosa"
+      "facile",
+      "famosa",
+      "scogli",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -2546,8 +2639,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4386,9.784&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -2592,6 +2688,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4352,9.7848&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
       "snorkeling"
     ],
     "kit": [
@@ -2637,6 +2735,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4355,9.7824&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
       "snorkeling"
     ],
     "kit": [
@@ -2766,7 +2866,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.4279,9.7819&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4279,9.7819&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -2825,7 +2927,7 @@ window.PLACES = [
     "lat": 40.4218,
     "lon": 9.7749,
     "rating": 8.6,
-    "snorkeling": 8.0,
+    "snorkeling": 8.4,
     "wow": 8.8,
     "waterColor": 9.1,
     "crowd": "Media/alta",
@@ -2842,7 +2944,7 @@ window.PLACES = [
     "entryTip": "Da spiaggia; per snorkeling meglio i lati rocciosi",
     "level": "Famosa",
     "safety": "Verifica meteo mare, accessi e divieti locali",
-    "notes": "Famosa, bella e facile; scogli ottimi per maschera.",
+    "notes": "Famosa, bella e facile; scogli ottimi per maschera. Ottima per snorkeling facile: non fermarti al centro, punta agli scogli laterali.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.4218,9.7749",
     "wazeUrl": "https://waze.com/ul?ll=40.4218,9.7749&navigate=yes",
     "favorite": false,
@@ -2852,8 +2954,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4218,9.7749&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "famosa"
+      "facile",
+      "famosa",
+      "scogli",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -2871,9 +2975,9 @@ window.PLACES = [
     "lat": 40.4218,
     "lon": 9.7749,
     "rating": 8.0,
-    "snorkeling": 8.0,
-    "wow": 8.0,
-    "waterColor": 8.0,
+    "snorkeling": 8.4,
+    "wow": 8.8,
+    "waterColor": 9.1,
     "crowd": "Media/alta",
     "crowdTarget": "Affollato",
     "access": "Auto + piedi",
@@ -2888,7 +2992,7 @@ window.PLACES = [
     "entryTip": "Da scogli: scarpe da scoglio, entrare solo con mare calmo",
     "level": "L2 Snorkeling PRO",
     "safety": "Normale prudenza",
-    "notes": "Pesci tra gli scogli; ottima per maschera senza barca.",
+    "notes": "Pesci tra gli scogli; ottima per maschera senza barca. Ottima per snorkeling facile: non fermarti al centro, punta agli scogli laterali.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.4218,9.7749",
     "favorite": false,
     "visited": false,
@@ -2898,6 +3002,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4218,9.7749&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
       "snorkeling"
     ],
     "kit": [
@@ -2916,9 +3022,9 @@ window.PLACES = [
     "lat": 40.4232,
     "lon": 9.7765,
     "rating": 8.0,
-    "snorkeling": 8.0,
-    "wow": 8.0,
-    "waterColor": 8.0,
+    "snorkeling": 8.4,
+    "wow": 8.8,
+    "waterColor": 9.1,
     "crowd": "Media",
     "crowdTarget": "Medio",
     "access": "Auto + piedi",
@@ -2933,7 +3039,7 @@ window.PLACES = [
     "entryTip": "Da scogli: scarpe da scoglio, entrare solo con mare calmo",
     "level": "L1 Local",
     "safety": "Normale prudenza",
-    "notes": "Ottimo per vedere pesci senza escursione.",
+    "notes": "Ottimo per vedere pesci senza escursione. Ottima per snorkeling facile: non fermarti al centro, punta agli scogli laterali.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.4232,9.7765",
     "favorite": false,
     "visited": false,
@@ -2943,8 +3049,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4232,9.7765&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "segreta"
+      "facile",
+      "scogli",
+      "segreta",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -2988,7 +3096,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.424,9.7828&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.424,9.7828&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -3005,9 +3115,9 @@ window.PLACES = [
     "lat": 40.4161,
     "lon": 9.7754,
     "rating": 8.0,
-    "snorkeling": 8.0,
-    "wow": 8.0,
-    "waterColor": 8.0,
+    "snorkeling": 8.4,
+    "wow": 8.8,
+    "waterColor": 9.1,
     "crowd": "Media/bassa",
     "crowdTarget": "Tranquillo",
     "access": "Auto + piedi",
@@ -3022,7 +3132,7 @@ window.PLACES = [
     "entryTip": "Da spiaggia; meglio esplorare i lati rocciosi",
     "level": "L1 Local",
     "safety": "Normale prudenza",
-    "notes": "Meno ovvia della spiaggia principale, molto bella per snorkeling.",
+    "notes": "Meno ovvia della spiaggia principale, molto bella per snorkeling. Ottima per snorkeling facile: non fermarti al centro, punta agli scogli laterali.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.4161,9.7754",
     "favorite": false,
     "visited": false,
@@ -3032,8 +3142,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4161,9.7754&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -3078,8 +3191,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4139,9.7772&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -3124,7 +3240,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.4092,9.7708&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -3169,7 +3286,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3995,9.7646&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -3255,6 +3373,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.827,9.7217&travelmode=driving",
     "tags": [
+      "mare wow",
       "snorkeling",
       "wow"
     ],
@@ -3301,8 +3420,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8198,9.6881&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -3347,7 +3468,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8253,9.7268&travelmode=driving",
     "tags": [
+      "mare wow",
       "snorkeling",
+      "tranquillo",
       "wow"
     ],
     "kit": [
@@ -3439,7 +3562,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.8174,9.6921&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8174,9.6921&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -3482,7 +3607,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.8198,9.6881&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8198,9.6881&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -3570,7 +3697,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.8315,9.6978&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8315,9.6978&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -3655,8 +3784,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8355,9.7021&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -3746,7 +3877,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.8355,9.7021&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8355,9.7021&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -3789,7 +3922,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.8348,9.6872&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8348,9.6872&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -3917,7 +4052,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8482,9.7162&travelmode=driving",
     "tags": [
+      "mare wow",
       "snorkeling",
+      "tranquillo",
       "wow"
     ],
     "kit": [
@@ -3964,8 +4101,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8636,9.6886&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -4055,7 +4192,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.36,9.6905&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -4098,7 +4236,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8601,9.6395&travelmode=driving",
     "tags": [
-      "snorkeling"
+      "snorkeling",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -4144,9 +4283,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8793,9.7262&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -4237,7 +4377,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3394,9.6789&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -4281,7 +4422,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.3394,9.6789&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3394,9.6789&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -4370,7 +4513,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3339,9.6817&travelmode=driving",
     "tags": [
-      "snorkeling"
+      "snorkeling",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -4456,9 +4600,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8998,9.7049&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -4504,8 +4649,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3268,9.6841&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -4551,9 +4699,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.8914,9.6382&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -4598,8 +4747,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3169,9.6798&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -4689,8 +4841,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3118,9.6797&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "segreta"
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -4709,7 +4864,7 @@ window.PLACES = [
     "lat": 40.3138,
     "lon": 9.6785,
     "rating": 9.0,
-    "snorkeling": 7.0,
+    "snorkeling": 8.0,
     "wow": 8.2,
     "waterColor": 7.9,
     "crowd": "Media",
@@ -4735,7 +4890,11 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.3138,9.6785&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.3138,9.6785&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "facile",
+      "scogli",
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -4779,6 +4938,7 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.9147,9.5878&travelmode=driving",
     "tags": [
+      "mare wow",
       "snorkeling",
       "wow"
     ],
@@ -4953,7 +5113,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.276,9.6345&travelmode=driving",
     "tags": [
-      "segreta"
+      "segreta",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5080,9 +5241,12 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2656,9.6307&travelmode=driving",
     "tags": [
+      "facile",
+      "mare wow",
+      "scogli",
+      "segreta",
       "snorkeling",
-      "wow",
-      "segreta"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -5127,6 +5291,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2664,9.6295&travelmode=driving",
     "tags": [
+      "facile",
+      "scogli",
       "snorkeling"
     ],
     "kit": [
@@ -5172,8 +5338,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2669,9.6314&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "segreta"
+      "facile",
+      "scogli",
+      "segreta",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5234,7 +5402,7 @@ window.PLACES = [
     "lat": 40.2674,
     "lon": 9.6277,
     "rating": 8.0,
-    "snorkeling": 4.0,
+    "snorkeling": 8.0,
     "wow": 6.5,
     "waterColor": 5.8,
     "crowd": "Media",
@@ -5260,7 +5428,11 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.2674,9.6277&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2674,9.6277&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "facile",
+      "scogli",
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare"
@@ -5275,7 +5447,7 @@ window.PLACES = [
     "lat": 40.2662,
     "lon": 9.6279,
     "rating": 8.0,
-    "snorkeling": 0.0,
+    "snorkeling": 8.0,
     "wow": 4.9,
     "waterColor": 3.6,
     "crowd": "Media/alta",
@@ -5301,7 +5473,11 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.2662,9.6279&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2662,9.6279&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "facile",
+      "scogli",
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare"
@@ -5384,7 +5560,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.9644,9.5851&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=40.9644,9.5851&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5514,7 +5691,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2437,9.6254&travelmode=driving",
     "tags": [
-      "barca"
+      "barca",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5560,7 +5738,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.9735,9.602&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5605,8 +5784,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2284,9.6289&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "barca"
+      "barca",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5653,9 +5832,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.2264,9.6278&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -5702,8 +5882,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0035,9.632&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5748,7 +5928,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0082,9.6048&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5793,7 +5974,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.998,9.585&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5922,8 +6104,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1848,9.6425&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "barca"
+      "barca",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -5970,8 +6152,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1832,9.6418&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "barca"
+      "barca",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -6018,10 +6200,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1675,9.6651&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6067,9 +6250,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1675,9.6651&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6156,7 +6340,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0308,9.5472&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.0308,9.5472&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -6244,7 +6429,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0316,9.524&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -6332,9 +6518,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1468,9.674&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6380,9 +6567,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1476,9.6729&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6428,9 +6616,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1318,9.6819&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6476,9 +6665,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1251,9.6805&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6524,9 +6714,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.13,9.681&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6572,9 +6763,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1262,9.6818&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6620,9 +6812,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0755,9.5445&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6667,8 +6860,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0738,9.5305&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6711,8 +6905,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0834,9.5636&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6757,9 +6953,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.08,9.539&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6803,7 +7000,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0834,9.5476&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.0834,9.5476&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -6847,7 +7045,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.1121,9.6743&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1121,9.6743&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "tranquillo"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -6890,9 +7090,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1087,9.6899&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6939,9 +7140,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.1092,9.6912&travelmode=driving",
     "tags": [
+      "barca",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "barca"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -6987,9 +7189,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0919,9.5469&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.0919,9.5469&navigate=yes",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -7034,9 +7237,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0919,9.5469&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -7081,7 +7285,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0887,9.5321&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -7294,7 +7499,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1427,9.5244&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1427,9.5244&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -7338,7 +7544,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1492,9.5307&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1492,9.5307&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -7382,7 +7589,9 @@ window.PLACES = [
     "wazeUrl": "https://waze.com/ul?ll=40.0307,9.7072&navigate=yes",
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.0307,9.7072&travelmode=driving",
-    "tags": [],
+    "tags": [
+      "snorkeling"
+    ],
     "kit": [
       "acqua",
       "crema solare",
@@ -7471,9 +7680,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1869,9.4687&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -7517,8 +7727,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.165,9.4042&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.165,9.4042&navigate=yes",
     "tags": [
-      "snorkeling",
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -7689,9 +7899,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1989,9.4742&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1989,9.4742&navigate=yes",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -7736,10 +7947,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2074,9.4713&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -7785,9 +7997,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2033,9.4719&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2033,9.4719&navigate=yes",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -7831,7 +8044,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1769,9.3897&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1769,9.3897&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -7875,7 +8089,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1687,9.3605&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1687,9.3605&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -7961,9 +8176,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1697,9.3493&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1697,9.3493&navigate=yes",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8009,7 +8225,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2111,9.4573&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -8053,7 +8270,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1802,9.3768&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.1802,9.3768&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -8140,9 +8358,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.22,9.4804&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.22,9.4804&navigate=yes",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8188,9 +8407,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2188,9.4527&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8236,9 +8456,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.1834,9.3556&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8284,8 +8505,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2071,9.4254&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8330,9 +8553,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2291,9.4526&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8461,7 +8685,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2357,9.3912&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2357,9.3912&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -8548,7 +8773,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.252,9.439&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.252,9.439&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -8592,7 +8818,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2495,9.4262&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2495,9.4262&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -8637,10 +8864,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2325,9.3462&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8685,10 +8913,11 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2385,9.3608&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2385,9.3608&navigate=yes",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8733,7 +8962,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2458,9.3915&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2458,9.3915&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -8777,7 +9007,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2504,9.4075&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2504,9.4075&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -8821,10 +9052,11 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2405,9.3536&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2405,9.3536&navigate=yes",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8869,10 +9101,11 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2371,9.3443&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2371,9.3443&navigate=yes",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -8917,7 +9150,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2508,9.3764&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2508,9.3764&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -9220,9 +9454,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2801,9.3569&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -9266,10 +9501,11 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2851,9.3663&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2851,9.3663&navigate=yes",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -9315,7 +9551,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.8773,9.6826&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -9360,10 +9597,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2915,9.3747&travelmode=driving",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -9408,10 +9646,11 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2866,9.356&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=41.2866,9.356&navigate=yes",
     "tags": [
-      "snorkeling",
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -9457,8 +9696,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0519,8.943&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -9503,9 +9744,11 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0253,8.9112&travelmode=driving",
     "tags": [
-      "wow",
       "barca",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -9723,9 +9966,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.2442,9.1431&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -9770,8 +10014,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.242,9.1452&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -9901,8 +10147,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.8038,9.6829&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -10285,7 +10533,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.5439,9.6365&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.5439,9.6365&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -10370,7 +10619,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.0909,8.4927&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -10414,7 +10664,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.0909,8.4927&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=40.0909,8.4927&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -10501,7 +10752,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.5942,8.267&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -10690,7 +10942,7 @@ window.PLACES = [
     "lat": 39.4387,
     "lon": 9.638,
     "rating": 7.8,
-    "snorkeling": 5.0,
+    "snorkeling": 8.0,
     "wow": 8.0,
     "waterColor": 8.5,
     "crowd": "Media",
@@ -10716,7 +10968,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.4387,9.638&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.4387,9.638&navigate=yes",
     "tags": [
-      "famosa"
+      "facile",
+      "famosa",
+      "scogli",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -10928,8 +11183,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0595,8.3028&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -10974,9 +11231,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=41.0855,8.3039&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -11106,8 +11364,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.9754,8.406&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -11150,7 +11409,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.56,8.1655&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -11238,8 +11498,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.9655,8.2118&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -11282,8 +11543,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.9527,8.4021&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -11326,8 +11588,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=40.968,8.2132&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -11584,7 +11848,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.3213,9.6017&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.3213,9.6017&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "tranquillo"
     ],
     "kit": [
       "acqua",
@@ -11797,8 +12062,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.2524,9.5757&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -11843,8 +12110,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.2384,9.575&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -11886,8 +12154,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.2243,9.5706&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.2243,9.5706&navigate=yes",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -12016,8 +12286,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.205,9.573&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -12189,8 +12461,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1842,9.3896&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -12276,7 +12550,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1848,9.3472&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1848,9.3472&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -12321,9 +12596,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.15,9.5592&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -12368,8 +12644,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.5356,8.4492&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -12411,7 +12688,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1786,9.3184&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1786,9.3184&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -12455,7 +12733,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1431,9.5561&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1431,9.5561&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -12542,7 +12821,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1377,9.5359&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1377,9.5359&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -12629,8 +12909,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1308,9.5332&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -12674,7 +12956,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1282,9.541&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.1282,9.541&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -12848,7 +13131,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1864,9.1657&travelmode=driving",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -12893,8 +13177,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1215,9.5236&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13025,8 +13311,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.1093,9.5007&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13198,6 +13486,8 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.3735,8.3812&travelmode=driving",
     "tags": [
+      "mare wow",
+      "snorkeling",
       "wow"
     ],
     "kit": [
@@ -13243,8 +13533,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.3735,8.3812&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13289,8 +13581,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.3305,8.4213&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13543,8 +13837,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8952,8.8932&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13586,8 +13881,9 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8932,8.8921&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.8932,8.8921&navigate=yes",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13672,8 +13968,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8898,8.8847&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13800,8 +14097,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8848,8.8675&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13845,7 +14144,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9372,8.7143&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.9372,8.7143&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -13889,8 +14189,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9131,8.7661&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.9131,8.7661&navigate=yes",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -13977,9 +14279,10 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8928,8.8125&travelmode=driving",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -14024,8 +14327,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9667,8.6&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -14067,7 +14371,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8897,8.8134&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.8897,8.8134&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -14154,8 +14459,9 @@ window.PLACES = [
     "photoUrl": "",
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9532,8.6098&travelmode=driving",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -14239,7 +14545,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9021,8.7398&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.9021,8.7398&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -14409,9 +14716,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.899,8.6836&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.899,8.6836&navigate=yes",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -14455,9 +14763,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8995,8.6766&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.8995,8.6766&navigate=yes",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -14501,8 +14810,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.9047,8.6527&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.9047,8.6527&navigate=yes",
     "tags": [
-      "wow",
-      "famosa"
+      "famosa",
+      "mare wow",
+      "snorkeling",
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -14588,7 +14899,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=39.0111,8.3788&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=39.0111,8.3788&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -14632,9 +14944,10 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.8836,8.6579&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.8836,8.6579&navigate=yes",
     "tags": [
+      "famosa",
+      "mare wow",
       "snorkeling",
-      "wow",
-      "famosa"
+      "wow"
     ],
     "kit": [
       "acqua",
@@ -14678,7 +14991,8 @@ window.PLACES = [
     "gmapsDir": "https://www.google.com/maps/dir/?api=1&destination=38.998,8.398&travelmode=driving",
     "wazeUrl": "https://waze.com/ul?ll=38.998,8.398&navigate=yes",
     "tags": [
-      "famosa"
+      "famosa",
+      "snorkeling"
     ],
     "kit": [
       "acqua",
@@ -14688,4 +15002,4 @@ window.PLACES = [
     ]
   }
 ];
-window.APP_META = {version:'6.0 Database Edition', updated:'2026-07-04', totalPlaces:332};
+window.APP_META = {version:'7.0 Search & Chat AI', updated:'2026-07-04', totalPlaces:332};

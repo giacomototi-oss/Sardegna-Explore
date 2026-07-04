@@ -1,7 +1,7 @@
 {
-  "name": "Sardegna Explorer Ultimate",
+  "name": "Sardegna Explorer Search AI",
   "short_name": "Sardegna",
-  "description": "Mappa privata Sardegna con AI, GPS/manuale, meteo marino, Google Maps, Waze e diario.",
+  "description": "Ricerca semplice e chat spiagge AI per Sardegna Explorer.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#04110f",

@@ -1,7 +1,7 @@
 {
-  "name": "Sardegna Explorer Search AI",
+  "name": "Sardegna Explorer Simple AI",
   "short_name": "Sardegna",
-  "description": "Ricerca semplice e chat spiagge AI per Sardegna Explorer.",
+  "description": "Ricerca semplice per spiagge Sardegna con AI meteo e assistente separato.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#04110f",

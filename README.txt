@@ -1,15 +1,18 @@
-Sardegna Explorer PWA v7 Search & Chat AI
+Sardegna Explorer PWA v8 Simple AI
 
 Totale luoghi: 332
 
-Novità:
-- Ricerca ridisegnata da zero: pulsanti grandi e semplici.
-- Filtri avanzati nascosti in un menu.
-- Chat Spiagge AI: puoi scrivere richieste tipo “snorkeling entro 40 minuti con poca gente”.
-- La chat risponde con spiegazione e alternative, non solo con una lista.
-- Migliorato il ranking snorkeling: Cala Liberotto ora viene valorizzata correttamente.
-- Pulsanti con icone Maps e Waze.
+Cosa cambia:
+- Ricerca rifatta da zero, molto più semplice e spaziosa.
+- Partenza: La Caletta, GPS preciso oppure manuale.
+- 3 modalità: Bilanciato, Spiagge wow, Snorkeling.
+- Slider tempo auto e camminata più grandi e corretti per iPhone.
+- Filtro distanza auto e camminata max.
+- AI meteo/vento integrata nel ranking.
+- Assistente AI separato, non mischiato ai filtri.
+- Cala Liberotto valorizzata correttamente per snorkeling.
+- Pulsanti Maps/Waze con icone.
 
 Aggiorna GitHub:
 Sostituisci tutti i file nella root e apri:
-https://giacomototi-oss.github.io/Sardegna-Explore/?v=7
+https://giacomototi-oss.github.io/Sardegna-Explore/?v=8

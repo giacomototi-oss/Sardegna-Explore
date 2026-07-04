@@ -1,23 +1,18 @@
-Sardegna Explorer PWA v15 Recovery Stable
+Sardegna Explorer PWA v17 Meteo AI
 
 Totale luoghi: 332
 
-Questa è una versione di recupero stabile.
-Riparte dalla v10 funzionante e aggiunge solo in modo sicuro:
-- icona Cala Mariolu in alto e sulla Home;
-- fullscreen/safe area iPhone;
-- cache nuova v15;
-- mantiene: Liquid Glass, Solo local, meteo nei risultati, Foto, Maps/Waze.
-
-Non usa il codice rotto delle v11-v14.
+Novità:
+- Aggiunto filtro selezionabile “meteo AI” nello stesso punto degli altri filtri.
+- Quando attivo mette prima i risultati con:
+  - sole o tempo stabile;
+  - poco vento;
+  - onde basse;
+  - vento favorevole per quella spiaggia;
+  - penalizza pioggia, temporali, vento forte e mare mosso.
+- Aggiunto badge nei risultati: Meteo top / Meteo buono / Meteo ok / Da valutare / Meteo scarso.
+- Mantiene v16: Preferiti, Solo local, icona Cala Mariolu, meteo/foto, Maps/Waze.
 
 Aggiorna GitHub:
 Sostituisci tutti i file nella root e apri:
-https://giacomototi-oss.github.io/Sardegna-Explore/?v=15
-
-Se Safari continua a mostrare una vecchia versione:
-apri con:
-https://giacomototi-oss.github.io/Sardegna-Explore/?v=15&t=999
-
-Se la PWA installata resta bloccata:
-rimuovila dalla Home e aggiungila di nuovo.
+https://giacomototi-oss.github.io/Sardegna-Explore/?v=17

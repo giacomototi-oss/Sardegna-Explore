@@ -1,20 +1,20 @@
 {
-  "name": "Sardegna Explorer Stable",
+  "name": "Sardegna Explorer",
   "short_name": "Sardegna",
-  "description": "Versione stabile con icona Cala Mariolu e fullscreen iPhone.",
+  "description": "Sardegna Explorer v17 con filtro Meteo AI.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#04110f",
   "theme_color": "#04110f",
   "icons": [
     {
-      "src": "icons/icon-192.png?v=15",
+      "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/icon-512.png?v=15",
+      "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"

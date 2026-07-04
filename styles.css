@@ -155,11 +155,21 @@ dialog{width:min(820px,92vw);border:1px solid rgba(255,255,255,.18);border-radiu
   color:#e0f7ff;
 }
 
-/* v15 recovery: safe iPhone fullscreen */
+/* v16 real fix */
+.mode-grid{grid-template-columns:repeat(4,1fr)}
+.compact-cards{margin-top:14px}
+.empty-state{
+  grid-column:1/-1;
+  color:var(--muted);
+  background:rgba(255,255,255,.07);
+  border:1px solid rgba(255,255,255,.12);
+  border-radius:22px;
+  padding:16px;
+}
+.bottomnav{grid-template-columns:repeat(5,1fr)}
 html{min-height:100%;background:#04110f}
 body{
   min-height:100dvh;
-  padding-top:0;
   padding-left:env(safe-area-inset-left);
   padding-right:env(safe-area-inset-right);
   -webkit-tap-highlight-color:transparent;
@@ -170,9 +180,6 @@ body{
   padding-right:calc(14px + env(safe-area-inset-right));
   min-height:calc(64px + env(safe-area-inset-top));
 }
-.brand img{width:40px;height:40px;border-radius:14px}
-.topbar h1{font-size:19px}
-.topbar p{font-size:11px}
 main{
   padding-left:calc(12px + env(safe-area-inset-left));
   padding-right:calc(12px + env(safe-area-inset-right));
@@ -182,13 +189,17 @@ main{
   padding-left:calc(8px + env(safe-area-inset-left));
   padding-right:calc(8px + env(safe-area-inset-right));
 }
-dialog{
-  max-height:calc(100dvh - env(safe-area-inset-top) - env(safe-area-inset-bottom) - 28px);
-  overflow:auto;
-}
+.brand img{object-fit:cover}
 @supports(height:100dvh){.map-wrap{height:46dvh}}
 @media(max-width:760px){
+  .mode-grid{grid-template-columns:repeat(2,1fr)}
   body{padding-bottom:calc(92px + env(safe-area-inset-bottom))}
   .bottomnav button{min-height:50px}
 }
-@media (display-mode: standalone){.topbar{background:rgba(4,17,15,.50)}}
+
+/* v17 Meteo AI */
+.mini-filters label:has(#meteoAiOnly:checked){
+  background:linear-gradient(135deg,rgba(253,230,138,.20),rgba(125,211,252,.14));
+  border-color:rgba(253,230,138,.42);
+  color:#fff8d6;
+}

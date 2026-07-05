@@ -7,8 +7,8 @@ let compareIds=[];
 const icon={"Snorkeling elite":"🤿","Snorkeling PRO":"🐠","Calette nascoste":"🏝️","Spiagge top":"🏖️","Panorami/foto":"📸","Escursioni/gommoni":"🚤","Cibo/pesce":"🍝","Parcheggi/accessi":"🅿️","Spiagge famose":"⭐","Spiagge famose Nord":"💎","Spiagge famose Sud":"🌅","Iconiche Golfo Orosei":"🌊","Spiagge Sardegna Nord-Ovest":"🧭","Spiagge Sardegna Nord":"🧭","Spiagge Sardegna Ovest":"🌊","Spiagge Sardegna Sud-Ovest":"🌅","Spiagge Sardegna Sud":"🌞","Spiagge Sardegna Sud-Est":"🌞","Spiagge Sardegna Est":"🌊"};
 const mapsIcon='<svg class="mapicon" viewBox="0 0 24 24"><path fill="#34a853" d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7z"/><circle fill="#fff" cx="12" cy="9" r="2.5"/></svg>';
 const wazeIcon='<svg class="mapicon" viewBox="0 0 24 24"><path fill="#33ccff" d="M20 11.5c0-4.1-3.6-7.5-8-7.5s-8 3.4-8 7.5c0 1.5.5 2.9 1.4 4.1L3 18h3.6c1.4.7 3.2 1 5.4 1 4.4 0 8-3.4 8-7.5z"/><circle cx="9" cy="11" r="1"/><circle cx="15" cy="11" r="1"/><path d="M9 15c2 1 4 1 6 0" stroke="#111" fill="none" stroke-width="1.5"/></svg>';
-function loadLocal(){try{const s=JSON.parse(localStorage.getItem("sardegna-v22")||localStorage.getItem("sardegna-v21")||localStorage.getItem("sardegna-v20")||localStorage.getItem("sardegna-v19")||localStorage.getItem("sardegna-v18")||localStorage.getItem("sardegna-v17")||localStorage.getItem("sardegna-v16")||localStorage.getItem("sardegna-v10")||"{}");PLACES.forEach(p=>{if(s.favorites?.[p.id])p.favorite=true;if(s.visited?.[p.id])p.visited=true;if(s.notes?.[p.id])p.personalNote=s.notes[p.id]})}catch(e){}}
-function saveLocal(){const favorites={},visited={},notes={};PLACES.forEach(p=>{if(p.favorite)favorites[p.id]=true;if(p.visited)visited[p.id]=true;if(p.personalNote)notes[p.id]=p.personalNote});localStorage.setItem("sardegna-v22",JSON.stringify({favorites,visited,notes}))}
+function loadLocal(){try{const s=JSON.parse(localStorage.getItem("sardegna-v23")||localStorage.getItem("sardegna-v22")||localStorage.getItem("sardegna-v21")||localStorage.getItem("sardegna-v20")||localStorage.getItem("sardegna-v19")||localStorage.getItem("sardegna-v18")||localStorage.getItem("sardegna-v17")||localStorage.getItem("sardegna-v16")||localStorage.getItem("sardegna-v10")||"{}");PLACES.forEach(p=>{if(s.favorites?.[p.id])p.favorite=true;if(s.visited?.[p.id])p.visited=true;if(s.notes?.[p.id])p.personalNote=s.notes[p.id]})}catch(e){}}
+function saveLocal(){const favorites={},visited={},notes={};PLACES.forEach(p=>{if(p.favorite)favorites[p.id]=true;if(p.visited)visited[p.id]=true;if(p.personalNote)notes[p.id]=p.personalNote});localStorage.setItem("sardegna-v23",JSON.stringify({favorites,visited,notes}))}
 function hav(a,b,c,d){const R=6371,rad=x=>x*Math.PI/180;const dp=rad(c-a),dl=rad(d-b);const q=Math.sin(dp/2)**2+Math.cos(rad(a))*Math.cos(rad(c))*Math.sin(dl/2)**2;return R*2*Math.atan2(Math.sqrt(q),Math.sqrt(1-q))}
 function dist(p){return hav(state.origin.lat,state.origin.lon,p.lat,p.lon)}
 function drive(p){return Math.round((dist(p)*1.38/62)*60+8)}
@@ -64,15 +64,94 @@ function aiScoreBlock(p){
     </div>
   </div>`;
 }
+
+function crowdDayName(d){
+  const today=new Date();
+  const diff=Math.round((new Date(d.getFullYear(),d.getMonth(),d.getDate())-new Date(today.getFullYear(),today.getMonth(),today.getDate()))/86400000);
+  if(diff===0)return "Oggi";
+  if(diff===1)return "Domani";
+  return d.toLocaleDateString("it-IT",{weekday:"short",day:"2-digit",month:"2-digit"});
+}
+function crowdSeasonBoost(date){
+  const m=date.getMonth()+1;
+  const day=date.getDay();
+  let b=0;
+  if([7,8].includes(m))b+=18;
+  else if(m===6||m===9)b+=9;
+  else if(m===5||m===10)b+=3;
+  if(day===0||day===6)b+=12;
+  return b;
+}
+function crowdWeatherBoost(){
+  let b=0;
+  if(state.weatherCode===0)b+=10;
+  else if([1,2].includes(state.weatherCode))b+=7;
+  else if(state.weatherCode===3)b+=2;
+  else if([51,53,55,56,57,61,63,65,66,67,80,81,82,95,96,99].includes(state.weatherCode))b-=18;
+  if(state.windKmh!=null){
+    if(state.windKmh<=10)b+=6;
+    else if(state.windKmh>=25)b-=10;
+  }
+  if(marine.wave!=null){
+    if(marine.wave<=0.4)b+=5;
+    else if(marine.wave>=1.2)b-=12;
+  }
+  return b;
+}
+function crowdBaseFor(p,date){
+  let s=p.crowdAI?.score ?? 50;
+  s += crowdSeasonBoost(date);
+  s += crowdWeatherBoost();
+  if(p.level==="L1 Local")s-=16;
+  if((p.recommendedScore||0)>=9)s+=7;
+  if((p.walkMin||0)>25)s-=8;
+  if(String(p.access||"").toLowerCase().includes("barca"))s-=4;
+  return clamp(Math.round(s),5,98);
+}
+function crowdHourlyForecast(p,date){
+  const base=crowdBaseFor(p,date);
+  const slots=[
+    ["08:00",-35],
+    ["09:00",-25],
+    ["10:00",-10],
+    ["11:00",6],
+    ["12:00",15],
+    ["15:00",19],
+    ["17:00",4],
+    ["18:00",-16],
+  ];
+  return slots.map(([h,delta])=>({h,score:clamp(base+delta,3,99)}));
+}
+function crowdFiveDays(p){
+  const out=[];
+  const now=new Date();
+  for(let i=0;i<5;i++){
+    const d=new Date(now);
+    d.setDate(now.getDate()+i);
+    const hourly=crowdHourlyForecast(p,d);
+    const avg=Math.round(hourly.reduce((a,x)=>a+x.score,0)/hourly.length);
+    out.push({date:d,label:crowdDayName(d),avg,hourly});
+  }
+  return out;
+}
 function crowdBlock(p){
-  const c=p.crowdAI||{score:50,label:"media",hourly:{}};
-  const hours=c.hourly||{};
-  return `<div class="detail-box"><b>👥 Affollamento AI</b>
-    <div class="big-mini">${crowdColor(c.score)} ${c.score}/100</div>
-    <p class="meta">${c.label}. ${c.reason||""}</p>
-    <div class="hour-grid">${Object.entries(hours).map(([h,v])=>`<span>${h}:00<br><b>${crowdColor(v)} ${v}%</b></span>`).join("")}</div>
+  const days=crowdFiveDays(p);
+  const today=days[0];
+  const bestToday=[...today.hourly].sort((a,b)=>a.score-b.score)[0];
+  return `<div class="detail-box crowd-ai-box"><b>👥 Affollamento AI</b>
+    <div class="big-mini">${crowdColor(today.avg)} ${today.avg}/100</div>
+    <p class="meta">Momento migliore oggi: <b>${bestToday.h}</b> circa (${bestToday.score}%). Stima basata su fama, accessibilità, meteo, vento, mare, weekend/stagione e livello local.</p>
+    <div class="crowd-today">
+      <b>Oggi per orario</b>
+      <div class="hour-grid extended">${today.hourly.map(x=>`<span>${x.h}<br><b>${crowdColor(x.score)} ${x.score}%</b></span>`).join("")}</div>
+    </div>
+    <div class="crowd-days">
+      <b>Prossimi 5 giorni</b>
+      ${days.map(day=>`<div class="day-row"><div class="day-title">${day.label}<br><small>${crowdColor(day.avg)} media ${day.avg}%</small></div><div class="day-hours">${day.hourly.map(x=>`<span>${x.h}<b>${x.score}%</b></span>`).join("")}</div></div>`).join("")}
+    </div>
   </div>`;
 }
+
 function parkingBlock(p){
   const a=p.parkingAI||{};
   return `<div class="detail-box"><b>🚗 Parcheggio AI</b>
@@ -243,7 +322,7 @@ async function fetchMarine(lat,lon){try{let r=await fetch(`https://marine-api.op
 function chatSend(){const t=$("chatInput").value.trim();if(!t)return;$("chatLog").innerHTML+=`<div class="user">${t}</div>`;$("chatInput").value="";const s=t.toLowerCase();state.query=s;$("textSearch").value=s;if(s.match(/snork|pesci|polp|maschera/))setMode("snorkel");else if(s.match(/wow|bello|turchese|cristall/))setMode("wow");else setMode("balanced");const mins=s.match(/(\d+)\s*(min|minuti|ora|ore|h)/);if(mins){let n=Number(mins[1]);if(s.includes("ora")||s.includes("ore")||s.includes("h"))n*=60;state.driveMax=n;$("driveMax").value=Math.min(260,n);$("driveLabel").textContent=n+" min"}const top=results().slice(0,3);$("chatLog").innerHTML+=`<div class="bot">Ok, ti ho aggiornato la ricerca. Ti direi:<br><br>${top.map((p,i)=>`${i+1}. <b>${p.name}</b> · 🚗 ${p.driveMin} min · 🤿 ${p.snorkeling}/10 · WOW ${p.wow}/10<br><small>${why(p)}. Snorkeling AI dice: pesci ${p.snorkelingAI?.fishProbability||"--"}%, fondale ${p.snorkelingAI?.bottom||"-"}.</small>`).join("<br><br>")}<br><br>Puoi continuare con “più vicino”, “meno camminata”, “voglio polpi”, “più mare wow”, “meglio per principianti”.</div>`;$("chatLog").scrollTop=$("chatLog").scrollHeight;render()}
 function bind(){document.querySelectorAll(".mode").forEach(b=>b.addEventListener("click",()=>setMode(b.dataset.mode)));document.querySelectorAll(".bottomnav button[data-mode]").forEach(b=>b.addEventListener("click",()=>{setMode(b.dataset.mode);window.scrollTo({top:0,behavior:"smooth"})}));$("navCompare")?.addEventListener("click",()=>document.querySelector(".compare-card")?.scrollIntoView({behavior:"smooth"}));$("clearCompareBtn")?.addEventListener("click",clearCompare);$("navFavorites")?.addEventListener("click",()=>document.querySelector(".favorites-card")?.scrollIntoView({behavior:"smooth"}));$("showFavoritesBtn")?.addEventListener("click",()=>renderFavorites());$("navChat").addEventListener("click",()=>document.querySelector(".assistant-card").scrollIntoView({behavior:"smooth"}));$("useBase").addEventListener("click",()=>setOrigin("base"));$("useGps").addEventListener("click",()=>setOrigin("gps"));$("useManual").addEventListener("click",()=>setOrigin("manual"));$("originPreset").addEventListener("change",applyPreset);$("manualCoords").addEventListener("change",applyCoords);$("driveMax").addEventListener("input",()=>{state.driveMax=Number($("driveMax").value);$("driveLabel").textContent=state.driveMax+" min";render()});$("walkMax").addEventListener("input",()=>{state.walkMax=Number($("walkMax").value);$("walkLabel").textContent=state.walkMax+" min";render()});$("textSearch").addEventListener("input",()=>{state.query=$("textSearch").value;render()});$("sortMode").addEventListener("input",()=>{state.sort=$("sortMode").value;render()});["quietOnly","localOnly","meteoAiOnly","recommendedOnly","withinDriveOnly","favoritesOnly","hideVisited"].forEach(id=>$(id).addEventListener("change",()=>{state[id]=$(id).checked;render()}));$("refreshWeather").addEventListener("click",()=>fetchWeather(state.origin.lat,state.origin.lon,state.origin.label||"partenza",true));$("todayBtn").addEventListener("click",today);$("manualUpdateBtn")?.addEventListener("click",()=>checkForAppUpdate(true));$("doUpdateBtn")?.addEventListener("click",safeUpdateNow);$("skipUpdateBtn")?.addEventListener("click",()=>$("updateOverlay")?.classList.add("hidden"));$("closeDialog").addEventListener("click",()=>$("placeDialog").close());$("chatSend").addEventListener("click",chatSend);$("chatInput").addEventListener("keydown",e=>{if(e.key==="Enter")chatSend()})}
 
-const APP_VERSION_CODE = 22;
+const APP_VERSION_CODE = 23;
 function collectPersonalData(){
   const favorites={},visited={},notes={};
   PLACES.forEach(p=>{

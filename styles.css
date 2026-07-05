@@ -281,3 +281,57 @@ main{
   object-fit:cover !important;
   background:transparent !important;
 }
+
+/* v23 Crowd forecast 5 days */
+.crowd-ai-box{
+  grid-column:1/-1;
+}
+.crowd-today,.crowd-days{
+  margin-top:14px;
+}
+.hour-grid.extended{
+  grid-template-columns:repeat(4,1fr);
+}
+.day-row{
+  display:grid;
+  grid-template-columns:90px 1fr;
+  gap:10px;
+  align-items:start;
+  padding:10px;
+  margin-top:8px;
+  background:rgba(255,255,255,.07);
+  border:1px solid rgba(255,255,255,.10);
+  border-radius:16px;
+}
+.day-title{
+  color:#fff;
+  font-weight:800;
+  font-size:13px;
+}
+.day-title small{
+  color:var(--muted);
+  font-weight:650;
+}
+.day-hours{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:6px;
+}
+.day-hours span{
+  background:rgba(255,255,255,.08);
+  border-radius:12px;
+  padding:7px;
+  text-align:center;
+  color:var(--muted);
+  font-size:11px;
+}
+.day-hours b{
+  display:block;
+  color:#fff;
+  margin-top:2px;
+}
+@media(max-width:760px){
+  .hour-grid.extended{grid-template-columns:repeat(2,1fr)}
+  .day-row{grid-template-columns:1fr}
+  .day-hours{grid-template-columns:repeat(2,1fr)}
+}

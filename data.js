@@ -36068,4 +36068,4 @@ window.PLACES = [
     }
   }
 ];
-window.APP_META = {version:'21.0 Auto Update Safe', updated:'2026-07-05', totalPlaces:388};
+window.APP_META = {version:'22.0 Cala Mariolu Real Icon', updated:'2026-07-05', totalPlaces:388};

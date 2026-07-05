@@ -1,12 +1,18 @@
 {
   "name": "Sardegna Explorer",
   "short_name": "Sardegna",
-  "description": "Sardegna Explorer v21 con aggiornamento automatico sicuro.",
+  "description": "Sardegna Explorer con icona Cala Mariolu reale.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#04110f",
   "theme_color": "#04110f",
   "icons": [
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",

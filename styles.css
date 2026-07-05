@@ -275,3 +275,9 @@ main{
   #manualUpdateBtn{padding:10px 11px;font-size:12px}
   .update-actions{flex-direction:column}
 }
+
+/* v22 Cala Mariolu real icon */
+.brand img{
+  object-fit:cover !important;
+  background:transparent !important;
+}

@@ -1,7 +1,7 @@
 {
   "name": "Sardegna Explorer",
   "short_name": "Sardegna",
-  "description": "Sardegna Explorer v20 con AI Score 100, confronto, parcheggio e affollamento AI.",
+  "description": "Sardegna Explorer v21 con aggiornamento automatico sicuro.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#04110f",

@@ -7,7 +7,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Sardegna Explorer" />
-  <title>Sardegna Explorer v20</title>
+  <title>Sardegna Explorer v21</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="apple-touch-icon" href="icons/icon-180.png" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
@@ -19,11 +19,23 @@
     <img src="icons/icon-192.png" alt="" />
     <div>
       <h1>Sardegna Explorer</h1>
-      <p>v20 · AI Score + Confronto</p>
+      <p>v21 · Auto update safe</p>
     </div>
   </div>
-  <button id="installBtn" class="ghost hidden">Installa</button>
+  <div class="top-actions"><button id="manualUpdateBtn" class="ghost">🔄 Aggiorna</button><button id="installBtn" class="ghost hidden">Installa</button></div>
 </header>
+
+<div id="updateOverlay" class="update-overlay hidden">
+  <div class="update-modal">
+    <h3>🚀 Aggiornamento disponibile</h3>
+    <p id="updateText">È disponibile una nuova versione dell'app.</p>
+    <div class="update-actions">
+      <button id="doUpdateBtn" class="primary">Aggiorna adesso</button>
+      <button id="skipUpdateBtn" class="ghost">Più tardi</button>
+    </div>
+    <p class="update-small">Preferiti, visitati e note vengono salvati prima dell'aggiornamento.</p>
+  </div>
+</div>
 
 <main>
   <section class="hero">

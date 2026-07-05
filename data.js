@@ -36068,4 +36068,4 @@ window.PLACES = [
     }
   }
 ];
-window.APP_META = {version:'20.0 AI Score Compare', updated:'2026-07-05', totalPlaces:388};
+window.APP_META = {version:'21.0 Auto Update Safe', updated:'2026-07-05', totalPlaces:388};

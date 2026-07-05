@@ -7,8 +7,8 @@ let compareIds=[];
 const icon={"Snorkeling elite":"🤿","Snorkeling PRO":"🐠","Calette nascoste":"🏝️","Spiagge top":"🏖️","Panorami/foto":"📸","Escursioni/gommoni":"🚤","Cibo/pesce":"🍝","Parcheggi/accessi":"🅿️","Spiagge famose":"⭐","Spiagge famose Nord":"💎","Spiagge famose Sud":"🌅","Iconiche Golfo Orosei":"🌊","Spiagge Sardegna Nord-Ovest":"🧭","Spiagge Sardegna Nord":"🧭","Spiagge Sardegna Ovest":"🌊","Spiagge Sardegna Sud-Ovest":"🌅","Spiagge Sardegna Sud":"🌞","Spiagge Sardegna Sud-Est":"🌞","Spiagge Sardegna Est":"🌊"};
 const mapsIcon='<svg class="mapicon" viewBox="0 0 24 24"><path fill="#34a853" d="M12 2C8.1 2 5 5.1 5 9c0 5.2 7 13 7 13s7-7.8 7-13c0-3.9-3.1-7-7-7z"/><circle fill="#fff" cx="12" cy="9" r="2.5"/></svg>';
 const wazeIcon='<svg class="mapicon" viewBox="0 0 24 24"><path fill="#33ccff" d="M20 11.5c0-4.1-3.6-7.5-8-7.5s-8 3.4-8 7.5c0 1.5.5 2.9 1.4 4.1L3 18h3.6c1.4.7 3.2 1 5.4 1 4.4 0 8-3.4 8-7.5z"/><circle cx="9" cy="11" r="1"/><circle cx="15" cy="11" r="1"/><path d="M9 15c2 1 4 1 6 0" stroke="#111" fill="none" stroke-width="1.5"/></svg>';
-function loadLocal(){try{const s=JSON.parse(localStorage.getItem("sardegna-v20")||localStorage.getItem("sardegna-v19")||localStorage.getItem("sardegna-v18")||localStorage.getItem("sardegna-v17")||localStorage.getItem("sardegna-v16")||localStorage.getItem("sardegna-v10")||"{}");PLACES.forEach(p=>{if(s.favorites?.[p.id])p.favorite=true;if(s.visited?.[p.id])p.visited=true;if(s.notes?.[p.id])p.personalNote=s.notes[p.id]})}catch(e){}}
-function saveLocal(){const favorites={},visited={},notes={};PLACES.forEach(p=>{if(p.favorite)favorites[p.id]=true;if(p.visited)visited[p.id]=true;if(p.personalNote)notes[p.id]=p.personalNote});localStorage.setItem("sardegna-v20",JSON.stringify({favorites,visited,notes}))}
+function loadLocal(){try{const s=JSON.parse(localStorage.getItem("sardegna-v21")||localStorage.getItem("sardegna-v20")||localStorage.getItem("sardegna-v19")||localStorage.getItem("sardegna-v18")||localStorage.getItem("sardegna-v17")||localStorage.getItem("sardegna-v16")||localStorage.getItem("sardegna-v10")||"{}");PLACES.forEach(p=>{if(s.favorites?.[p.id])p.favorite=true;if(s.visited?.[p.id])p.visited=true;if(s.notes?.[p.id])p.personalNote=s.notes[p.id]})}catch(e){}}
+function saveLocal(){const favorites={},visited={},notes={};PLACES.forEach(p=>{if(p.favorite)favorites[p.id]=true;if(p.visited)visited[p.id]=true;if(p.personalNote)notes[p.id]=p.personalNote});localStorage.setItem("sardegna-v21",JSON.stringify({favorites,visited,notes}))}
 function hav(a,b,c,d){const R=6371,rad=x=>x*Math.PI/180;const dp=rad(c-a),dl=rad(d-b);const q=Math.sin(dp/2)**2+Math.cos(rad(a))*Math.cos(rad(c))*Math.sin(dl/2)**2;return R*2*Math.atan2(Math.sqrt(q),Math.sqrt(1-q))}
 function dist(p){return hav(state.origin.lat,state.origin.lon,p.lat,p.lon)}
 function drive(p){return Math.round((dist(p)*1.38/62)*60+8)}
@@ -222,7 +222,7 @@ function snorkelBlock(p){
 function openDetail(id){const p=PLACES.find(x=>x.id===id);if(!p)return;fetchWeather(p.lat,p.lon,p.name,false);$("placeDetail").innerHTML=`<div><h2>${icon[p.category]||"📍"} ${p.name}</h2><p class="meta">${p.zone}<br>${dist(p).toFixed(1)} km · 🚗 ${drive(p)} min · 🚶 ${p.walkMin} min</p><div class="score"><span class="pill gold">AI ${aiScore100(p)}/100</span><span class="pill">🤿 ${p.snorkeling}/10</span><span class="pill">WOW ${p.wow}/10</span></div><div class="detail-grid">${aiScoreBlock(p)}${crowdBlock(p)}${parkingBlock(p)}${marineLifeBlock(p)}${snorkelBlock(p)}<div class="detail-box"><b>Perché</b>${why(p)}</div><div class="detail-box"><b>Fauna</b>${p.fauna||"-"}</div><div class="detail-box"><b>Vento OK</b>${p.windOK||"-"}</div><div class="detail-box"><b>Evita con</b>${p.windAvoid||"-"}</div><div class="detail-box"><b>Ingresso</b>${p.entryTip||"-"}</div><div class="detail-box"><b>Parcheggio</b>${p.parking||"-"}</div></div><p>${p.notes||""}</p><textarea id="noteBox" placeholder="Nota personale / diario...">${p.personalNote||""}</textarea><div class="actions" style="margin-top:12px"><a class="primary" href="${gmaps(p)}" target="_blank">${mapsIcon}Google Maps</a><a class="ghost" href="${waze(p)}" target="_blank">${wazeIcon}Waze</a><a class="ghost" href="${photoUrl(p)}" target="_blank">📷 Foto</a><button class="ghost" onclick="toggleFavorite('${p.id}')">${p.favorite?'★ Preferito':'☆ Preferito'}</button><button class="ghost" onclick="toggleVisited('${p.id}')">${p.visited?'Visitato ✓':'Segna visitato'}</button><button onclick="saveNote('${p.id}')">Salva nota</button></div></div>`;$("placeDialog").showModal()}
 window.openDetail=openDetail;function toggleFavorite(id){const p=PLACES.find(x=>x.id===id);if(p){p.favorite=!p.favorite;saveLocal();render()}}function toggleVisited(id){const p=PLACES.find(x=>x.id===id);if(p){p.visited=!p.visited;saveLocal();render()}}function saveNote(id){const p=PLACES.find(x=>x.id===id);if(p){p.personalNote=$("noteBox").value;saveLocal();render()}}window.toggleFavorite=toggleFavorite;window.toggleVisited=toggleVisited;window.saveNote=saveNote;
 function setMode(mode){state.mode=mode;document.querySelectorAll(".mode").forEach(b=>b.classList.toggle("active",b.dataset.mode===mode));render()}
-function setOrigin(type){state.originType=type;document.querySelectorAll(".seg").forEach(b=>b.classList.remove("active"));if(type==="base"){$("useBase").classList.add("active");state.origin=BASE;$("manualOriginBox").classList.add("hidden");$("originStatus").textContent="Partenza: La Caletta";map.setView([BASE.lat,BASE.lon],8);fetchWeather(BASE.lat,BASE.lon,"La Caletta",true);render()}if(type==="manual"){$("useManual").classList.add("active");$("manualOriginBox").classList.remove("hidden")}if(type==="gps"){locate()}}
+function setOrigin(type){state.originType=type;document.querySelectorAll(".seg").forEach(b=>b.classList.remove("active"));if(type==="base"){$("useBase").classList.add("active");state.origin=BASE;$("manualOriginBox").classList.add("hidden");$("originStatus").textContent="Partenza: La Caletta";map.setView([BASE.lat,BASE.lon],8);fetchWeather(BASE.lat,BASE.lon,"La Caletta",true);setTimeout(()=>checkForAppUpdate(false),1200);render()}if(type==="manual"){$("useManual").classList.add("active");$("manualOriginBox").classList.remove("hidden")}if(type==="gps"){locate()}}
 function applyPreset(){const [lat,lon]=$("originPreset").value.split(",").map(Number);state.origin={lat,lon,label:$("originPreset").selectedOptions[0].textContent};$("originStatus").textContent="Partenza: "+state.origin.label;map.setView([lat,lon],9);fetchWeather(lat,lon,state.origin.label,true);render()}
 function applyCoords(){const m=$("manualCoords").value.match(/(-?\d+(\.\d+)?)\s*,\s*(-?\d+(\.\d+)?)/);if(m){state.origin={lat:Number(m[1]),lon:Number(m[3]),label:"coordinate manuali"};$("originStatus").textContent="Partenza: coordinate manuali";map.setView([state.origin.lat,state.origin.lon],9);fetchWeather(state.origin.lat,state.origin.lon,"coordinate manuali",true);render()}}
 function locate(){if(!navigator.geolocation){alert("Geolocalizzazione non disponibile");return}navigator.geolocation.getCurrentPosition(pos=>{state.origin={lat:pos.coords.latitude,lon:pos.coords.longitude,label:"GPS preciso"};$("useGps").classList.add("active");$("useBase").classList.remove("active");$("useManual").classList.remove("active");$("manualOriginBox").classList.add("hidden");$("originStatus").textContent="Partenza: GPS preciso";if(!userMarker)userMarker=L.circleMarker([state.origin.lat,state.origin.lon],{radius:8,color:"#fff",fillColor:"#ef4444",fillOpacity:1}).addTo(map).bindPopup("Sei qui");else userMarker.setLatLng([state.origin.lat,state.origin.lon]);map.setView([state.origin.lat,state.origin.lon],10);fetchWeather(state.origin.lat,state.origin.lon,"la tua posizione",true);render()},()=>alert("Non riesco a leggere la posizione. Controlla i permessi."),{enableHighAccuracy:true,timeout:12000,maximumAge:60000})}
@@ -241,7 +241,89 @@ function windDir(deg){if(deg==null)return"-";return["N","NE","E","SE","S","SW","
 async function fetchWeather(lat,lon,label,update){try{let r=await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,wind_speed_10m,wind_direction_10m,weather_code&forecast_days=1&timezone=auto`);let d=await r.json();let c=d.current||{};let sp=Math.round(c.wind_speed_10m||0);let wl=weatherLabelFromCode(c.weather_code);state.weatherIcon=wl.icon;state.weatherLabel=wl.label;state.weatherCode=c.weather_code;state.temp=c.temperature_2m;state.windKmh=sp;state.autoWind=windName(c.wind_direction_10m,sp);state.wind=state.autoWind;$("weatherText").innerHTML=`<b>${label}</b>: ${wl.icon} ${wl.label} · ${Math.round(c.temperature_2m)}°C · vento ${sp} km/h da ${windDir(c.wind_direction_10m)} · ${state.autoWind}`;fetchMarine(lat,lon)}catch(e){$("weatherText").textContent="Meteo non disponibile"}}
 async function fetchMarine(lat,lon){try{let r=await fetch(`https://marine-api.open-meteo.com/v1/marine?latitude=${lat}&longitude=${lon}&current=wave_height,sea_surface_temperature&forecast_days=1&timezone=auto`);let d=await r.json();let c=d.current||{};marine.wave=c.wave_height??null;marine.water=c.sea_surface_temperature??null;$("marineText").innerHTML=`Mare: ${c.wave_height!=null?c.wave_height+" m onde":"onde n/d"}${c.sea_surface_temperature!=null?" · acqua "+Math.round(c.sea_surface_temperature)+"°C":""}`;render()}catch(e){$("marineText").textContent="Meteo marino non disponibile";render()}}
 function chatSend(){const t=$("chatInput").value.trim();if(!t)return;$("chatLog").innerHTML+=`<div class="user">${t}</div>`;$("chatInput").value="";const s=t.toLowerCase();state.query=s;$("textSearch").value=s;if(s.match(/snork|pesci|polp|maschera/))setMode("snorkel");else if(s.match(/wow|bello|turchese|cristall/))setMode("wow");else setMode("balanced");const mins=s.match(/(\d+)\s*(min|minuti|ora|ore|h)/);if(mins){let n=Number(mins[1]);if(s.includes("ora")||s.includes("ore")||s.includes("h"))n*=60;state.driveMax=n;$("driveMax").value=Math.min(260,n);$("driveLabel").textContent=n+" min"}const top=results().slice(0,3);$("chatLog").innerHTML+=`<div class="bot">Ok, ti ho aggiornato la ricerca. Ti direi:<br><br>${top.map((p,i)=>`${i+1}. <b>${p.name}</b> · 🚗 ${p.driveMin} min · 🤿 ${p.snorkeling}/10 · WOW ${p.wow}/10<br><small>${why(p)}. Snorkeling AI dice: pesci ${p.snorkelingAI?.fishProbability||"--"}%, fondale ${p.snorkelingAI?.bottom||"-"}.</small>`).join("<br><br>")}<br><br>Puoi continuare con “più vicino”, “meno camminata”, “voglio polpi”, “più mare wow”, “meglio per principianti”.</div>`;$("chatLog").scrollTop=$("chatLog").scrollHeight;render()}
-function bind(){document.querySelectorAll(".mode").forEach(b=>b.addEventListener("click",()=>setMode(b.dataset.mode)));document.querySelectorAll(".bottomnav button[data-mode]").forEach(b=>b.addEventListener("click",()=>{setMode(b.dataset.mode);window.scrollTo({top:0,behavior:"smooth"})}));$("navCompare")?.addEventListener("click",()=>document.querySelector(".compare-card")?.scrollIntoView({behavior:"smooth"}));$("clearCompareBtn")?.addEventListener("click",clearCompare);$("navFavorites")?.addEventListener("click",()=>document.querySelector(".favorites-card")?.scrollIntoView({behavior:"smooth"}));$("showFavoritesBtn")?.addEventListener("click",()=>renderFavorites());$("navChat").addEventListener("click",()=>document.querySelector(".assistant-card").scrollIntoView({behavior:"smooth"}));$("useBase").addEventListener("click",()=>setOrigin("base"));$("useGps").addEventListener("click",()=>setOrigin("gps"));$("useManual").addEventListener("click",()=>setOrigin("manual"));$("originPreset").addEventListener("change",applyPreset);$("manualCoords").addEventListener("change",applyCoords);$("driveMax").addEventListener("input",()=>{state.driveMax=Number($("driveMax").value);$("driveLabel").textContent=state.driveMax+" min";render()});$("walkMax").addEventListener("input",()=>{state.walkMax=Number($("walkMax").value);$("walkLabel").textContent=state.walkMax+" min";render()});$("textSearch").addEventListener("input",()=>{state.query=$("textSearch").value;render()});$("sortMode").addEventListener("input",()=>{state.sort=$("sortMode").value;render()});["quietOnly","localOnly","meteoAiOnly","recommendedOnly","withinDriveOnly","favoritesOnly","hideVisited"].forEach(id=>$(id).addEventListener("change",()=>{state[id]=$(id).checked;render()}));$("refreshWeather").addEventListener("click",()=>fetchWeather(state.origin.lat,state.origin.lon,state.origin.label||"partenza",true));$("todayBtn").addEventListener("click",today);$("closeDialog").addEventListener("click",()=>$("placeDialog").close());$("chatSend").addEventListener("click",chatSend);$("chatInput").addEventListener("keydown",e=>{if(e.key==="Enter")chatSend()})}
+function bind(){document.querySelectorAll(".mode").forEach(b=>b.addEventListener("click",()=>setMode(b.dataset.mode)));document.querySelectorAll(".bottomnav button[data-mode]").forEach(b=>b.addEventListener("click",()=>{setMode(b.dataset.mode);window.scrollTo({top:0,behavior:"smooth"})}));$("navCompare")?.addEventListener("click",()=>document.querySelector(".compare-card")?.scrollIntoView({behavior:"smooth"}));$("clearCompareBtn")?.addEventListener("click",clearCompare);$("navFavorites")?.addEventListener("click",()=>document.querySelector(".favorites-card")?.scrollIntoView({behavior:"smooth"}));$("showFavoritesBtn")?.addEventListener("click",()=>renderFavorites());$("navChat").addEventListener("click",()=>document.querySelector(".assistant-card").scrollIntoView({behavior:"smooth"}));$("useBase").addEventListener("click",()=>setOrigin("base"));$("useGps").addEventListener("click",()=>setOrigin("gps"));$("useManual").addEventListener("click",()=>setOrigin("manual"));$("originPreset").addEventListener("change",applyPreset);$("manualCoords").addEventListener("change",applyCoords);$("driveMax").addEventListener("input",()=>{state.driveMax=Number($("driveMax").value);$("driveLabel").textContent=state.driveMax+" min";render()});$("walkMax").addEventListener("input",()=>{state.walkMax=Number($("walkMax").value);$("walkLabel").textContent=state.walkMax+" min";render()});$("textSearch").addEventListener("input",()=>{state.query=$("textSearch").value;render()});$("sortMode").addEventListener("input",()=>{state.sort=$("sortMode").value;render()});["quietOnly","localOnly","meteoAiOnly","recommendedOnly","withinDriveOnly","favoritesOnly","hideVisited"].forEach(id=>$(id).addEventListener("change",()=>{state[id]=$(id).checked;render()}));$("refreshWeather").addEventListener("click",()=>fetchWeather(state.origin.lat,state.origin.lon,state.origin.label||"partenza",true));$("todayBtn").addEventListener("click",today);$("manualUpdateBtn")?.addEventListener("click",()=>checkForAppUpdate(true));$("doUpdateBtn")?.addEventListener("click",safeUpdateNow);$("skipUpdateBtn")?.addEventListener("click",()=>$("updateOverlay")?.classList.add("hidden"));$("closeDialog").addEventListener("click",()=>$("placeDialog").close());$("chatSend").addEventListener("click",chatSend);$("chatInput").addEventListener("keydown",e=>{if(e.key==="Enter")chatSend()})}
+
+const APP_VERSION_CODE = 21;
+function collectPersonalData(){
+  const favorites={},visited={},notes={};
+  PLACES.forEach(p=>{
+    if(p.favorite)favorites[p.id]=true;
+    if(p.visited)visited[p.id]=true;
+    if(p.personalNote)notes[p.id]=p.personalNote;
+  });
+  return {version:window.APP_META?.version||"21", savedAt:new Date().toISOString(), favorites, visited, notes};
+}
+function applyPersonalData(data){
+  if(!data)return;
+  PLACES.forEach(p=>{
+    if(data.favorites?.[p.id])p.favorite=true;
+    if(data.visited?.[p.id])p.visited=true;
+    if(data.notes?.[p.id])p.personalNote=data.notes[p.id];
+  });
+}
+function saveUpdateBackup(){
+  try{
+    const data=collectPersonalData();
+    const raw=JSON.stringify(data);
+    localStorage.setItem("sardegna-safe-backup", raw);
+    sessionStorage.setItem("sardegna-safe-backup", raw);
+  }catch(e){}
+}
+function restoreUpdateBackup(){
+  try{
+    const raw=sessionStorage.getItem("sardegna-safe-backup")||localStorage.getItem("sardegna-safe-backup");
+    if(!raw)return;
+    applyPersonalData(JSON.parse(raw));
+    saveLocal();
+    sessionStorage.removeItem("sardegna-safe-backup");
+    localStorage.removeItem("sardegna-safe-backup");
+  }catch(e){}
+}
+async function clearAppCachesOnly(){
+  if("serviceWorker" in navigator){
+    const regs=await navigator.serviceWorker.getRegistrations();
+    await Promise.all(regs.map(r=>r.unregister()));
+  }
+  if(window.caches){
+    const keys=await caches.keys();
+    await Promise.all(keys.filter(k=>k.startsWith("sardegna-explorer")).map(k=>caches.delete(k)));
+  }
+}
+async function safeUpdateNow(){
+  const ok=confirm("Aggiorno l'app. Preferiti, visitati e note resteranno salvati. Continuo?");
+  if(!ok)return;
+  saveUpdateBackup();
+  try{
+    await clearAppCachesOnly();
+  }catch(e){}
+  const url=new URL(window.location.href);
+  url.searchParams.set("v", String(APP_VERSION_CODE));
+  url.searchParams.set("t", Date.now().toString());
+  window.location.replace(url.toString());
+}
+function showUpdatePrompt(versionInfo){
+  const overlay=document.getElementById("updateOverlay");
+  const txt=document.getElementById("updateText");
+  if(!overlay)return;
+  if(txt)txt.textContent=`È disponibile ${versionInfo?.version || "una nuova versione"} dell'app.`;
+  overlay.classList.remove("hidden");
+}
+async function checkForAppUpdate(manual=false){
+  try{
+    const res=await fetch(`version.json?t=${Date.now()}`, {cache:"no-store"});
+    if(!res.ok)throw new Error("no version");
+    const info=await res.json();
+    const remote=Number(info.versionCode||0);
+    if(remote>APP_VERSION_CODE || manual){
+      if(remote>APP_VERSION_CODE) showUpdatePrompt(info);
+      else if(manual) alert("Se hai appena caricato nuovi file e vedi ancora una vecchia versione, premi OK nella prossima schermata per forzare aggiornamento.");
+    }
+    if(manual) safeUpdateNow();
+  }catch(e){
+    if(manual) safeUpdateNow();
+  }
+}
+
 let deferredPrompt;window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredPrompt=e;$("installBtn").classList.remove("hidden")});$("installBtn")?.addEventListener("click",async()=>{if(deferredPrompt){deferredPrompt.prompt();deferredPrompt=null;$("installBtn").classList.add("hidden")}});
 if("serviceWorker"in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js"));
-loadLocal();initMap();bind();fetchWeather(BASE.lat,BASE.lon,"La Caletta",true);
+loadLocal();restoreUpdateBackup();initMap();bind();fetchWeather(BASE.lat,BASE.lon,"La Caletta",true);setTimeout(()=>checkForAppUpdate(false),1200);

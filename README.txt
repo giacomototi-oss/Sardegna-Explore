@@ -1,16 +1,26 @@
-Sardegna Explorer PWA v20 AI Score + Confronto
+Sardegna Explorer PWA v21 Auto Update Safe
 
 Totale luoghi: 388
 
 Novità:
-- AI Score da 100 con dettaglio in 10 categorie.
-- Confronto spiagge fino a 3.
-- Parcheggio AI dentro ogni scheda.
-- Affollamento AI dentro ogni scheda, con fasce orarie.
-- Cosa puoi vedere: pesci/fauna con stelle.
-- Badge nei primi risultati: migliore, alternativa, da tenere d'occhio.
-- Mantiene v19: consigliati, snorkeling AI, meteo AI, solo local, preferiti, foto, Maps/Waze.
+- Controllo aggiornamenti tramite version.json.
+- Popup “Aggiornamento disponibile”.
+- Pulsante in alto “🔄 Aggiorna”.
+- Aggiornamento sicuro:
+  prima salva preferiti, visitati e note;
+  poi pulisce cache/service worker;
+  poi ricarica l’app;
+  al riavvio ripristina i dati personali.
+- Non cancella localStorage, elimina solo cache PWA.
+
+Mantiene v20:
+AI Score 100, confronto, parcheggio AI, affollamento AI, cosa puoi vedere, consigliati, snorkeling AI, meteo AI, solo local.
 
 Aggiorna GitHub:
 Sostituisci tutti i file nella root e apri:
-https://giacomototi-oss.github.io/Sardegna-Explore/?v=20
+https://giacomototi-oss.github.io/Sardegna-Explore/?v=21
+
+Per aggiornamenti futuri:
+1. carichi i nuovi file su GitHub;
+2. apri l’app;
+3. premi “🔄 Aggiorna” oppure aspetti il popup.

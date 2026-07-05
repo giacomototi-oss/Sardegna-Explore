@@ -1,15 +1,16 @@
-Sardegna Explorer PWA v19 Consigliati
+Sardegna Explorer PWA v20 AI Score + Confronto
 
 Totale luoghi: 388
-Nuovi luoghi aggiunti: 30
 
 Novità:
-- Filtro selezionabile “consigliati”.
-- Premia luoghi più citati/celebrati, più belli, più interessanti per snorkeling e local ben segnalati.
-- Badge nei risultati: Super consigliata / Consigliata / Buona fama.
-- Aggiunti altri luoghi famosi e local in Costa Paradiso, Stintino, Alghero/Capo Caccia, Bosa, Costa Verde, Carloforte, Chia, Capo Ferrato, Ogliastra e Golfo di Orosei.
-- Mantiene v18: Snorkeling AI, Meteo AI, Solo local, Preferiti, Foto, Maps/Waze.
+- AI Score da 100 con dettaglio in 10 categorie.
+- Confronto spiagge fino a 3.
+- Parcheggio AI dentro ogni scheda.
+- Affollamento AI dentro ogni scheda, con fasce orarie.
+- Cosa puoi vedere: pesci/fauna con stelle.
+- Badge nei primi risultati: migliore, alternativa, da tenere d'occhio.
+- Mantiene v19: consigliati, snorkeling AI, meteo AI, solo local, preferiti, foto, Maps/Waze.
 
 Aggiorna GitHub:
 Sostituisci tutti i file nella root e apri:
-https://giacomototi-oss.github.io/Sardegna-Explore/?v=19
+https://giacomototi-oss.github.io/Sardegna-Explore/?v=20

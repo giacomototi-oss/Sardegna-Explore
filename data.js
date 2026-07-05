@@ -54,7 +54,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.4
+    "recommendedScore": 7.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0002",
@@ -111,7 +143,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.6
+    "recommendedScore": 7.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0003",
@@ -168,7 +232,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.2
+    "recommendedScore": 6.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0004",
@@ -225,7 +321,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.1
+    "recommendedScore": 6.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0005",
@@ -284,7 +412,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.6
+    "recommendedScore": 7.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0006",
@@ -342,7 +502,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0007",
@@ -402,7 +594,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.7
+    "recommendedScore": 7.7,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0008",
@@ -461,7 +685,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.2
+    "recommendedScore": 6.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0009",
@@ -519,7 +775,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0010",
@@ -576,7 +864,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.6
+    "recommendedScore": 7.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0011",
@@ -634,7 +954,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.4
+    "recommendedScore": 6.4,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0012",
@@ -692,7 +1044,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0013",
@@ -751,7 +1135,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0014",
@@ -809,7 +1225,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0015",
@@ -875,7 +1323,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 10,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 18,
+        "12": 26,
+        "15": 30,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0016",
@@ -940,7 +1420,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 10,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 18,
+        "12": 26,
+        "15": 30,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0017",
@@ -998,7 +1510,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0018",
@@ -1065,7 +1609,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.0
+    "recommendedScore": 9.0,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0019",
@@ -1126,7 +1702,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0020",
@@ -1192,7 +1800,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 10,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 18,
+        "12": 26,
+        "15": 30,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0021",
@@ -1257,7 +1897,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 10,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 18,
+        "12": 26,
+        "15": 30,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0022",
@@ -1318,7 +1990,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0023",
@@ -1385,7 +2089,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.0
+    "recommendedScore": 9.0,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0024",
@@ -1453,7 +2189,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.3
+    "recommendedScore": 9.3,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 46,
+      "label": "media",
+      "hourly": {
+        "08": 11,
+        "09": 21,
+        "10": 36,
+        "11": 54,
+        "12": 62,
+        "15": 66,
+        "18": 28
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0025",
@@ -1523,7 +2291,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.6
+    "recommendedScore": 9.6,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0026",
@@ -1593,7 +2393,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.4
+    "recommendedScore": 9.4,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0027",
@@ -1663,7 +2495,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.3
+    "recommendedScore": 9.3,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0028",
@@ -1725,7 +2589,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0029",
@@ -1790,7 +2686,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 10,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 18,
+        "12": 26,
+        "15": 30,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0030",
@@ -1847,7 +2775,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.3
+    "recommendedScore": 6.3,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0031",
@@ -1915,7 +2875,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.3
+    "recommendedScore": 9.3,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 46,
+      "label": "media",
+      "hourly": {
+        "08": 11,
+        "09": 21,
+        "10": 36,
+        "11": 54,
+        "12": 62,
+        "15": 66,
+        "18": 28
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0032",
@@ -1983,7 +2975,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.0
+    "recommendedScore": 9.0,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "anche metà mattina",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 46,
+      "label": "media",
+      "hourly": {
+        "08": 11,
+        "09": 21,
+        "10": 36,
+        "11": 54,
+        "12": 62,
+        "15": 66,
+        "18": 28
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0033",
@@ -2054,7 +3078,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.6
+    "recommendedScore": 9.6,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0034",
@@ -2112,7 +3168,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.8
+    "recommendedScore": 7.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0035",
@@ -2181,7 +3269,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0036",
@@ -2238,7 +3358,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.2
+    "recommendedScore": 7.2,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0037",
@@ -2306,7 +3458,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.0
+    "recommendedScore": 9.0,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0038",
@@ -2377,7 +3561,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0039",
@@ -2446,7 +3662,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.3
+    "recommendedScore": 9.3,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0040",
@@ -2515,7 +3763,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0041",
@@ -2584,7 +3864,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0042",
@@ -2645,7 +3957,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0043",
@@ -2709,7 +4053,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0044",
@@ -2776,7 +4152,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.0
+    "recommendedScore": 9.0,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0045",
@@ -2833,7 +4241,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.6
+    "recommendedScore": 7.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0046",
@@ -2890,7 +4330,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.0
+    "recommendedScore": 6.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0047",
@@ -2947,7 +4419,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.2
+    "recommendedScore": 6.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0048",
@@ -3014,7 +4518,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 10,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 18,
+        "12": 26,
+        "15": 30,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0049",
@@ -3075,7 +4611,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0050",
@@ -3132,7 +4700,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.7
+    "recommendedScore": 7.7,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0051",
@@ -3198,7 +4798,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0052",
@@ -3255,7 +4887,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.7
+    "recommendedScore": 7.7,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0053",
@@ -3316,7 +4980,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.8
+    "recommendedScore": 7.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0054",
@@ -3382,7 +5078,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0055",
@@ -3447,7 +5175,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0056",
@@ -3509,7 +5269,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0057",
@@ -3574,7 +5366,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0058",
@@ -3641,7 +5465,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0059",
@@ -3705,7 +5561,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0060",
@@ -3769,7 +5657,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0061",
@@ -3827,7 +5747,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 5.9
+    "recommendedScore": 5.9,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 8:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0062",
@@ -3886,7 +5838,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0063",
@@ -3947,7 +5931,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0064",
@@ -4005,7 +6021,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.4
+    "recommendedScore": 7.4,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 8:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0065",
@@ -4072,7 +6120,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0066",
@@ -4138,7 +6218,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0067",
@@ -4206,7 +6318,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0068",
@@ -4267,7 +6411,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0069",
@@ -4336,7 +6512,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0070",
@@ -4403,7 +6611,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.0
+    "recommendedScore": 9.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0071",
@@ -4465,7 +6705,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0072",
@@ -4527,7 +6799,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0073",
@@ -4584,7 +6888,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.2
+    "recommendedScore": 6.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0074",
@@ -4649,7 +6985,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0075",
@@ -4713,7 +7081,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0076",
@@ -4782,7 +7182,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0077",
@@ -4847,7 +7279,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0078",
@@ -4908,7 +7372,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 8:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0079",
@@ -4969,7 +7465,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0080",
@@ -5032,7 +7560,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0081",
@@ -5094,7 +7654,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0082",
@@ -5151,7 +7743,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.5
+    "recommendedScore": 6.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0083",
@@ -5215,7 +7839,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0084",
@@ -5280,7 +7936,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0085",
@@ -5342,7 +8030,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0086",
@@ -5404,7 +8124,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0087",
@@ -5461,7 +8213,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.1
+    "recommendedScore": 6.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0088",
@@ -5519,7 +8303,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.2
+    "recommendedScore": 6.2,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0089",
@@ -5588,7 +8404,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 38,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 13,
+        "10": 28,
+        "11": 46,
+        "12": 54,
+        "15": 58,
+        "18": 20
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0090",
@@ -5653,7 +8501,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0091",
@@ -5716,7 +8596,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0092",
@@ -5776,7 +8688,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.8
+    "recommendedScore": 7.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0093",
@@ -5842,7 +8786,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0094",
@@ -5911,7 +8887,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 96,
+      "label": "pienissima",
+      "hourly": {
+        "08": 61,
+        "09": 71,
+        "10": 86,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 78
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0095",
@@ -5975,7 +8983,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0096",
@@ -6038,7 +9078,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0097",
@@ -6099,7 +9171,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0098",
@@ -6163,7 +9267,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0099",
@@ -6228,7 +9364,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0100",
@@ -6285,7 +9453,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.2
+    "recommendedScore": 6.2,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0101",
@@ -6354,7 +9554,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0102",
@@ -6422,7 +9654,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.0
+    "recommendedScore": 9.0,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0103",
@@ -6488,7 +9752,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0104",
@@ -6555,7 +9851,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0105",
@@ -6619,7 +9947,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0106",
@@ -6687,7 +10047,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0107",
@@ -6749,7 +10141,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0108",
@@ -6817,7 +10241,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0109",
@@ -6876,7 +10332,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0110",
@@ -6933,7 +10421,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.0
+    "recommendedScore": 6.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0111",
@@ -6992,7 +10512,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0112",
@@ -7056,7 +10608,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 34,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 9,
+        "10": 24,
+        "11": 42,
+        "12": 50,
+        "15": 54,
+        "18": 16
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0113",
@@ -7113,7 +10697,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.3
+    "recommendedScore": 6.3,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0114",
@@ -7170,7 +10786,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.4
+    "recommendedScore": 6.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0115",
@@ -7239,7 +10887,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0116",
@@ -7303,7 +10983,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0117",
@@ -7369,7 +11081,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0118",
@@ -7428,7 +11172,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.6
+    "recommendedScore": 7.6,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0119",
@@ -7487,7 +11263,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.5
+    "recommendedScore": 9.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0120",
@@ -7544,7 +11352,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0121",
@@ -7602,7 +11442,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0122",
@@ -7664,7 +11536,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0123",
@@ -7722,7 +11626,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0124",
@@ -7781,7 +11717,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0125",
@@ -7844,7 +11812,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0126",
@@ -7907,7 +11907,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0127",
@@ -7974,7 +12006,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0128",
@@ -8042,7 +12106,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0129",
@@ -8107,7 +12203,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0130",
@@ -8170,7 +12298,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0131",
@@ -8233,7 +12393,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0132",
@@ -8291,7 +12483,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0133",
@@ -8349,7 +12573,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.7
+    "recommendedScore": 7.7,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0134",
@@ -8416,7 +12672,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0135",
@@ -8483,7 +12771,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0136",
@@ -8553,7 +12873,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0137",
@@ -8622,7 +12974,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0138",
@@ -8680,7 +13064,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0139",
@@ -8742,7 +13158,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0140",
@@ -8801,7 +13249,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0141",
@@ -8864,7 +13344,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0142",
@@ -8923,7 +13435,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.8
+    "recommendedScore": 7.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0143",
@@ -8992,7 +13536,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 96,
+      "label": "pienissima",
+      "hourly": {
+        "08": 61,
+        "09": 71,
+        "10": 86,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 78
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0144",
@@ -9061,7 +13637,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 96,
+      "label": "pienissima",
+      "hourly": {
+        "08": 61,
+        "09": 71,
+        "10": 86,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 78
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0145",
@@ -9130,7 +13738,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0146",
@@ -9199,7 +13839,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0147",
@@ -9268,7 +13940,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0148",
@@ -9337,7 +14041,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.1
+    "recommendedScore": 9.1,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0149",
@@ -9403,7 +14139,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0150",
@@ -9463,7 +14231,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0151",
@@ -9527,7 +14327,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0152",
@@ -9593,7 +14425,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0153",
@@ -9655,7 +14519,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0154",
@@ -9715,7 +14611,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.6
+    "recommendedScore": 6.6,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0155",
@@ -9785,7 +14713,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0156",
@@ -9855,7 +14815,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.1
+    "recommendedScore": 9.1,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 4,
+      "polpi": 2,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0157",
@@ -9920,7 +14912,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0158",
@@ -9986,7 +15010,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0159",
@@ -10049,7 +15105,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0160",
@@ -10107,7 +15195,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.3
+    "recommendedScore": 6.3,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0161",
@@ -10164,7 +15284,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.2
+    "recommendedScore": 6.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0162",
@@ -10223,7 +15375,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0163",
@@ -10282,7 +15466,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0164",
@@ -10344,7 +15560,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0165",
@@ -10406,7 +15654,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0166",
@@ -10468,7 +15748,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0167",
@@ -10532,7 +15844,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0168",
@@ -10598,7 +15942,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0169",
@@ -10662,7 +16038,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0170",
@@ -10721,7 +16129,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.8
+    "recommendedScore": 7.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0171",
@@ -10780,7 +16220,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0172",
@@ -10837,7 +16309,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 6.4
+    "recommendedScore": 6.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0173",
@@ -10902,7 +16406,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0174",
@@ -10973,7 +16509,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0175",
@@ -11038,7 +16606,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0176",
@@ -11100,7 +16700,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0177",
@@ -11162,7 +16794,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0178",
@@ -11220,7 +16884,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0179",
@@ -11286,7 +16982,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0180",
@@ -11349,7 +17077,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0181",
@@ -11411,7 +17171,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0182",
@@ -11470,7 +17262,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0183",
@@ -11538,7 +17362,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.0
+    "recommendedScore": 9.0,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0184",
@@ -11605,7 +17461,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0185",
@@ -11672,7 +17560,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0186",
@@ -11736,7 +17656,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0187",
@@ -11803,7 +17755,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0188",
@@ -11862,7 +17846,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0189",
@@ -11919,7 +17935,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0190",
@@ -11981,7 +18029,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0191",
@@ -12040,7 +18120,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0192",
@@ -12102,7 +18214,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0193",
@@ -12164,7 +18308,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0194",
@@ -12234,7 +18410,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 86,
+      "label": "pienissima",
+      "hourly": {
+        "08": 51,
+        "09": 61,
+        "10": 76,
+        "11": 94,
+        "12": 98,
+        "15": 98,
+        "18": 68
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0195",
@@ -12303,7 +18511,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 86,
+      "label": "pienissima",
+      "hourly": {
+        "08": 51,
+        "09": 61,
+        "10": 76,
+        "11": 94,
+        "12": 98,
+        "15": 98,
+        "18": 68
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0196",
@@ -12365,7 +18605,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0197",
@@ -12427,7 +18699,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0198",
@@ -12496,7 +18800,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 86,
+      "label": "pienissima",
+      "hourly": {
+        "08": 51,
+        "09": 61,
+        "10": 76,
+        "11": 94,
+        "12": 98,
+        "15": 98,
+        "18": 68
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0199",
@@ -12565,7 +18901,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 86,
+      "label": "pienissima",
+      "hourly": {
+        "08": 51,
+        "09": 61,
+        "10": 76,
+        "11": 94,
+        "12": 98,
+        "15": 98,
+        "18": 68
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0200",
@@ -12627,7 +18995,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0201",
@@ -12686,7 +19086,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0202",
@@ -12745,7 +19177,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0203",
@@ -12804,7 +19268,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0204",
@@ -12863,7 +19359,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0205",
@@ -12922,7 +19450,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0206",
@@ -12981,7 +19541,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0207",
@@ -13047,7 +19639,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 60,
+      "label": "media",
+      "hourly": {
+        "08": 25,
+        "09": 35,
+        "10": 50,
+        "11": 68,
+        "12": 76,
+        "15": 80,
+        "18": 42
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0208",
@@ -13114,7 +19738,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 60,
+      "label": "media",
+      "hourly": {
+        "08": 25,
+        "09": 35,
+        "10": 50,
+        "11": 68,
+        "12": 76,
+        "15": 80,
+        "18": 42
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0209",
@@ -13177,7 +19833,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0210",
@@ -13245,7 +19933,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0211",
@@ -13312,7 +20032,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0212",
@@ -13376,7 +20128,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0213",
@@ -13443,7 +20227,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0214",
@@ -13502,7 +20318,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0215",
@@ -13561,7 +20409,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0216",
@@ -13619,7 +20499,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0217",
@@ -13678,7 +20590,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0218",
@@ -13744,7 +20688,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0219",
@@ -13809,7 +20785,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0220",
@@ -13867,7 +20875,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0221",
@@ -13925,7 +20965,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0222",
@@ -13989,7 +21061,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0223",
@@ -14048,7 +21152,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0224",
@@ -14106,7 +21242,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0225",
@@ -14164,7 +21332,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0226",
@@ -14222,7 +21422,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0227",
@@ -14280,7 +21512,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0228",
@@ -14338,7 +21602,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0229",
@@ -14397,7 +21693,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0230",
@@ -14456,7 +21784,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.8
+    "recommendedScore": 7.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0231",
@@ -14515,7 +21875,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0232",
@@ -14573,7 +21965,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0233",
@@ -14636,7 +22060,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0234",
@@ -14698,7 +22154,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0235",
@@ -14756,7 +22244,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0236",
@@ -14818,7 +22338,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0237",
@@ -14877,7 +22429,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0238",
@@ -14936,7 +22520,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0239",
@@ -14994,7 +22610,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0240",
@@ -15053,7 +22701,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0241",
@@ -15111,7 +22791,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0242",
@@ -15169,7 +22881,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0243",
@@ -15228,7 +22972,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0244",
@@ -15286,7 +23062,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0245",
@@ -15344,7 +23152,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0246",
@@ -15408,7 +23248,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0247",
@@ -15474,7 +23346,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0248",
@@ -15533,7 +23437,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0249",
@@ -15591,7 +23527,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0250",
@@ -15651,7 +23619,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0251",
@@ -15714,7 +23714,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0252",
@@ -15773,7 +23805,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0253",
@@ -15834,7 +23898,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0254",
@@ -15895,7 +23991,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0255",
@@ -15959,7 +24087,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0256",
@@ -16018,7 +24178,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0257",
@@ -16076,7 +24268,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0258",
@@ -16135,7 +24359,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0259",
@@ -16194,7 +24450,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0260",
@@ -16252,7 +24540,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0261",
@@ -16311,7 +24631,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 28,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 18,
+        "11": 36,
+        "12": 44,
+        "15": 48,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0262",
@@ -16369,7 +24721,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0263",
@@ -16428,7 +24812,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0264",
@@ -16487,7 +24903,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0265",
@@ -16545,7 +24993,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0266",
@@ -16608,7 +25088,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0267",
@@ -16668,7 +25180,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0268",
@@ -16731,7 +25275,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0269",
@@ -16789,7 +25365,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0270",
@@ -16847,7 +25455,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0271",
@@ -16911,7 +25551,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0272",
@@ -16969,7 +25641,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0273",
@@ -17028,7 +25732,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0274",
@@ -17086,7 +25822,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0275",
@@ -17150,7 +25918,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0276",
@@ -17208,7 +26008,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0277",
@@ -17270,7 +26102,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0278",
@@ -17336,7 +26200,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 8:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 96,
+      "label": "pienissima",
+      "hourly": {
+        "08": 61,
+        "09": 71,
+        "10": 86,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 78
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0279",
@@ -17396,7 +26292,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0280",
@@ -17458,7 +26386,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0281",
@@ -17520,7 +26480,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0282",
@@ -17579,7 +26571,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.5
+    "recommendedScore": 7.5,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0283",
@@ -17641,7 +26665,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0284",
@@ -17699,7 +26755,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0285",
@@ -17762,7 +26850,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0286",
@@ -17824,7 +26944,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0287",
@@ -17883,7 +27035,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0288",
@@ -17942,7 +27126,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0289",
@@ -18001,7 +27217,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0290",
@@ -18064,7 +27312,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0291",
@@ -18128,7 +27408,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 88,
+      "label": "pienissima",
+      "hourly": {
+        "08": 53,
+        "09": 63,
+        "10": 78,
+        "11": 96,
+        "12": 98,
+        "15": 98,
+        "18": 70
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0292",
@@ -18187,7 +27499,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0293",
@@ -18246,7 +27590,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0294",
@@ -18310,7 +27686,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0295",
@@ -18369,7 +27777,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0296",
@@ -18427,7 +27867,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0297",
@@ -18485,7 +27957,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0298",
@@ -18548,7 +28052,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0299",
@@ -18612,7 +28148,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0300",
@@ -18676,7 +28244,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0301",
@@ -18733,7 +28333,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0302",
@@ -18789,7 +28421,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0303",
@@ -18847,7 +28511,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.8
+    "recommendedScore": 7.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0304",
@@ -18906,7 +28602,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0305",
@@ -18964,7 +28692,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0306",
@@ -19024,7 +28784,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0307",
@@ -19083,7 +28875,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0308",
@@ -19141,7 +28965,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0309",
@@ -19201,7 +29057,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0310",
@@ -19259,7 +29147,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0311",
@@ -19317,7 +29237,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0312",
@@ -19381,7 +29333,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0313",
@@ -19443,7 +29427,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0314",
@@ -19506,7 +29522,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0315",
@@ -19564,7 +29612,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0316",
@@ -19630,7 +29710,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0317",
@@ -19690,7 +29802,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 78,
+      "label": "affollata",
+      "hourly": {
+        "08": 43,
+        "09": 53,
+        "10": 68,
+        "11": 86,
+        "12": 94,
+        "15": 98,
+        "18": 60
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0318",
@@ -19752,7 +29896,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0319",
@@ -19810,7 +29986,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.0
+    "recommendedScore": 8.0,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0320",
@@ -19870,7 +30078,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0321",
@@ -19928,7 +30168,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0322",
@@ -19990,7 +30262,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0323",
@@ -20048,7 +30352,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0324",
@@ -20106,7 +30442,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.3
+    "recommendedScore": 8.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0325",
@@ -20164,7 +30532,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 7.9
+    "recommendedScore": 7.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0326",
@@ -20229,7 +30629,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 60,
+      "label": "media",
+      "hourly": {
+        "08": 25,
+        "09": 35,
+        "10": 50,
+        "11": 68,
+        "12": 76,
+        "15": 80,
+        "18": 42
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0327",
@@ -20294,7 +30726,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 60,
+      "label": "media",
+      "hourly": {
+        "08": 25,
+        "09": 35,
+        "10": 50,
+        "11": 68,
+        "12": 76,
+        "15": 80,
+        "18": 42
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0328",
@@ -20357,7 +30821,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0329",
@@ -20415,7 +30911,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.2
+    "recommendedScore": 8.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0330",
@@ -20477,7 +31005,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0331",
@@ -20542,7 +31102,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.8
+    "recommendedScore": 8.8,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0332",
@@ -20604,7 +31196,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0333",
@@ -20663,7 +31287,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.7
+    "recommendedScore": 9.7,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0334",
@@ -20720,7 +31376,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.5
+    "recommendedScore": 9.5,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "anche metà mattina",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0335",
@@ -20777,7 +31465,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.4
+    "recommendedScore": 9.4,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "anche metà mattina",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0336",
@@ -20833,7 +31553,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.4
+    "recommendedScore": 9.4,
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0337",
@@ -20892,7 +31644,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.6
+    "recommendedScore": 9.6,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "anche metà mattina",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0338",
@@ -20947,7 +31731,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0339",
@@ -20999,7 +31815,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.5
+    "recommendedScore": 8.5,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0340",
@@ -21053,7 +31901,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0341",
@@ -21107,7 +31987,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 78,
+      "availability": "Bassa dopo le 9:30",
+      "type": "Parcheggio principale",
+      "bestArrival": "entro le 8:30",
+      "tip": "Arriva molto presto; in alta stagione il parcheggio si riempie velocemente."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0342",
@@ -21160,7 +32072,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.6
+    "recommendedScore": 8.6,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0343",
@@ -21216,7 +32160,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.5
+    "recommendedScore": 9.5,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0344",
@@ -21274,7 +32250,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.6
+    "recommendedScore": 9.6,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0345",
@@ -21330,7 +32338,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.5
+    "recommendedScore": 9.5,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0346",
@@ -21388,7 +32428,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.6
+    "recommendedScore": 9.6,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0347",
@@ -21444,7 +32516,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.9
+    "recommendedScore": 8.9,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0348",
@@ -21499,7 +32603,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.3
+    "recommendedScore": 9.3,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0349",
@@ -21547,7 +32683,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.1
+    "recommendedScore": 8.1,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0350",
@@ -21603,7 +32771,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.3
+    "recommendedScore": 9.3,
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0351",
@@ -21658,7 +32858,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.2
+    "recommendedScore": 9.2,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0352",
@@ -21714,7 +32946,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.3
+    "recommendedScore": 9.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0353",
@@ -21769,7 +33033,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.3
+    "recommendedScore": 9.3,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0354",
@@ -21820,7 +33116,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.4
+    "recommendedScore": 8.4,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0355",
@@ -21874,7 +33202,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0356",
@@ -21927,7 +33287,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 8.7
+    "recommendedScore": 8.7,
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 52,
+      "label": "media",
+      "hourly": {
+        "08": 17,
+        "09": 27,
+        "10": 42,
+        "11": 60,
+        "12": 68,
+        "15": 72,
+        "18": 34
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
+    }
   },
   {
     "id": "P0357",
@@ -21984,7 +33376,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 10
+    "recommendedScore": 10,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0358",
@@ -22041,7 +33465,39 @@ window.PLACES = [
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
     },
-    "recommendedScore": 9.1
+    "recommendedScore": 9.1,
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
+    }
   },
   {
     "id": "P0359",
@@ -22094,6 +33550,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22145,6 +33633,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22196,6 +33716,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22250,6 +33802,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22305,6 +33889,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22360,6 +33976,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22412,6 +34060,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 68,
+      "availability": "Buona ma accesso più scomodo",
+      "type": "Sterrato/sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Scarpe comode e acqua; controlla bene il sentiero."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22465,6 +34145,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22518,6 +34230,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22571,6 +34315,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22623,6 +34399,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22677,6 +34485,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "anche metà mattina",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22730,6 +34570,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22783,6 +34655,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22838,6 +34742,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22888,6 +34824,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22943,6 +34911,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -22993,6 +34993,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "entro le 9:30",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23047,6 +35079,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "entro le 9:30",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23103,6 +35167,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23158,6 +35254,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23213,6 +35341,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23268,6 +35428,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 44,
+      "label": "tranquilla",
+      "hourly": {
+        "08": 9,
+        "09": 19,
+        "10": 34,
+        "11": 52,
+        "12": 60,
+        "15": 64,
+        "18": 26
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 4,
+      "polpi": 4,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23320,6 +35512,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23372,6 +35596,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 42,
+      "availability": "Media",
+      "type": "Parcheggio vicino",
+      "bestArrival": "anche metà mattina",
+      "tip": "In stagione conviene arrivare entro le 9:30."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23425,6 +35681,38 @@ window.PLACES = [
         "donzelle"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 55,
+      "availability": "Media/Buona",
+      "type": "Parcheggio + sentiero",
+      "bestArrival": "anche metà mattina",
+      "tip": "Parcheggio spesso più gestibile, ma serve camminare un po'."
+    },
+    "crowdAI": {
+      "score": 20,
+      "label": "quasi deserta",
+      "hourly": {
+        "08": 5,
+        "09": 8,
+        "10": 15,
+        "11": 28,
+        "12": 36,
+        "15": 40,
+        "18": 10
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 4,
+      "occhiate": 4,
+      "donzelle": 4,
+      "saraghi": 1,
+      "polpi": 1,
+      "stelle marine": 1,
+      "granchi": 1,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23482,6 +35770,38 @@ window.PLACES = [
         "seppie occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 98,
+      "label": "pienissima",
+      "hourly": {
+        "08": 63,
+        "09": 73,
+        "10": 88,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 80
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
     }
   },
   {
@@ -23539,6 +35859,38 @@ window.PLACES = [
         "seppie occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 70,
+      "label": "affollata",
+      "hourly": {
+        "08": 35,
+        "09": 45,
+        "10": 60,
+        "11": 78,
+        "12": 86,
+        "15": 90,
+        "18": 52
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 3,
+      "granchi": 3,
+      "seppie": 3,
+      "ricci": 1
     }
   },
   {
@@ -23594,6 +35946,38 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 8:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 96,
+      "label": "pienissima",
+      "hourly": {
+        "08": 61,
+        "09": 71,
+        "10": 86,
+        "11": 98,
+        "12": 98,
+        "15": 98,
+        "18": 78
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
     }
   },
   {
@@ -23649,7 +36033,39 @@ window.PLACES = [
         "polpi occasionali"
       ],
       "tip": "Entra piano, resta vicino agli scogli e non toccare fondale o animali."
+    },
+    "parkingAI": {
+      "difficulty": 35,
+      "availability": "Non rilevante",
+      "type": "Porto/escursione",
+      "bestArrival": "entro le 9:30",
+      "tip": "Accesso via mare: valuta porto, escursione o gommone."
+    },
+    "crowdAI": {
+      "score": 62,
+      "label": "media",
+      "hourly": {
+        "08": 27,
+        "09": 37,
+        "10": 52,
+        "11": 70,
+        "12": 78,
+        "15": 82,
+        "18": 44
+      },
+      "reason": "Stima basata su fama del posto, accessibilità, parcheggio, stagione e livello local/famosa."
+    },
+    "marineLifeAI": {
+      "salpe": 5,
+      "occhiate": 5,
+      "donzelle": 5,
+      "saraghi": 5,
+      "polpi": 3,
+      "stelle marine": 1,
+      "granchi": 3,
+      "seppie": 1,
+      "ricci": 1
     }
   }
 ];
-window.APP_META = {version:'19.0 Consigliati', updated:'2026-07-04', totalPlaces:388};
+window.APP_META = {version:'20.0 AI Score Compare', updated:'2026-07-05', totalPlaces:388};

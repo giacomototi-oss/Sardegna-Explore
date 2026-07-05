@@ -7,7 +7,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Sardegna Explorer" />
-  <title>Sardegna Explorer v19</title>
+  <title>Sardegna Explorer v20</title>
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="apple-touch-icon" href="icons/icon-180.png" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
@@ -19,7 +19,7 @@
     <img src="icons/icon-192.png" alt="" />
     <div>
       <h1>Sardegna Explorer</h1>
-      <p>v19 · Consigliati</p>
+      <p>v20 · AI Score + Confronto</p>
     </div>
   </div>
   <button id="installBtn" class="ghost hidden">Installa</button>
@@ -131,6 +131,17 @@
   </section>
 
 
+
+  <section class="panel compare-card">
+    <div class="section-head">
+      <h3>🆚 Confronto spiagge</h3>
+      <button id="clearCompareBtn" class="ghost">Svuota</button>
+    </div>
+    <p class="muted">Aggiungi fino a 3 spiagge dai risultati e confrontale.</p>
+    <div id="compareList" class="compare-list"></div>
+    <div id="compareTable" class="compare-table-wrap"></div>
+  </section>
+
   <section class="panel favorites-card">
     <div class="section-head">
       <h3>⭐ Preferiti</h3>
@@ -162,7 +173,7 @@
   <button data-mode="balanced">⚖️<span>Bilanciato</span></button>
   <button data-mode="wow">🏖️<span>Wow</span></button>
   <button data-mode="snorkel">🤿<span>Snorkel</span></button>
-  <button id="navFavorites">⭐<span>Preferiti</span></button><button id="navChat">💬<span>AI</span></button>
+  <button id="navCompare">🆚<span>Confronta</span></button><button id="navFavorites">⭐<span>Preferiti</span></button><button id="navChat">💬<span>AI</span></button>
 </nav>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>

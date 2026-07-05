@@ -217,3 +217,29 @@ main{
   border-color:rgba(253,230,138,.48);
   color:#fff8d6;
 }
+
+/* v20 AI Score + Compare */
+.big-score{font-size:46px;font-weight:900;letter-spacing:-1px;color:#fde68a;margin:8px 0}
+.big-score span{font-size:18px;color:var(--muted)}
+.big-mini{font-size:25px;font-weight:850;margin:8px 0;color:#fff8d6}
+.score-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:10px}
+.score-grid span{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:8px;color:var(--muted);font-size:12px}
+.score-grid b{float:right;color:#fff}
+.hour-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:10px}
+.hour-grid span{background:rgba(255,255,255,.08);border-radius:14px;padding:8px;text-align:center;font-size:12px;color:var(--muted)}
+.fish-list{display:grid;grid-template-columns:repeat(2,1fr);gap:7px;margin:8px 0}
+.fish-row{display:flex;justify-content:space-between;gap:8px;background:rgba(255,255,255,.08);border-radius:14px;padding:8px;font-size:13px}
+.compare-list{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.compare-chip{display:inline-flex;align-items:center;gap:8px;background:rgba(253,230,138,.14);border:1px solid rgba(253,230,138,.32);border-radius:999px;padding:8px 10px;color:#fff8d6}
+.compare-chip button{padding:2px 8px;border-radius:999px}
+.compare-table-wrap{overflow:auto}
+.compare-table-wrap table{width:100%;border-collapse:separate;border-spacing:0 8px}
+.compare-table-wrap th,.compare-table-wrap td{padding:10px;background:rgba(255,255,255,.08);border-top:1px solid rgba(255,255,255,.10);border-bottom:1px solid rgba(255,255,255,.10);font-size:13px}
+.compare-table-wrap th:first-child,.compare-table-wrap td:first-child{border-radius:14px 0 0 14px}
+.compare-table-wrap th:last-child,.compare-table-wrap td:last-child{border-radius:0 14px 14px 0}
+.bottomnav{grid-template-columns:repeat(6,1fr)}
+@media(max-width:760px){
+  .score-grid,.fish-list{grid-template-columns:1fr}
+  .hour-grid{grid-template-columns:repeat(2,1fr)}
+  .bottomnav span{font-size:10px}
+}
